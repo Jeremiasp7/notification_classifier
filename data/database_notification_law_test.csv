@@ -1,0 +1,26 @@
+id,sentenca,classe
+2,Tarefa atribuída: redigir a contestação do caso Silva & Cia.,Tarefas e Delegações Internas
+3,O estagiário concluiu a pesquisa jurisprudencial solicitada.,Tarefas e Delegações Internas
+23,O parecer técnico foi aprovado e liberado para envio ao cliente.,Tarefas e Delegações Internas
+48,Solicitação do suporte: verificar duplicidade de cadastro do processo.,Tarefas e Delegações Internas
+50,Workflow encerrado: todas as tarefas internas deste processo foram concluídas.,Tarefas e Delegações Internas
+52,Prazo para recolhimento do preparo recursal expira amanhã.,Financeiro e Custas
+58,Taxa de desarquivamento do processo aguardando pagamento.,Financeiro e Custas
+76,Levantamento de valores realizado com sucesso. Repasse pendente.,Financeiro e Custas
+85,Custo com tradução juramentada incluído no faturamento do mês.,Financeiro e Custas
+94,Planilha de débitos judiciais atualizada com juros e correção monetária.,Financeiro e Custas
+117,Os contracheques do reclamante foram renomeados por ordem de data.,Gestão de Documentos
+128,Requerimento administrativo de pensão gerado em formato PDF/A.,Gestão de Documentos
+133,Cliente atualizou a ficha de cadastro no aplicativo do escritório.,Gestão de Documentos
+139,Declaração de imposto de renda do autor adicionada aos autos internos.,Gestão de Documentos
+148,O mandato anterior foi revogado e arquivado na pasta de inativos.,Gestão de Documentos
+152,Prazo para contestação vence em 5 dias úteis.,Prazos e Audiências
+163,"Audiência de custódia marcada para amanhã, 09h, formato presencial.",Prazos e Audiências
+178,Atenção: prazo de 5 dias para manifestação sobre novos documentos.,Prazos e Audiências
+186,Oitiva do perito marcada para a próxima terça-feira à tarde.,Prazos e Audiências
+193,Você tem uma audiência admonitória amanhã no primeiro horário.,Prazos e Audiências
+215,Redistribuição do processo por dependência à 2ª Vara de Família.,Andamentos Processuais
+221,Baixa definitiva dos autos e arquivamento concluído.,Andamentos Processuais
+223,Manifestação do perito anexada aos autos.,Andamentos Processuais
+239,Decretação de revelia da parte ré confirmada.,Andamentos Processuais
+250,Autos remetidos à contadoria judicial para cálculo.,Andamentos Processuais

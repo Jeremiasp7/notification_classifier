@@ -1,0 +1,201 @@
+id,sentenca,classe
+1,Sócio sênior delegou a revisão da petição inicial para você.,Tarefas e Delegações Internas
+4,"Por favor, revise o contrato de locação antes do envio ao cliente.",Tarefas e Delegações Internas
+5,Dra. Mariana atribuiu a você a elaboração dos embargos de declaração.,Tarefas e Delegações Internas
+6,Delegada a diligência no fórum para despachar com o juiz da 2ª Vara.,Tarefas e Delegações Internas
+7,Tarefa concluída: análise de viabilidade do recurso especial.,Tarefas e Delegações Internas
+8,Advogado pleno devolveu a minuta do acordo com apontamentos de revisão.,Tarefas e Delegações Internas
+9,Sócio solicitou um resumo do caso para a reunião com o cliente amanhã.,Tarefas e Delegações Internas
+10,"A tarefa ""Levantamento de passivo trabalhista"" foi reatribuída a você.",Tarefas e Delegações Internas
+11,Reunião de alinhamento da equipe cível marcada para hoje às 16h.,Tarefas e Delegações Internas
+12,Lembrete: comitê de avaliação de novos casos em 15 minutos na sala 3.,Tarefas e Delegações Internas
+13,O coordenador agendou um feedback individual para amanhã de manhã.,Tarefas e Delegações Internas
+14,Reunião quinzenal de produtividade da equipe reagendada para sexta-feira.,Tarefas e Delegações Internas
+15,Sócio diretor convocou todos os advogados para a reunião mensal.,Tarefas e Delegações Internas
+16,Sessão de brainstorming do caso tributário na sala de conferências.,Tarefas e Delegações Internas
+18,Discussão sobre a estratégia do recurso agendada para as 14h via Teams.,Tarefas e Delegações Internas
+19,Alerta: pauta da reunião de equipe já está disponível no portal interno.,Tarefas e Delegações Internas
+20,Sócio cancelou a reunião de acompanhamento de processos de hoje.,Tarefas e Delegações Internas
+21,Minuta do recurso de apelação enviada para revisão da coordenação.,Tarefas e Delegações Internas
+22,A petição de agravo aguarda sua aprovação final para protocolo.,Tarefas e Delegações Internas
+24,Revisão pendente: contrato social consolidado da empresa cliente.,Tarefas e Delegações Internas
+25,Sócio aprovou a estratégia de defesa proposta. Pode seguir com a peça.,Tarefas e Delegações Internas
+26,Sua peça processual foi devolvida com comentários da revisão.,Tarefas e Delegações Internas
+27,Status da tarefa alterado para 'Aguardando validação do gestor'.,Tarefas e Delegações Internas
+29,Lembrete: você tem 3 contratos pendentes de aprovação na sua fila.,Tarefas e Delegações Internas
+30,O relatório quinzenal do cliente foi validado pela diretoria.,Tarefas e Delegações Internas
+31,Tarefa criada: entrar em contato com o cliente para pedir documentos.,Tarefas e Delegações Internas
+33,Atualizar a planilha de acompanhamento do cliente corporativo.,Tarefas e Delegações Internas
+34,Solicitação interna: agendar call de alinhamento com a nova cliente.,Tarefas e Delegações Internas
+35,Responder e-mail do perito com os quesitos complementares.,Tarefas e Delegações Internas
+36,Tarefa: preencher o relatório de horas trabalhadas (timesheet) da semana.,Tarefas e Delegações Internas
+38,Setor paralegal finalizou a formatação e indexação da documentação.,Tarefas e Delegações Internas
+39,Tarefa urgente: ligar para o cartório e verificar status do ofício.,Tarefas e Delegações Internas
+40,Sócio solicitou a atualização cadastral do cliente no sistema interno.,Tarefas e Delegações Internas
+41,"A tarefa ""Pesquisa de bens patrimoniais"" foi marcada como prioritária.",Tarefas e Delegações Internas
+42,O prazo interno para entrega desta minuta vence hoje às 18h.,Tarefas e Delegações Internas
+43,Tarefa atrasada: elaboração de quesitos periciais. O prazo interno era ontem.,Tarefas e Delegações Internas
+44,Estagiário assumiu a tarefa de emitir as certidões negativas de débito.,Tarefas e Delegações Internas
+45,Transferência de carteira: 15 processos atribuídos ao seu perfil hoje.,Tarefas e Delegações Internas
+47,Tarefa de elaboração de memoriais transferida para a equipe externa.,Tarefas e Delegações Internas
+49,O checklist interno de preparação para a audiência foi preenchido.,Tarefas e Delegações Internas
+51,Guia de custas iniciais gerada e enviada ao e-mail do cliente.,Financeiro e Custas
+53,Confirmação de pagamento da guia de custas processuais recebida.,Financeiro e Custas
+54,"Custas complementares calculadas no valor de R$ 250,00.",Financeiro e Custas
+55,O cliente ainda não realizou o pagamento das custas de citação.,Financeiro e Custas
+56,Comprovante de recolhimento de custas anexado ao sistema financeiro.,Financeiro e Custas
+60,Guia de recolhimento da União (GRU) paga pelo setor financeiro.,Financeiro e Custas
+61,Boleto de honorários mensais enviado ao cliente corporativo.,Financeiro e Custas
+62,Pagamento de honorários contratuais do cliente foi compensado.,Financeiro e Custas
+63,Fatura referente a horas consultivas vencida há 5 dias.,Financeiro e Custas
+65,Acordo de parcelamento de honorários formalizado em 12 vezes.,Financeiro e Custas
+66,PIX do cliente recebido. A fatura mensal foi baixada no sistema.,Financeiro e Custas
+67,Falha na emissão da nota fiscal de prestação de serviços jurídicos.,Financeiro e Custas
+68,Cliente solicitou segunda via do boleto de honorários de agosto.,Financeiro e Custas
+69,"Honorários sucumbenciais no valor de R$ 5.000,00 creditados na conta.",Financeiro e Custas
+71,Alvará judicial liberado e transferido para a conta do escritório.,Financeiro e Custas
+72,"Determinado o depósito em juízo no valor de R$ 15.000,00.",Financeiro e Custas
+73,Atualização do saldo da conta vinculada ao depósito judicial.,Financeiro e Custas
+74,Cliente informou a realização do depósito judicial na Caixa Econômica.,Financeiro e Custas
+75,Alvará eletrônico aguardando assinatura do juiz para liberação.,Financeiro e Custas
+77,RPV (Requisição de Pequeno Valor) expedida com sucesso no sistema.,Financeiro e Custas
+79,O valor bloqueado via Sisbajud foi transferido para conta judicial.,Financeiro e Custas
+80,Expedido mandado de pagamento em favor do autor da ação.,Financeiro e Custas
+81,Despesa com motoboy lançada no centro de custos do processo.,Financeiro e Custas
+82,Solicitação de reembolso de viagem para audiência aprovada.,Financeiro e Custas
+83,Honorários periciais calculados e cobrados na fatura do cliente.,Financeiro e Custas
+84,Guia de diligência do oficial de justiça paga no aplicativo.,Financeiro e Custas
+86,"Lançada despesa de R$ 50,00 referente à emissão de certidões.",Financeiro e Custas
+87,Pagamento do perito assistente aprovado pelo sócio financeiro.,Financeiro e Custas
+88,Fundo fixo para pequenas despesas do escritório foi reabastecido.,Financeiro e Custas
+89,Despesas de correio (AR) repassadas para a fatura final do cliente.,Financeiro e Custas
+90,Custo de averbação em cartório aguardando aprovação do cliente.,Financeiro e Custas
+91,Alerta: inadimplência do cliente ultrapassou a marca de 30 dias.,Financeiro e Custas
+92,Revisão da tabela de honorários (OAB) aplicada aos novos contratos.,Financeiro e Custas
+93,Cálculo de liquidação de sentença finalizado pela controladoria.,Financeiro e Custas
+95,Bloqueio judicial na conta da empresa ré confirmado no valor total.,Financeiro e Custas
+96,Penhora de faturamento deferida: conta judicial receberá 10% mensais.,Financeiro e Custas
+97,Repasse do valor do acordo extrajudicial para a conta do cliente concluído.,Financeiro e Custas
+98,A contabilidade solicitou os extratos de pagamentos sucumbenciais.,Financeiro e Custas
+99,Estorno do pagamento em duplicidade realizado na conta do cliente.,Financeiro e Custas
+100,Fechamento financeiro do mês concluído. Relatório gerencial disponível.,Financeiro e Custas
+101,Cliente anexou o comprovante de residência no portal do escritório.,Gestão de Documentos
+102,Procuração pendente de assinatura digital via DocuSign.,Gestão de Documentos
+103,Contrato de honorários revisado e pronto para envio ao cliente.,Gestão de Documentos
+104,O arquivo PDF da petição inicial excedeu o limite de tamanho do PJe.,Gestão de Documentos
+106,Faltam RG e CPF atualizados na pasta digital do cliente.,Gestão de Documentos
+107,Certidão de nascimento digitalizada e salva na nuvem corporativa.,Gestão de Documentos
+109,Cliente solicitou cópia do contrato de prestação de serviços.,Gestão de Documentos
+110,Assinatura eletrônica do sócio diretor pendente no parecer.,Gestão de Documentos
+111,Nova versão do acordo de confidencialidade (NDA) salva na rede.,Gestão de Documentos
+112,Comprovantes de despesas médicas do mês foram indexados.,Gestão de Documentos
+113,Falha no upload: o formato do documento não é suportado pelo tribunal.,Gestão de Documentos
+114,Declaração de hipossuficiência assinada digitalmente pelo cliente.,Gestão de Documentos
+115,Contrato de locação comercial escaneado e arquivado na pasta.,Gestão de Documentos
+116,Pasta do processo físico foi desarquivada e está na recepção.,Gestão de Documentos
+118,Procuração ad judicia expirada. Favor solicitar nova via ao cliente.,Gestão de Documentos
+119,Holerites referentes a 2022 estão faltando no dossiê trabalhista.,Gestão de Documentos
+120,Termo de acordo extrajudicial protocolado na rede interna.,Gestão de Documentos
+121,Nova pasta compartilhada criada para os documentos do litígio.,Gestão de Documentos
+122,O cliente aprovou a minuta final da contestação via portal.,Gestão de Documentos
+123,A certidão negativa de débitos (CND) anexada vence na próxima semana.,Gestão de Documentos
+124,Documentos societários da empresa ré estão disponíveis para download.,Gestão de Documentos
+125,Matrícula atualizada do imóvel recebida do cartório de registro.,Gestão de Documentos
+126,Digitalização dos autos físicos concluída e salva no sistema.,Gestão de Documentos
+127,Petição de juntada de novos documentos assinada com token OAB.,Gestão de Documentos
+129,Aviso: 3 arquivos aguardando categorização na caixa de entrada.,Gestão de Documentos
+130,O estatuto social atualizado foi validado pelo setor paralegal.,Gestão de Documentos
+131,Laudo pericial completo precisou ser fragmentado em 3 partes.,Gestão de Documentos
+132,Comprovante de recolhimento de guia DARF anexado à pasta da empresa.,Gestão de Documentos
+134,Erro de validação: o arquivo da procuração recebida está corrompido.,Gestão de Documentos
+136,A ata notarial foi recebida em PDF e encaminhada ao setor cível.,Gestão de Documentos
+137,Recibos de aluguel ilegíveis. Solicitar novo envio em alta resolução.,Gestão de Documentos
+138,Certificado digital A3 do advogado titular expira em 15 dias.,Gestão de Documentos
+140,Cartas de citação impressas e prontas para envio pelo correio.,Gestão de Documentos
+143,Carta de preposição gerada automaticamente pelo sistema interno.,Gestão de Documentos
+144,Exportação do relatório de andamentos gerada em planilha.,Gestão de Documentos
+145,Comprovantes de transferência reunidos em um único arquivo zipado.,Gestão de Documentos
+146,Documentação complementar de ICMS recebida da contabilidade hoje.,Gestão de Documentos
+147,Termo de consentimento LGPD aceito pelo novo cliente na plataforma.,Gestão de Documentos
+149,Contrato social consolidado salvo na subpasta de atos constitutivos.,Gestão de Documentos
+150,Cópias das conversas de WhatsApp formatadas e salvas para prova.,Gestão de Documentos
+151,Audiência de conciliação confirmada para amanhã às 14h.,Prazos e Audiências
+153,Lembrete: audiência de instrução e julgamento no dia 25/08.,Prazos e Audiências
+154,O prazo para o preparo do recurso expira hoje às 23h59.,Prazos e Audiências
+155,Atenção: faltam 2 dias para o fim do prazo de alegações finais.,Prazos e Audiências
+156,"Audiência virtual remarcada para a próxima quinta-feira, às 10h.",Prazos e Audiências
+158,Hoje é o último dia para apresentar embargos à execução.,Prazos e Audiências
+159,Seu prazo para manifestação sobre o laudo pericial vence amanhã.,Prazos e Audiências
+160,Lembrete: sustentação oral agendada para hoje às 15h30.,Prazos e Audiências
+161,Faltam 48h para o vencimento do prazo do agravo de instrumento.,Prazos e Audiências
+162,Sessão de julgamento do júri designada para 10 de setembro.,Prazos e Audiências
+164,O prazo para apresentar rol de testemunhas encerra amanhã.,Prazos e Audiências
+166,Sessão virtual do STJ inicia-se em 5 dias.,Prazos e Audiências
+167,Prazo comum de 10 dias úteis aberto para ambas as partes.,Prazos e Audiências
+168,"Audiência de oitiva amanhã às 16h, verifique o link no sistema.",Prazos e Audiências
+169,Lembrete: juntar memoriais até sexta-feira às 18h.,Prazos e Audiências
+170,Prazo em dobro para a Fazenda Pública termina em 30 dias.,Prazos e Audiências
+171,O fim do prazo para recurso inominado no JEC é amanhã.,Prazos e Audiências
+173,Audiência de tentativa de conciliação hoje às 13h no CEJUSC.,Prazos e Audiências
+174,Prazo fatal para recolhimento de custas processuais expira amanhã.,Prazos e Audiências
+175,O prazo para apresentar impugnação ao cumprimento de sentença abriu.,Prazos e Audiências
+176,Seu agendamento para despacho presencial com o juiz é às 14h.,Prazos e Audiências
+177,Prazo para emenda à inicial termina daqui a 10 dias.,Prazos e Audiências
+180,"Sessão de mediação familiar confirmada para o dia 12, às 08h30.",Prazos e Audiências
+181,Prazo de manifestação do Ministério Público vence nesta sexta.,Prazos e Audiências
+183,Alerta de perda de prazo: o recurso agendado não foi protocolado.,Prazos e Audiências
+184,Restam 5 dias úteis para apresentar contrarrazões ao recurso.,Prazos e Audiências
+185,Lembrete urgente: audiência de instrução trabalhista hoje às 08h.,Prazos e Audiências
+187,O prazo para formular quesitos complementares vence amanhã.,Prazos e Audiências
+188,Prazo para pagamento voluntário de 15 dias iniciou hoje.,Prazos e Audiências
+189,"Reagendamento: a audiência foi transferida para o dia 20, às 15h.",Prazos e Audiências
+190,Faltam 3 dias para o término do prazo de juntada de procuração.,Prazos e Audiências
+191,Prazo judicial prorrogado por mais 5 dias úteis pelo magistrado.,Prazos e Audiências
+192,Prazo para alegações finais por memoriais encerra hoje.,Prazos e Audiências
+194,Prazo recursal suspenso em virtude da oposição de embargos.,Prazos e Audiências
+195,Prazo peremptório não comporta dilação: vence irrevogavelmente amanhã.,Prazos e Audiências
+196,Audiência de hoje cancelada. O sistema aguarda nova data do cartório.,Prazos e Audiências
+197,Lembrete: prazo para apresentar cálculos de liquidação em 8 dias.,Prazos e Audiências
+198,Inicia-se amanhã a fluência do prazo legal para contestar a ação.,Prazos e Audiências
+199,O prazo para justificar ausência na audiência termina amanhã.,Prazos e Audiências
+200,Sessão plenária do tribunal de justiça marcada para quarta-feira.,Prazos e Audiências
+201,Novo despacho publicado no processo nº 0012345-67.2023.8.20.0001.,Andamentos Processuais
+202,Sentença proferida na 3ª Vara Cível. Confira o teor no sistema.,Andamentos Processuais
+203,Trânsito em julgado certificado no processo de execução.,Andamentos Processuais
+204,Juntada de petição de manifestação da parte contrária.,Andamentos Processuais
+205,Publicada a pauta de julgamento do recurso de apelação.,Andamentos Processuais
+206,Expedido mandado de citação e intimação.,Andamentos Processuais
+207,Devolvido o mandado cumprido positivo pelo oficial de justiça.,Andamentos Processuais
+209,Remessa dos autos ao Ministério Público para parecer.,Andamentos Processuais
+210,Ato ordinatório praticado: vista às partes por 5 dias.,Andamentos Processuais
+212,Autos conclusos para julgamento pelo juiz titular.,Andamentos Processuais
+213,Recebidos os autos do Tribunal de Justiça.,Andamentos Processuais
+214,Expedido alvará judicial eletrônico em favor do autor.,Andamentos Processuais
+216,Juntada de ofício respondido pelo Bacenjud.,Andamentos Processuais
+217,Despacho de mero expediente publicado no Diário da Justiça.,Andamentos Processuais
+218,Suspensão do processo decretada por 90 dias.,Andamentos Processuais
+220,Certidão de decurso de prazo expedida pela secretaria.,Andamentos Processuais
+222,Determinada a expedição de ofício ao INSS.,Andamentos Processuais
+224,Sentença de embargos de declaração rejeitada.,Andamentos Processuais
+225,Deferida a gratuidade de justiça ao requerente.,Andamentos Processuais
+226,"Recebida a denúncia, inicia-se a instrução criminal.",Andamentos Processuais
+227,Requisitada informação à autoridade coatora em mandado de segurança.,Andamentos Processuais
+228,Homologado o acordo entabulado entre as partes.,Andamentos Processuais
+230,Inserida restrição via Renajud nos veículos do réu.,Andamentos Processuais
+231,Resultado de pesquisa Sisbajud: bloqueio parcial realizado.,Andamentos Processuais
+232,Determinada a penhora online nas contas do executado.,Andamentos Processuais
+233,Aguardando decurso de prazo para interposição de recurso.,Andamentos Processuais
+234,Publicada decisão que indefere a liminar pleiteada.,Andamentos Processuais
+235,Juntada de carta precatória devolvida com cumprimento negativo.,Andamentos Processuais
+236,Embargos à execução recebidos sem efeito suspensivo.,Andamentos Processuais
+237,Exigência de recolhimento de custas complementares.,Andamentos Processuais
+238,Designada audiência de instrução e julgamento.,Andamentos Processuais
+240,Expedida carta de arrematação do imóvel leiloado.,Andamentos Processuais
+241,Levantamento de depósito judicial autorizado.,Andamentos Processuais
+242,Determinado o cancelamento do protesto em cartório.,Andamentos Processuais
+244,Certidão de trânsito em julgado anexada no e-SAJ.,Andamentos Processuais
+245,Despacho determina emenda à petição inicial em 15 dias.,Andamentos Processuais
+246,Aprovado o plano de recuperação judicial em assembleia.,Andamentos Processuais
+247,Juntado comprovante de citação por AR (Aviso de Recebimento).,Andamentos Processuais
+248,Retorno dos autos da instância superior após julgamento do agravo.,Andamentos Processuais
+249,Emitida nota de foro contendo a decisão completa.,Andamentos Processuais
