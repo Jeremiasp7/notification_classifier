@@ -19,6 +19,7 @@ from scripts.embedder import (
     embed,
 )
 from scripts.loader import load_train, load_val
+from scripts.plots import plot_model_comparison
 
 CANDIDATES = {
     "logreg": lambda: LogisticRegression(max_iter=1000, C=1.0, class_weight="balanced"),
@@ -26,7 +27,7 @@ CANDIDATES = {
 }
 
 
-def train_and_select(model_choice: str | None = None) -> None:
+def train_and_select(model_choice: str | None = None, plot: bool = False) -> None:
     MODELS_DIR.mkdir(parents=True, exist_ok=True)
 
     train_df = load_train()
@@ -42,9 +43,7 @@ def train_and_select(model_choice: str | None = None) -> None:
     X_train = embed(train_df["sentenca"].tolist())
     X_val = embed(val_df["sentenca"].tolist())
 
-    candidates = (
-        CANDIDATES if model_choice is None else {model_choice: CANDIDATES[model_choice]}
-    )
+    candidates = CANDIDATES if model_choice is None else {model_choice: CANDIDATES[model_choice]}
 
     best_name, best_model, best_f1 = None, None, -1.0
     results = {}
@@ -65,6 +64,10 @@ def train_and_select(model_choice: str | None = None) -> None:
 
     print(f"\nMelhor modelo: {best_name} (f1_macro={best_f1:.4f})")
 
+    if plot and len(results) > 1:
+        chart_path = plot_model_comparison(results)
+        print(f"Gráfico de comparação salvo em: {chart_path}")
+
     joblib.dump(best_model, CLASSIFIER_PATH)
     joblib.dump(label_encoder, LABEL_ENCODER_PATH)
 
@@ -75,8 +78,7 @@ def train_and_select(model_choice: str | None = None) -> None:
         "val_results": results,
         "trained_at": datetime.now(timezone.utc).isoformat(),
     }
-    METADATA_PATH.write_text(json.dumps(metadata, indent=2, ensure_ascii=False),
-                             encoding="utf-8")
+    METADATA_PATH.write_text(json.dumps(metadata, indent=2, ensure_ascii=False), encoding="utf-8")
 
     print(f"Artefatos salvos em: {MODELS_DIR}")
 
@@ -90,9 +92,14 @@ def parse_args() -> argparse.Namespace:
         help="Força o uso de um modelo específico (logreg ou svm). "
         "Se omitido, treina os dois e escolhe o melhor via validação.",
     )
+    parser.add_argument(
+        "--plot",
+        action="store_true",
+        help="Gera gráfico comparando accuracy/f1_macro dos candidatos, salvo em /reports.",
+    )
     return parser.parse_args()
 
 
 if __name__ == "__main__":
     args = parse_args()
-    train_and_select(model_choice=args.model)
+    train_and_select(model_choice=args.model, plot=args.plot)

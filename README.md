@@ -32,14 +32,7 @@ poetry install
 Treina Regressão Logística e SVM, avalia os dois na validação e salva o melhor:
 
 ```bash
-poetry run python -m scripts.train
-```
-
-Para forçar um modelo específico:
-
-```bash
-poetry run python -m scripts.train --model logreg
-poetry run python -m scripts.train --model svm
+poetry run python -m scripts.train --plot 
 ```
 
 Isso gera em `models/`: `classifier.joblib`, `label_encoder.joblib`, `metadata.json`.
@@ -47,8 +40,8 @@ Isso gera em `models/`: `classifier.joblib`, `label_encoder.joblib`, `metadata.j
 ## 2. Validar / Testar
 
 ```bash
-poetry run python -m scripts.validator --split val
-poetry run python -m scripts.validator --split test
+poetry run python -m scripts.validator --split val --plot
+poetry run python -m scripts.validator --split test --plot --show
 ```
 
 Mostra `classification_report` (precision/recall/f1 por classe) e matriz de confusão.
