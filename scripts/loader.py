@@ -1,48 +1,55 @@
+from __future__ import annotations
+
 from pathlib import Path
 
 import pandas as pd
 
+DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 
-class DatasetLoader:
-    """
-    Class responsable for the dataset loading of train, validation and test
-    """
+TRAIN_PATH = DATA_DIR / "database_notification_law_train.csv"
+VAL_PATH = DATA_DIR / "database_notification_law_val.csv"
+TEST_PATH = DATA_DIR / "database_notification_law_test.csv"
 
-    TRAIN_DATABASE = "database_notification_law_train.csv"
-    VALIDATION_DATABASE = "database_notification_law_val.csv"
-    TEST_DATABASE = "database_notification_law_test.csv"
+REQUIRED_COLUMNS = {"id", "sentenca", "classe"}
 
-    def __init__(self, data_dir: str | Path):
-        self.data_dir = Path(data_dir)
 
-    def load_csv(self, filename: str) -> pd.DataFrame:
-        path = self.data_dir / filename
+def _load_csv(path: Path) -> pd.DataFrame:
+    if not path.exists():
+        raise FileNotFoundError(f"Arquivo não encontrado: {path}")
 
-        if not path.exists():
-            raise FileNotFoundError(
-                f"Dataset not found: {path}"
-            )
+    df = pd.read_csv(path)
 
-        if path.suffix.lower() != ".csv":
-            raise ValueError(
-                f"Unsupported format: {path.suffix}. "
-                "Expect: .csv"
-            )
+    missing = REQUIRED_COLUMNS - set(df.columns)
+    if missing:
+        raise ValueError(f"Colunas ausentes em {path.name}: {missing}")
 
-        return pd.read_csv(path)
+    df = df.dropna(subset=["sentenca", "classe"]).reset_index(drop=True)
+    df["sentenca"] = df["sentenca"].astype(str).str.strip()
+    df["classe"] = df["classe"].astype(str).str.strip()
 
-    def load_train_dataset(self) -> pd.DataFrame:
-        return self.load(self.TRAIN_DATABASE)
+    return df
 
-    def load_validation_dataset(self) -> pd.DataFrame:
-        return self.load(self.VALIDATION_DATABASE)
 
-    def load_test_dataset(self) -> pd.DataFrame:
-        return self.load(self.TEST_DATABASE)
+def load_train() -> pd.DataFrame:
+    return _load_csv(TRAIN_PATH)
 
-    def load_all_datasets(self) -> dict[str, pd.DataFrame]:
-        return {
-            "train": self.load_train(),
-            "validation": self.load_validation(),
-            "test": self.load_test(),
-        }
+
+def load_val() -> pd.DataFrame:
+    return _load_csv(VAL_PATH)
+
+
+def load_test() -> pd.DataFrame:
+    return _load_csv(TEST_PATH)
+
+
+def load_all() -> dict[str, pd.DataFrame]:
+    return {
+        "train": load_train(),
+        "val": load_val(),
+        "test": load_test(),
+    }
+
+
+if __name__ == "__main__":
+    for split, df in load_all().items():
+        print(f"{split}: {len(df)} linhas | classes: {sorted(df['classe'].unique())}")
