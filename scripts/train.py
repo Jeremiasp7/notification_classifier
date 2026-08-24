@@ -9,6 +9,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, f1_score
 from sklearn.preprocessing import LabelEncoder
 from sklearn.svm import SVC
+from xgboost import XGBClassifier
 
 from scripts.embedder import (
     CLASSIFIER_PATH,
@@ -24,6 +25,7 @@ from scripts.plots import plot_model_comparison
 CANDIDATES = {
     "logreg": lambda: LogisticRegression(max_iter=1000, C=1.0, class_weight="balanced"),
     "svm": lambda: SVC(kernel="linear", C=1.0, probability=True, class_weight="balanced"),
+    "xgboost": lambda: XGBClassifier(eval_metric="mlogloss", random_state=42)
 }
 
 
