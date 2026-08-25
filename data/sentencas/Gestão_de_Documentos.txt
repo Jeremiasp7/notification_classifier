@@ -1,0 +1,1000 @@
+Atualização: O arquivo PDF está pendente de assinatura via plataforma DocuSign.
+Documento: O substabelecimento foi enviado por e-mail no sistema interno do escritório.
+Alerta: A declaração de hipossuficiência está pendente de assinatura pelo assistente jurídico.
+OCR aplicado no termo de audiência digitalizado.
+Aviso: 3 arquivos aguardando categorização na caixa de entrada.
+Falha no upload do termo de audiência: arquivo corrompido.
+Backup dos documentos de Grupo Beta Ltda realizado com sucesso.
+Upload falhou: O dossiê do cliente foi encaminhado ao setor paralegal.
+Upload falhou: O comprovante de pagamento foi rejeitado pelo tribunal para instrução probatória.
+Banco meridional anexou a certidão de casamento no portal do escritório.
+Upload falhou: o substabelecimento está disponível para download.
+Aviso: O relatório médico excedeu o limite de tamanho pelo assistente jurídico.
+Carteira de trabalho convertida para PDF e salva no sistema.
+Backup dos documentos de Indústria Delta S.A. realizado com sucesso.
+A minuta de acordo extrajudicial foi anexada com sucesso para uso na audiência de amanhã.
+Status interno: O holerite do reclamante foi salvo na pasta digital para instrução probatória.
+Upload falhou: O dossiê do cliente foi protocolado internamente pelo assistente jurídico.
+Termo de audiência convertido para PDF e salvo no sistema.
+Atenção: A carta de preposição passou por OCR e está pesquisável.
+Aviso: A declaração de hipossuficiência aguarda validação do gestor para conferência final.
+Aviso: O parecer técnico foi rejeitado pelo tribunal.
+Nova versão do acordo de confidencialidade (NDA) salva na rede.
+A ata notarial foi fragmentada em múltiplas partes.
+A carta de preposição foi corrompida durante o upload.
+Atenção: O contrato social excedeu o limite de tamanho para instrução probatória.
+Laudo pericial pendente de assinatura digital via DocuSign.
+Alerta: O holerite do reclamante foi salvo na pasta digital na subpasta de atos constitutivos.
+Certificado digital A3 do advogado titular expira em 15 dias.
+Atualização: A guia de custas foi digitalizada em alta resolução para instrução probatória.
+Upload falhou: A certidão de nascimento foi enviada por e-mail pelo assistente jurídico.
+Documentação: o termo de confidencialidade (NDA) foi rejeitado pelo tribunal.
+Petição de juntada do RG atualizado assinada com token OAB.
+A declaração de hipossuficiência foi digitalizada em alta resolução para audiência.
+OCR aplicado na certidão de nascimento digitalizada.
+Versão atualizada da réplica substituiu a anterior no repositório.
+Certidão de nascimento arquivada na pasta digital do processo.
+Certidão de casamento convertida para PDF e salva no sistema.
+Alerta: A ata notarial está disponível para download na subpasta de atos constitutivos.
+O relatório médico foi protocolado na rede interna pelo assistente jurídico.
+Upload falhou: O contrato de honorários foi rejeitado pelo tribunal para instrução probatória.
+Documento: A documentação anexada foi protocolada internamente.
+Atualização: O RG do cliente foi anexado com sucesso.
+Termo de audiência arquivado na pasta digital do processo.
+Alerta: A certidão de nascimento foi corrompida durante o upload.
+O comprovante de residência foi enviado para o e-mail do cliente pelo sócio.
+Atenção: O termo de acordo foi fragmentado em partes.
+Contrato social consolidado salvo na subpasta de atos constitutivos.
+Upload falhou: A ata notarial foi encaminhada ao setor paralegal pelo assistente jurídico.
+Termo de audiência pendente de assinatura digital via DocuSign.
+Digitalização dos autos físicos concluída e salva no sistema.
+A escritura do imóvel foi protocolada na rede interna pelo assistente jurídico.
+O laudo pericial foi enviado por e-mail.
+Alerta: A guia de custas foi encaminhada ao setor paralegal e arquivado de forma definitiva.
+O termo de confidencialidade (NDA) precisa ser reencaminhado no portal eletrônico.
+Falha no upload da certidão de casamento: arquivo corrompido.
+Cópia autenticada da procuração ad judicia solicitada ao cartório.
+Atenção: A petição inicial foi anexada com sucesso e arquivado de forma definitiva.
+Atualização: O contrato de locação foi protocolado internamente no sistema interno do escritório.
+Aviso: O dossiê do cliente foi encaminhado ao setor paralegal.
+O laudo pericial aguarda validação do gestor para uso na audiência.
+O contrato social precisa ser reencaminhado.
+Atenção: A ata notarial foi fragmentada em partes.
+Declaração de imposto de renda digitalizada e indexada no sistema.
+Upload do contrato social concluído com sucesso.
+Nova pasta compartilhada criada para os documentos do executado.
+Alerta: O substabelecimento foi digitalizado em alta resolução pelo assistente jurídico.
+Comprovante de renda arquivado na pasta digital do processo.
+Erro de sincronização impediu o salvamento da minuta de acordo.
+Documento: A certidão de nascimento foi assinada digitalmente.
+Alerta: O termo de acordo foi protocolado internamente.
+Status interno: A procuração ad judicia foi digitalizada em alta resolução para instrução probatória.
+Documento: O laudo pericial foi enviado por e-mail via aplicativo do escritório.
+Alerta: O relatório médico precisa ser reencaminhado.
+O holerite do reclamante foi fragmentado em partes para conferência final.
+Atualização: O RG do cliente foi salvo na pasta digital.
+Atualização: O comprovante de pagamento passou por OCR e está pesquisável.
+Atualização: A declaração de hipossuficiência foi fragmentada em partes e o cliente já foi notificado.
+Backup dos documentos de Seguradora Atlântica realizado com sucesso.
+Atenção: A petição inicial foi assinada digitalmente para conferência final.
+Assinatura eletrônica da carteira de trabalho pendente.
+RG atualizado arquivado na pasta digital do processo.
+Procuração arquivada na pasta digital do processo.
+Atualização: O comprovante de residência foi corrompido durante o upload pelo sócio responsável.
+O laudo pericial foi enviado por e-mail e o cliente já foi notificado.
+Construtora alfa ltda anexou a carteira de trabalho no portal do escritório.
+A carta de preposição foi encaminhada ao setor paralegal pelo assistente jurídico.
+Assinatura eletrônica da procuração pendente.
+Petição de juntada da certidão de nascimento assinada com token OAB.
+Contrato de honorários renomeado conforme padrão do escritório.
+A guia de recolhimento foi anexada com sucesso para uso na audiência de amanhã.
+A guia de recolhimento está disponível para download e o cliente já foi notificado.
+Documento: A documentação anexada foi corrompida durante o upload.
+Certidão de nascimento digitalizada e salva na nuvem corporativa.
+O contrato de honorários foi rejeitado pelo tribunal e o cliente já foi notificado.
+Aviso: A ata notarial foi salva na pasta digital pelo assistente jurídico.
+Assinatura eletrônica da declaração de imposto de renda pendente.
+O contrato de locação foi salvo na pasta digital para conferência final.
+Erro de sincronização impediu o salvamento da réplica.
+Documentos societários da empresa ré estão disponíveis para download.
+Documento: O comprovante de residência está pendente de assinatura pelo assistente jurídico.
+Aviso: O termo de acordo foi corrompido durante o upload e o cliente já foi notificado.
+O laudo pericial está disponível para download.
+Documento: A petição inicial foi digitalizada em alta resolução na nuvem corporativa.
+Erro de sincronização impediu o salvamento do extrato bancário.
+Backup dos documentos de Comércio XYZ realizado com sucesso.
+O contrato social está pendente de assinatura digital.
+A declaração de hipossuficiência foi salva na pasta digital e o cliente já foi notificado.
+Falha no upload da procuração ad judicia: arquivo corrompido.
+Planilha de cálculos movida para a pasta de arquivo morto.
+Backup dos documentos de Condomínio Jardim das Flores realizado com sucesso.
+Alerta: A certidão negativa de débitos precisa ser reencaminhada para conferência final.
+Contestação arquivada na pasta digital do processo.
+Documento: O contrato de honorários foi anexado com sucesso na nuvem corporativa.
+Atualização: A minuta da contestação foi enviada por e-mail via aplicativo do escritório.
+A guia de recolhimento foi digitalizada em alta resolução para instrução probatória.
+Declaração de imposto de renda convertida para PDF e salva no sistema.
+Contrato social pendente de assinatura digital via DocuSign.
+Atualização: A escritura do imóvel foi salva na pasta digital e arquivado de forma definitiva.
+Atualização: O contrato de locação foi rejeitado pelo tribunal para instrução probatória.
+Status interno: A certidão negativa de débitos excedeu o limite de tamanho via plataforma DocuSign.
+A petição inicial está pendente de assinatura digital para instrução probatória.
+A guia de custas foi enviada por e-mail na nuvem corporativa.
+A minuta da contestação foi fragmentada em partes e o cliente já foi notificado.
+Aviso: O parecer técnico foi protocolado internamente no portal do cliente.
+Nova pasta compartilhada criada para os documentos de Comércio XYZ.
+Cópia autenticada da minuta de acordo solicitada ao cartório.
+Carteira de trabalho revisada e pronta para envio ao cliente.
+Documento: A ata notarial aguarda validação do gestor pelo sócio responsável.
+Upload falhou: o RG atualizado do cliente foi fragmentado em múltiplas partes.
+A certidão de trânsito em julgado foi corrompida durante o upload para cumprimento.
+Alerta: O dossiê do cliente foi assinado digitalmente via aplicativo do escritório.
+Atenção: O parecer técnico foi assinado digitalmente.
+Documento: A declaração de hipossuficiência foi enviada por e-mail para cumprimento de prazo.
+Atualização: O relatório médico foi rejeitado pelo tribunal na nuvem corporativa.
+Falha no upload: o formato do documento não é suportado pelo tribunal.
+Procuração renomeada conforme padrão do escritório.
+A ficha de cadastro foi digitalizada em alta resolução via aplicativo do escritório.
+Backup dos documentos de João Pereira realizado com sucesso.
+Status interno: o comprovante de residência foi encaminhado ao setor paralegal.
+Alerta: O RG do cliente foi corrompido durante o upload e arquivado de forma definitiva.
+Status interno: O contrato de locação está pendente de assinatura.
+Contrato de honorários digitalizado e indexado no sistema.
+Versão atualizada da procuração ad judicia substituiu a anterior no repositório.
+Comprovante de residência convertido para PDF e salvo no sistema.
+Alerta: A documentação anexada foi rejeitada pelo tribunal na nuvem corporativa.
+Atenção: A declaração de hipossuficiência aguarda validação do gestor.
+Aviso: O relatório médico foi encaminhado ao setor paralegal.
+Documento: O comprovante de residência foi enviado por e-mail na subpasta de atos constitutivos.
+Aviso: O RG do cliente foi anexado com sucesso.
+Documentação: a declaração de hipossuficiência está disponível para download.
+A certidão de trânsito em julgado passou por OCR e está pesquisável.
+Cópia autenticada do parecer técnico solicitada ao cartório.
+Atualização: O holerite do reclamante foi encaminhado ao setor paralegal no portal do cliente.
+Alerta: O termo de acordo foi rejeitado pelo tribunal.
+Atenção: O contrato de honorários está disponível para download para instrução probatória.
+Atenção: A guia de custas passou por OCR e está pesquisável na nuvem corporativa.
+Petição inicial digitalizada e indexada no sistema.
+Falha no upload da réplica: arquivo corrompido.
+Falha no upload da procuração: arquivo corrompido.
+Construtora alfa ltda anexou a procuração ad judicia no portal do escritório.
+Status interno: A documentação anexada foi anexada com sucesso.
+Erro de validação: o arquivo da procuração recebida está corrompido.
+O relatório médico foi encaminhado ao setor paralegal pelo sócio responsável.
+A petição inicial passou por OCR e está pesquisável via plataforma DocuSign.
+Alerta: O contrato de honorários foi salvo na pasta digital.
+Atenção: O laudo pericial aguarda validação do gestor.
+Contrato social recebido por e-mail e protocolado no sistema interno.
+Atenção: A documentação anexada foi fragmentada em partes via aplicativo do escritório.
+Status interno: A documentação anexada foi fragmentada em partes para uso na audiência.
+Aviso: A guia de custas está pendente de assinatura via plataforma DocuSign.
+Status interno: o contrato de honorários foi rejeitado pelo tribunal.
+Upload falhou: O comprovante de residência precisa ser reencaminhado.
+Alerta: A guia de custas passou por OCR e está pesquisável.
+A procuração ad judicia está disponível para download.
+A petição inicial foi assinada via certificado A3 na nuvem corporativa.
+A guia de custas foi anexada com sucesso na nuvem corporativa.
+Aviso: O relatório médico está disponível para download pelo assistente jurídico.
+OCR aplicado na procuração digitalizada.
+A procuração ad judicia foi protocolada na rede interna.
+Atenção: A documentação anexada precisa ser reencaminhada para conferência final.
+Documento: O holerite do reclamante está pendente de assinatura para instrução probatória.
+A ata notarial foi recebida em PDF e encaminhada ao setor cível.
+O cliente anexou a réplica no portal do escritório.
+O cliente anexou o termo de audiência no portal do escritório.
+A declaração de hipossuficiência foi enviada para o e-mail via plataforma DocuSign.
+O holerite do reclamante precisa ser reencaminhado.
+Alerta: O substabelecimento foi fragmentado em partes para instrução probatória.
+Documento: O substabelecimento foi rejeitado pelo tribunal na nuvem corporativa.
+Nova pasta compartilhada criada para os documentos de Farmácias Reunidas Ltda.
+Atualização: A procuração ad judicia foi corrompida durante o upload para instrução probatória.
+Aviso: O relatório médico precisa ser reencaminhado.
+OCR aplicado na planilha de cálculos digitalizada.
+Aviso: A procuração ad judicia aguarda validação do gestor pelo assistente jurídico.
+Status interno: A minuta da contestação foi protocolada internamente.
+Comprovantes de despesas médicas do mês foram indexados.
+Status interno: O dossiê do cliente foi encaminhado ao setor paralegal.
+Upload falhou: A petição inicial foi corrompida durante o upload.
+Réplica arquivada na pasta digital do processo.
+Versão atualizada do extrato bancário substituiu a anterior no repositório.
+Cliente anexou o comprovante de residência no portal do escritório.
+A certidão negativa de débitos foi assinada via certificado A3 pelo assistente jurídico.
+A procuração ad judicia está aguardando validação do gestor pelo assistente jurídico.
+Alerta: O termo de acordo foi fragmentado em partes na subpasta de atos constitutivos.
+Status interno: a petição inicial foi anexada com sucesso.
+Alerta: O contrato de locação passou por OCR e está pesquisável.
+Documento: A documentação anexada foi fragmentada em partes para uso na audiência.
+Parecer técnico arquivado na pasta digital do processo.
+Documento: O comprovante de pagamento foi enviado por e-mail via plataforma DocuSign.
+Upload falhou: A ata notarial excedeu o limite de tamanho via aplicativo do escritório.
+Upload falhou: A petição inicial está pendente de assinatura na subpasta de atos constitutivos.
+O relatório médico precisa ser reencaminhado na nuvem corporativa.
+Aviso: A certidão de nascimento excedeu o limite de tamanho.
+Atenção: O comprovante de pagamento está disponível para download.
+Erro de sincronização impediu o salvamento da petição inicial.
+Documento: A certidão negativa de débitos foi enviada por e-mail.
+Contrato de locação comercial escaneado e arquivado na pasta.
+Status interno: A procuração ad judicia foi fragmentada em partes no portal do cliente.
+Aviso: A declaração de hipossuficiência foi encaminhada ao setor paralegal pelo sócio responsável.
+O RG atualizado do cliente foi protocolado na rede interna para conferência final.
+O termo de acordo foi digitalizado em alta resolução para instrução probatória.
+Falha no upload da petição inicial: arquivo corrompido.
+O contrato de honorários foi enviado para o e-mail do cliente.
+Status interno: a ata notarial foi rejeitada pelo tribunal.
+Status interno: O substabelecimento está pendente de assinatura no dossiê previdenciário.
+Status interno: A documentação anexada foi anexada com sucesso via aplicativo do escritório.
+Termo de audiência movido para a pasta de arquivo morto.
+Aviso: O comprovante de pagamento excedeu o limite de tamanho.
+Aviso: A guia de custas foi rejeitada pelo tribunal.
+Atenção: A documentação anexada foi anexada com sucesso no dossiê previdenciário.
+Upload falhou: A minuta da contestação está pendente de assinatura e o cliente já foi notificado.
+Upload falhou: A certidão de nascimento foi anexada com sucesso para conferência final.
+Cartas de citação impressas e prontas para envio pelo correio.
+O holerite do reclamante foi enviado por e-mail no sistema interno do escritório.
+Documento: A procuração ad judicia foi assinada digitalmente pelo sócio responsável.
+Aviso: A ata notarial precisa ser reencaminhada pelo assistente jurídico.
+Certidão de casamento digitalizada e indexada no sistema.
+Alerta: A certidão de nascimento está disponível para download pelo assistente jurídico.
+Atualização: O substabelecimento foi corrompido durante o upload e arquivado de forma definitiva.
+Versão atualizada da certidão de casamento substituiu a anterior no repositório.
+Pasta do processo físico foi desarquivada e está na recepção.
+O estatuto social atualizado foi validado pelo setor paralegal.
+Status interno: A escritura do imóvel foi digitalizada em alta resolução e o cliente já foi notificado.
+Status interno: O laudo pericial foi fragmentado em partes pelo assistente jurídico.
+Aviso: A documentação anexada foi encaminhada ao setor paralegal.
+O termo de acordo foi assinado digitalmente.
+O termo de confidencialidade (NDA) foi salvo na pasta do cliente para instrução.
+Versão atualizada do RG atualizado substituiu a anterior no repositório.
+Alerta: o contrato social foi assinado via certificado A3.
+O comprovante de residência está pendente de assinatura digital.
+Laudo pericial renomeado conforme padrão do escritório.
+Upload falhou: A procuração ad judicia foi anexada com sucesso e arquivado de forma definitiva.
+A petição inicial foi digitalizada em alta resolução.
+Parecer técnico pendente de assinatura digital via DocuSign.
+Upload falhou: a certidão de trânsito em julgado foi corrompida durante o upload.
+O substabelecimento foi digitalizado em alta resolução.
+Status interno: O comprovante de residência está pendente de assinatura para conferência final.
+Alerta: a escritura do imóvel está disponível para download.
+Aviso: O comprovante de residência precisa ser reencaminhado para uso na audiência.
+A documentação anexada foi digitalizada em alta resolução.
+Assinatura eletrônica do contrato de honorários pendente.
+O cliente anexou o contrato social no portal do escritório.
+OCR aplicado na procuração ad judicia digitalizada.
+Atenção: A certidão de nascimento foi digitalizada em alta resolução via plataforma DocuSign.
+Parte autora anexou o comprovante de renda no portal do escritório.
+Documento: A minuta da contestação está pendente de assinatura.
+OCR aplicado na contestação digitalizada.
+Status interno: o contrato de honorários está aguardando validação do gestor.
+Cópia autenticada do comprovante de renda solicitada ao cartório.
+Atualização: O arquivo PDF foi encaminhado ao setor paralegal.
+O laudo pericial está disponível para download pelo assistente jurídico.
+Alerta: O arquivo PDF passou por OCR e está pesquisável.
+Documento: O dossiê do cliente foi corrompido durante o upload e arquivado de forma definitiva.
+Cópia autenticada do extrato bancário solicitada ao cartório.
+Indústria delta s.a. anexou o extrato bancário no portal do escritório.
+Alerta: A declaração de hipossuficiência foi enviada por e-mail e o cliente já foi notificado.
+A certidão de trânsito em julgado foi encaminhada ao setor paralegal no portal.
+Réplica pendente de assinatura digital via DocuSign.
+Aviso: A certidão negativa de débitos passou por OCR e está pesquisável.
+Parecer técnico renomeado conforme padrão do escritório.
+Falha no upload da carteira de trabalho: arquivo corrompido.
+Procuração ad judicia recebida por e-mail e protocolada no sistema interno.
+O contrato de locação foi protocolado na rede interna via plataforma DocuSign.
+Upload falhou: O comprovante de residência precisa ser reencaminhado no dossiê previdenciário.
+Petição de juntada do laudo pericial assinada com token OAB.
+Alerta: A ata notarial precisa ser reencaminhada.
+Versão atualizada da petição inicial substituiu a anterior no repositório.
+Upload falhou: o contrato de honorários foi digitalizado em alta resolução.
+Status interno: A procuração ad judicia foi encaminhada ao setor paralegal.
+O arquivo PDF da petição inicial excedeu o limite de tamanho do PJe.
+Upload falhou: O contrato de locação foi protocolado internamente.
+Upload falhou: O comprovante de residência foi assinado digitalmente e o cliente já foi notificado.
+Atenção: O relatório médico foi enviado por e-mail pelo assistente jurídico.
+A declaração de hipossuficiência foi corrompida durante o upload para instrução.
+A petição inicial excedeu o limite de tamanho do sistema e o cliente já foi notificado.
+Assinatura eletrônica do extrato bancário pendente.
+Procuração movida para a pasta de arquivo morto.
+Reclamante anexou o extrato bancário no portal do escritório.
+O relatório médico foi anexado com sucesso para uso na audiência de amanhã.
+Alerta: O dossiê do cliente foi anexado com sucesso.
+A guia de custas foi assinada digitalmente pelo sócio responsável.
+A declaração de hipossuficiência foi assinada digitalmente via aplicativo do escritório.
+Atenção: O contrato social foi rejeitado pelo tribunal.
+Comprovante de renda revisado e pronto para envio ao cliente.
+Atualização: A escritura do imóvel precisa ser reencaminhada no dossiê previdenciário.
+O contrato de locação foi anexado com sucesso pelo assistente jurídico.
+Upload falhou: O termo de acordo foi encaminhado ao setor paralegal na nuvem corporativa.
+Relatório médico anexado com sucesso ao dossiê previdenciário.
+Atenção: O comprovante de residência foi rejeitado pelo tribunal via aplicativo do escritório.
+Atualização: O comprovante de pagamento aguarda validação do gestor para cumprimento de prazo.
+Alerta: A certidão de nascimento foi fragmentada em partes.
+Nova pasta compartilhada criada para os documentos de Empresa Ômega Serviços.
+Atualização: A certidão negativa de débitos foi corrompida durante o upload.
+A carta de preposição precisa ser reencaminhada para uso na audiência de amanhã.
+Versão atualizada do laudo pericial substituiu a anterior no repositório.
+Atualização: A procuração ad judicia está pendente de assinatura.
+Alerta: A documentação anexada foi assinada digitalmente.
+Alerta: O comprovante de pagamento foi corrompido durante o upload.
+Petição inicial recebida por e-mail e protocolada no sistema interno.
+Alerta: O RG do cliente precisa ser reencaminhado pelo sócio responsável.
+Documento: A carta de preposição foi fragmentada em partes.
+Atualização: O parecer técnico excedeu o limite de tamanho.
+Alerta: A certidão de nascimento excedeu o limite de tamanho pelo assistente jurídico.
+O comprovante de residência foi salvo na pasta do cliente para uso na audiência.
+O relatório médico foi fragmentado em múltiplas partes.
+A carta de preposição foi enviada para o e-mail do cliente pelo assistente jurídico.
+Nova pasta compartilhada criada para os documentos da parte autora.
+Petição de juntada do contrato de honorários assinada com token OAB.
+Aviso: O termo de acordo foi anexado com sucesso.
+Documentação de qualificação do réu recebida por e-mail.
+Atenção: O dossiê do cliente excedeu o limite de tamanho no sistema interno do escritório.
+Documento: A certidão negativa de débitos precisa ser reencaminhada na nuvem corporativa.
+Petição de juntada da petição inicial assinada com token OAB.
+Status interno: A escritura do imóvel foi fragmentada em partes no dossiê previdenciário.
+Documento: O contrato social aguarda validação do gestor.
+Holerites referentes a 2022 estão faltando no dossiê trabalhista.
+A guia de recolhimento foi salva na pasta do cliente via plataforma DocuSign.
+A documentação anexada foi salva na pasta digital.
+Parecer técnico revisado e pronto para envio ao cliente.
+Nova pasta compartilhada criada para os documentos da reclamada.
+Status interno: A ficha de cadastro excedeu o limite de tamanho e arquivado de forma definitiva.
+Documentação: a minuta de acordo extrajudicial foi digitalizada em alta resolução.
+Upload falhou: A guia de custas foi enviada por e-mail.
+Atenção: O parecer técnico passou por OCR e está pesquisável.
+Falha no upload do laudo pericial: arquivo corrompido.
+Comprovante de recolhimento de guia DARF anexado à pasta da empresa.
+Versão atualizada do comprovante de residência substituiu a anterior no repositório.
+Seguradora atlântica anexou a certidão de casamento no portal do escritório.
+O parecer técnico foi fragmentado em múltiplas partes.
+Status interno: A documentação anexada foi digitalizada em alta resolução via plataforma DocuSign.
+A procuração ad judicia está disponível para download no sistema interno do escritório.
+Atenção: O contrato de honorários excedeu o limite de tamanho para cumprimento de prazo.
+Aviso: O contrato de locação foi digitalizado em alta resolução.
+Comprovante de residência recebido por e-mail e protocolado no sistema interno.
+Atenção: O contrato de honorários foi corrompido durante o upload.
+Status interno: O arquivo PDF foi corrompido durante o upload no dossiê previdenciário.
+Nova pasta compartilhada criada para os documentos de João Pereira.
+Upload falhou: A minuta da contestação foi protocolada internamente.
+Contrato de honorários revisado e pronto para envio ao cliente.
+Documento: A minuta da contestação precisa ser reencaminhada para cumprimento de prazo.
+Backup dos documentos de Consórcio Nordeste realizado com sucesso.
+Atualização: A declaração de hipossuficiência foi fragmentada em partes.
+Erro de sincronização impediu o salvamento da certidão de casamento.
+O relatório médico foi digitalizado em alta resolução via aplicativo do escritório.
+Aviso: O holerite do reclamante foi protocolado internamente via aplicativo do escritório.
+O parecer técnico está disponível para download para uso na audiência.
+Documento: A certidão de nascimento foi fragmentada em partes no dossiê previdenciário.
+Documentação: a procuração ad judicia foi protocolada na rede interna.
+Nova pasta compartilhada criada para os documentos de Condomínio Jardim das Flores.
+Aviso: A certidão negativa de débitos foi rejeitada pelo tribunal via plataforma DocuSign.
+Petição de juntada da procuração assinada com token OAB.
+Atenção: O holerite do reclamante passou por OCR e está pesquisável.
+Petição de juntada de novos documentos assinada com token OAB.
+Status interno: A guia de custas foi digitalizada em alta resolução.
+Documentação: o substabelecimento está aguardando validação do gestor.
+Upload da declaração de imposto de renda concluído com sucesso.
+Certidão de nascimento movida para a pasta de arquivo morto.
+A carta de preposição foi salva na pasta do cliente no dossiê previdenciário.
+Aviso: O comprovante de residência aguarda validação do gestor.
+O comprovante de residência foi corrompido durante o upload no sistema interno.
+Atenção: O substabelecimento passou por OCR e está pesquisável.
+Aviso: O arquivo PDF foi salvo na pasta digital e o cliente já foi notificado.
+Comprovante de residência categorizado na caixa de entrada do sistema.
+Alerta: O substabelecimento foi corrompido durante o upload.
+A procuração ad judicia foi digitalizada em alta resolução pelo assistente jurídico.
+Alerta: a carta de preposição está aguardando validação do gestor.
+Aviso: A declaração de hipossuficiência precisa ser reencaminhada.
+Documento: O laudo pericial aguarda validação do gestor.
+Cópia autenticada da contestação solicitada ao cartório.
+Documento: A documentação anexada aguarda validação do gestor para cumprimento de prazo.
+Alerta: A ata notarial aguarda validação do gestor e o cliente já foi notificado.
+O termo de confidencialidade (NDA) foi encaminhado ao setor paralegal no portal.
+OCR concluído: o contrato escaneado agora possui texto pesquisável.
+Nova pasta compartilhada criada para os documentos de Grupo Beta Ltda.
+Atualização: O relatório médico foi salvo na pasta digital.
+A certidão negativa de débitos (CND) anexada vence na próxima semana.
+O contrato de honorários foi encaminhado ao setor paralegal.
+Status interno: O contrato de locação foi corrompido durante o upload na subpasta de atos constitutivos.
+Aviso: A ficha de cadastro foi fragmentada em partes.
+Backup dos documentos de Silva & Cia realizado com sucesso.
+A certidão de nascimento excedeu o limite de tamanho.
+O laudo pericial foi encaminhado ao setor paralegal para instrução probatória.
+Alerta: O termo de acordo está disponível para download no sistema interno do escritório.
+A cliente anexou o parecer técnico no portal do escritório.
+Upload do parecer técnico concluído com sucesso.
+A certidão de trânsito em julgado foi rejeitada pelo tribunal pelo assistente jurídico.
+Aviso: A certidão de nascimento foi enviada por e-mail.
+Documento: O comprovante de residência foi encaminhado ao setor paralegal para instrução probatória.
+Backup dos documentos de Distribuidora Central realizado com sucesso.
+Planilha de cálculos convertida para PDF e salva no sistema.
+Documento: O relatório médico foi enviado por e-mail.
+Termo de audiência renomeado conforme padrão do escritório.
+Documento: A certidão de nascimento foi corrompida durante o upload via plataforma DocuSign.
+O parecer técnico foi anexado com sucesso.
+Cópia autenticada do contrato de honorários solicitada ao cartório.
+Aviso: A certidão de nascimento foi anexada com sucesso.
+Aviso: O holerite do reclamante foi anexado com sucesso e o cliente já foi notificado.
+Status interno: O contrato de honorários está pendente de assinatura no sistema interno do escritório.
+Assinatura eletrônica do termo de audiência pendente.
+Petição de juntada da declaração de imposto de renda assinada com token OAB.
+Atualização: O dossiê do cliente está pendente de assinatura.
+Aviso: A certidão negativa de débitos passou por OCR e está pesquisável e o cliente já foi notificado.
+Aviso: a carta de preposição foi corrompida durante o upload.
+Upload falhou: O substabelecimento está pendente de assinatura para instrução probatória.
+Cópia autenticada do termo de audiência solicitada ao cartório.
+Petição inicial categorizada na caixa de entrada do sistema.
+O RG atualizado do cliente está pendente de assinatura digital e o cliente foi notificado.
+A petição inicial foi digitalizada em alta resolução na subpasta de atos constitutivos.
+Status interno: A guia de custas foi salva na pasta digital via aplicativo do escritório.
+Atenção: A guia de custas foi enviada por e-mail.
+Procuração ad judicia digitalizada e indexada no sistema.
+Upload falhou: O comprovante de pagamento aguarda validação do gestor e o cliente já foi notificado.
+Documento: O contrato de locação passou por OCR e está pesquisável.
+Atenção: O comprovante de pagamento foi salvo na pasta digital na subpasta de atos constitutivos.
+Petição inicial renomeada conforme padrão do escritório.
+Documento: O comprovante de residência aguarda validação do gestor pelo sócio responsável.
+Documento: O termo de acordo foi digitalizado em alta resolução na subpasta de atos constitutivos.
+Planilha de cálculos arquivada na pasta digital do processo.
+O termo de confidencialidade (NDA) passou por OCR e está pesquisável via DocuSign.
+Minuta de acordo pendente de assinatura digital via DocuSign.
+Laudo pericial categorizado na caixa de entrada do sistema.
+Alerta: O relatório médico foi enviado por e-mail.
+Alerta: A certidão negativa de débitos foi assinada digitalmente na nuvem corporativa.
+Grupo beta ltda anexou o contrato de honorários no portal do escritório.
+Aviso: O laudo pericial foi protocolado internamente pelo sócio responsável.
+Upload falhou: a certidão de trânsito em julgado está disponível para download.
+Alerta: O relatório médico aguarda validação do gestor.
+Procuração ad judicia arquivada na pasta digital do processo.
+Upload falhou: A ficha de cadastro passou por OCR e está pesquisável.
+Documento: O RG do cliente foi digitalizado em alta resolução.
+Atenção: A carta de preposição foi protocolada internamente para instrução probatória.
+Laudo pericial recebido por e-mail e protocolado no sistema interno.
+Alerta: O dossiê do cliente foi encaminhado ao setor paralegal.
+A declaração de hipossuficiência está disponível para download.
+O parecer técnico foi fragmentado em partes via plataforma DocuSign.
+Status interno: O substabelecimento passou por OCR e está pesquisável no portal do cliente.
+Versão atualizada da carteira de trabalho substituiu a anterior no repositório.
+Petição de juntada do comprovante de residência assinada com token OAB.
+Planilha de cálculos digitalizada e indexada no sistema.
+Documento: A escritura do imóvel precisa ser reencaminhada.
+Versão atualizada da declaração de imposto de renda substituiu a anterior no repositório.
+Procuração ad judicia renomeada conforme padrão do escritório.
+Documento: A ata notarial foi assinada digitalmente no sistema interno do escritório.
+Upload falhou: A procuração ad judicia precisa ser reencaminhada e arquivado de forma definitiva.
+A documentação anexada aguarda validação do gestor.
+A procuração ad judicia foi enviada para o e-mail do cliente no sistema do escritório.
+Carteira de trabalho arquivada na pasta digital do processo.
+A documentação anexada excedeu o limite de tamanho.
+A escritura do imóvel foi digitalizada em alta resolução via plataforma DocuSign.
+A escritura do imóvel foi digitalizada em alta resolução.
+O laudo pericial foi corrompido durante o upload.
+A procuração ad judicia foi protocolada internamente.
+Assinatura eletrônica do sócio diretor pendente no parecer.
+A petição inicial foi corrompida durante o upload pelo sócio responsável.
+Assinatura eletrônica da petição inicial pendente.
+Atenção: O termo de acordo foi rejeitado pelo tribunal pelo sócio responsável.
+Atenção: A certidão negativa de débitos foi assinada digitalmente.
+Versão atualizada do comprovante de renda substituiu a anterior no repositório.
+Comprovante de renda pendente de assinatura digital via DocuSign.
+Status interno: O arquivo PDF excedeu o limite de tamanho.
+Petição de juntada da certidão de casamento assinada com token OAB.
+O arquivo PDF foi fragmentado em partes para cumprimento de prazo.
+Status interno: A certidão negativa de débitos foi anexada com sucesso.
+Aviso: A declaração de hipossuficiência foi fragmentada em partes.
+OCR aplicado no contrato de honorários digitalizado.
+Backup dos documentos do executado realizado com sucesso.
+Documento: A certidão negativa de débitos está pendente de assinatura.
+Cópia autenticada da declaração de imposto de renda solicitada ao cartório.
+Erro de sincronização impediu o salvamento do laudo pericial.
+Assinatura eletrônica da planilha de cálculos pendente.
+Alerta: A ficha de cadastro foi fragmentada em partes.
+Upload do contrato de honorários concluído com sucesso.
+Comprovante de residência pendente de assinatura digital via DocuSign.
+Carteira de trabalho pendente de assinatura digital via DocuSign.
+RG atualizado renomeado conforme padrão do escritório.
+OCR aplicado no comprovante de renda digitalizado.
+Status interno: O relatório médico foi salvo na pasta digital.
+Atualização: O holerite do reclamante foi encaminhado ao setor paralegal na subpasta de atos constitutivos.
+Documento: A certidão negativa de débitos precisa ser reencaminhada.
+Atualização: O laudo pericial foi enviado por e-mail.
+Documento: O comprovante de pagamento está pendente de assinatura no sistema interno do escritório.
+OCR aplicado na minuta de acordo digitalizada.
+O comprovante de residência excedeu o limite de tamanho do sistema pelo sócio.
+Petição inicial revisada e pronta para envio ao cliente.
+Atenção: A ficha de cadastro está pendente de assinatura.
+Declaração de hipossuficiência assinada digitalmente pelo cliente.
+Atenção: A procuração ad judicia foi digitalizada em alta resolução.
+Upload falhou: O relatório médico está pendente de assinatura pelo assistente jurídico.
+Aviso: O RG do cliente foi salvo na pasta digital e o cliente já foi notificado.
+RG atualizado pendente de assinatura digital via DocuSign.
+Status interno: A escritura do imóvel foi fragmentada em partes.
+Comprovante de residência arquivado na pasta digital do processo.
+Status interno: O termo de acordo foi encaminhado ao setor paralegal via plataforma DocuSign.
+Upload falhou: A minuta da contestação foi digitalizada em alta resolução.
+Alerta: a guia de recolhimento passou por OCR e está pesquisável.
+Extrato bancário digitalizado e indexado no sistema.
+Comprovante de renda convertido para PDF e salvo no sistema.
+Procuração ad judicia expirada. Favor solicitar nova via ao cliente.
+Documento: A carta de preposição está disponível para download para cumprimento de prazo.
+Documento: A procuração ad judicia está pendente de assinatura.
+Documento: A documentação anexada foi fragmentada em partes para cumprimento de prazo.
+Cliente corporativo anexou o laudo pericial no portal do escritório.
+Atenção: O laudo pericial foi encaminhado ao setor paralegal para conferência final.
+Atenção: A ficha de cadastro excedeu o limite de tamanho.
+O substabelecimento excedeu o limite de tamanho e arquivado de forma definitiva.
+O relatório médico está disponível para download pelo assistente jurídico.
+Status interno: A minuta da contestação aguarda validação do gestor.
+Upload falhou: O holerite do reclamante foi salvo na pasta digital.
+O comprovante de residência foi protocolado na rede interna na nuvem corporativa.
+OCR aplicado no RG atualizado digitalizado.
+O contrato de locação foi encaminhado ao setor paralegal e o cliente foi notificado.
+Aviso: O laudo pericial aguarda validação do gestor.
+Upload falhou: O arquivo PDF passou por OCR e está pesquisável via plataforma DocuSign.
+Documento: A ata notarial foi protocolada internamente.
+Atenção: O holerite do reclamante foi assinado digitalmente no dossiê previdenciário.
+OCR aplicado na carteira de trabalho digitalizada.
+Parecer técnico do assistente anexado ao controle de provas da pasta.
+O contrato de locação aguarda validação do gestor para cumprimento de prazo.
+Carta de preposição gerada automaticamente pelo sistema interno.
+Documento: A guia de custas passou por OCR e está pesquisável para uso na audiência.
+Aviso: A ata notarial foi anexada com sucesso.
+Documento: A petição inicial passou por OCR e está pesquisável via plataforma DocuSign.
+A certidão de nascimento foi corrompida durante o upload pelo assistente jurídico.
+Upload falhou: A certidão negativa de débitos está pendente de assinatura e arquivado de forma definitiva.
+Planilha de cálculos revisada e pronta para envio ao cliente.
+Cópia autenticada do laudo pericial solicitada ao cartório.
+Upload da procuração concluído com sucesso.
+Atualização: O relatório médico foi protocolado internamente e arquivado de forma definitiva.
+Upload falhou: O holerite do reclamante foi protocolado internamente.
+Upload falhou: O parecer técnico foi corrompido durante o upload.
+Documentação: o RG atualizado do cliente foi fragmentado em múltiplas partes.
+Atenção: A carta de preposição está pendente de assinatura na nuvem corporativa.
+Aviso: O contrato social excedeu o limite de tamanho.
+Documento: A petição inicial está disponível para download no portal do cliente.
+Contestação movida para a pasta de arquivo morto.
+Upload falhou: O termo de acordo está disponível para download no dossiê previdenciário.
+Comprovante de residência movido para a pasta de arquivo morto.
+Atualização: A guia de custas foi rejeitada pelo tribunal no sistema interno do escritório.
+A ata notarial foi enviada por e-mail via aplicativo do escritório.
+A carta de preposição foi assinada via certificado A3 pelo assistente jurídico.
+Aviso: A ata notarial foi anexada com sucesso no portal do cliente.
+Upload falhou: A carta de preposição está disponível para download.
+Assinatura eletrônica do laudo pericial pendente.
+Aviso: A ata notarial foi corrompida durante o upload.
+Atualização: A minuta da contestação precisa ser reencaminhada.
+Alerta: O relatório médico está pendente de assinatura na subpasta de atos constitutivos.
+O comprovante de residência foi assinado via certificado A3 e o cliente já foi notificado.
+Aviso: A petição inicial foi anexada com sucesso e arquivado de forma definitiva.
+Alerta: a carta de preposição foi rejeitada pelo tribunal.
+Cliente solicitou cópia do contrato de prestação de serviços.
+Documento: O parecer técnico está pendente de assinatura para uso na audiência.
+OCR aplicado no comprovante de residência digitalizado.
+Seguradora atlântica anexou o RG atualizado no portal do escritório.
+Documento: A escritura do imóvel foi salva na pasta digital pelo sócio responsável.
+Atenção: A carta de preposição foi rejeitada pelo tribunal.
+Status interno: A escritura do imóvel está pendente de assinatura para conferência final.
+A ata notarial excedeu o limite de tamanho do sistema pelo assistente jurídico.
+Falha no upload do RG atualizado: arquivo corrompido.
+Planilha de cálculos renomeada conforme padrão do escritório.
+Petição de juntada do comprovante de renda assinada com token OAB.
+Nova pasta compartilhada criada para os documentos de Silva & Cia.
+Documento: A petição inicial foi anexada com sucesso no sistema interno do escritório.
+Atualização: O parecer técnico foi salvo na pasta digital.
+A minuta de acordo extrajudicial precisa ser reencaminhada no sistema interno do escritório.
+Matrícula atualizada do imóvel recebida do cartório de registro.
+Erro de sincronização impediu o salvamento do termo de audiência.
+Atenção: A guia de custas precisa ser reencaminhada pelo sócio responsável.
+Status interno: A certidão de nascimento foi fragmentada em partes.
+Erro de sincronização impediu o salvamento da procuração.
+Status interno: A procuração ad judicia foi digitalizada em alta resolução para conferência final.
+Documento: A ficha de cadastro foi fragmentada em partes.
+Certidão de casamento recebida por e-mail e protocolada no sistema interno.
+Upload falhou: a certidão de trânsito em julgado foi digitalizada em alta resolução.
+Status interno: O RG do cliente foi rejeitado pelo tribunal.
+Status interno: A certidão de nascimento precisa ser reencaminhada.
+Carteira de trabalho renomeada conforme padrão do escritório.
+Upload da carteira de trabalho concluído com sucesso.
+Alerta: O arquivo PDF foi anexado com sucesso.
+Aviso: A declaração de hipossuficiência foi enviada por e-mail.
+Atualização: O contrato social foi corrompido durante o upload no dossiê previdenciário.
+Carteira de trabalho digitalizada e indexada no sistema.
+A ata notarial foi salva na pasta do cliente pelo assistente jurídico.
+A petição inicial foi enviada para o e-mail do cliente para uso na audiência de amanhã.
+O comprovante de residência foi protocolado na rede interna no portal eletrônico.
+Alerta: O arquivo PDF está disponível para download.
+Contrato social revisado e pronto para envio ao cliente.
+Petição inicial pendente de assinatura digital via DocuSign.
+Nova pasta compartilhada criada para os documentos de Consórcio Nordeste.
+Nova pasta compartilhada criada para os documentos do cliente corporativo.
+Parecer técnico convertido para PDF e salvo no sistema.
+Upload da contestação concluído com sucesso.
+A procuração ad judicia passou por OCR e está pesquisável.
+Falha no upload do extrato bancário: arquivo corrompido.
+Petição de juntada da procuração ad judicia assinada com token OAB.
+Upload do RG atualizado concluído com sucesso.
+O RG atualizado do cliente foi salvo na pasta do cliente para instrução probatória.
+Atualização: O termo de acordo foi corrompido durante o upload e arquivado de forma definitiva.
+Termo de audiência digitalizado e indexado no sistema.
+Atenção: O comprovante de pagamento excedeu o limite de tamanho.
+Atenção: A petição inicial foi salva na pasta digital via plataforma DocuSign.
+Procuração categorizada na caixa de entrada do sistema.
+Atenção: O parecer técnico está pendente de assinatura para cumprimento de prazo.
+A declaração de hipossuficiência foi enviada por e-mail na nuvem corporativa.
+OCR aplicado na petição inicial digitalizada.
+Documento: A certidão negativa de débitos foi salva na pasta digital via aplicativo do escritório.
+Aviso: A declaração de hipossuficiência está disponível para download pelo sócio responsável.
+Planilha de cálculos recebida por e-mail e protocolada no sistema interno.
+Contrato social digitalizado e indexado no sistema.
+A certidão de trânsito em julgado foi encaminhada ao setor paralegal.
+A declaração de hipossuficiência foi salva na pasta do cliente e arquivada definitivamente.
+Aviso: O holerite do reclamante está disponível para download via aplicativo do escritório.
+Atenção: A escritura do imóvel aguarda validação do gestor no sistema interno do escritório.
+Cópia autenticada do RG atualizado solicitada ao cartório.
+Alerta: A minuta da contestação precisa ser reencaminhada pelo sócio responsável.
+Documento: A certidão negativa de débitos foi protocolada internamente no dossiê previdenciário.
+Atenção: A ficha de cadastro precisa ser reencaminhada para cumprimento de prazo.
+Atenção: A declaração de hipossuficiência excedeu o limite de tamanho para conferência final.
+Condomínio jardim das flores anexou a planilha de cálculos no portal do escritório.
+Versão atualizada do termo de audiência substituiu a anterior no repositório.
+Réplica categorizada na caixa de entrada do sistema.
+Status interno: O holerite do reclamante está disponível para download e arquivado de forma definitiva.
+O cliente anexou a carteira de trabalho no portal do escritório.
+Status interno: A ata notarial foi digitalizada em alta resolução pelo sócio responsável.
+A ficha de cadastro foi corrompida durante o upload e o cliente já foi notificado.
+Alerta: O relatório médico foi enviado por e-mail no sistema interno do escritório.
+Status interno: A certidão de nascimento foi protocolada internamente.
+O mandato anterior foi revogado e arquivado na pasta de inativos.
+A guia de recolhimento excedeu o limite de tamanho do sistema no portal eletrônico.
+Laudo pericial completo precisou ser fragmentado em 3 partes.
+Extrato bancário convertido para PDF e salvo no sistema.
+O parecer técnico foi salvo na pasta digital via aplicativo do escritório.
+Atenção: O laudo pericial foi encaminhado ao setor paralegal.
+Falha no upload da contestação: arquivo corrompido.
+Status interno: O termo de acordo está disponível para download e o cliente já foi notificado.
+O substabelecimento foi salvo na pasta do cliente no sistema interno do escritório.
+Backup dos documentos do reclamante realizado com sucesso.
+Status interno: A declaração de hipossuficiência foi assinada digitalmente via aplicativo do escritório.
+Status interno: A ficha de cadastro foi protocolada internamente na nuvem corporativa.
+O relatório médico foi protocolado na rede interna para conferência final.
+Upload falhou: A documentação anexada passou por OCR e está pesquisável pelo sócio responsável.
+Assinatura eletrônica da certidão de casamento pendente.
+A petição inicial excedeu o limite de tamanho do sistema no dossiê previdenciário.
+Documento: O laudo pericial foi encaminhado ao setor paralegal pelo sócio responsável.
+Procuração ad judicia pendente de assinatura digital via DocuSign.
+Atenção: A guia de custas aguarda validação do gestor.
+Status interno: O termo de acordo foi corrompido durante o upload no dossiê previdenciário.
+Minuta de contestação revisada e salva na pasta compartilhada do cliente.
+Cópia autenticada do contrato social solicitada ao cartório.
+Upload falhou: O laudo pericial foi corrompido durante o upload via aplicativo do escritório.
+Contrato social convertido para PDF e salvo no sistema.
+A carta de preposição foi enviada por e-mail.
+Alerta: O arquivo PDF foi rejeitado pelo tribunal.
+Termo de audiência revisado e pronto para envio ao cliente.
+Atenção: A certidão de nascimento está disponível para download para cumprimento de prazo.
+Extrato bancário categorizado na caixa de entrada do sistema.
+Atenção: O substabelecimento está pendente de assinatura no dossiê previdenciário.
+Alerta: A carta de preposição foi rejeitada pelo tribunal no dossiê previdenciário.
+Atenção: O comprovante de residência foi digitalizado em alta resolução para cumprimento de prazo.
+O relatório médico está aguardando validação do gestor pelo assistente jurídico.
+O relatório médico foi corrompido durante o upload na subpasta de atos constitutivos.
+Atenção: A guia de custas foi digitalizada em alta resolução no sistema interno do escritório.
+O contrato social foi digitalizado em alta resolução para instrução probatória.
+Laudo pericial movido para a pasta de arquivo morto.
+Erro de sincronização impediu o salvamento da declaração de imposto de renda.
+A carta de preposição foi salva na pasta do cliente no sistema interno do escritório.
+Documento: A minuta da contestação foi assinada digitalmente pelo sócio responsável.
+Aviso: A procuração ad judicia passou por OCR e está pesquisável.
+Upload do comprovante de residência concluído com sucesso.
+Réplica digitalizada e indexada no sistema.
+Status interno: A escritura do imóvel foi assinada digitalmente.
+Upload falhou: A documentação anexada foi enviada por e-mail e o cliente já foi notificado.
+Declaração de imposto de renda pendente de assinatura digital via DocuSign.
+O RG atualizado do cliente foi salvo na pasta do cliente na subpasta de atos.
+Atenção: O relatório médico passou por OCR e está pesquisável e arquivado de forma definitiva.
+Documento: O comprovante de pagamento foi enviado por e-mail.
+Aviso: O substabelecimento precisa ser reencaminhado.
+Comércio xyz anexou o parecer técnico no portal do escritório.
+Minuta de acordo revisada e pronta para envio ao cliente.
+Upload falhou: A escritura do imóvel está pendente de assinatura.
+Atenção: O arquivo PDF foi encaminhado ao setor paralegal.
+O RG atualizado do cliente foi assinado via certificado A3 na nuvem corporativa.
+Declaração de imposto de renda revisada e pronta para envio ao cliente.
+Comprovante de residência renomeado conforme padrão do escritório.
+Aviso: A certidão de nascimento passou por OCR e está pesquisável pelo assistente jurídico.
+Aviso: A certidão negativa de débitos foi encaminhada ao setor paralegal.
+Nova pasta compartilhada criada para os documentos de Seguradora Atlântica.
+Certidão de nascimento categorizada na caixa de entrada do sistema.
+Procuração revisada e pronta para envio ao cliente.
+Atenção: A guia de custas precisa ser reencaminhada.
+A certidão negativa de débitos foi rejeitada pelo tribunal pelo sócio responsável.
+A guia de recolhimento foi protocolada na rede interna para cumprimento de prazo.
+Contrato de honorários movido para a pasta de arquivo morto.
+O RG atualizado do cliente foi salvo na pasta do cliente para cumprimento de prazo.
+O dossiê do cliente foi corrompido durante o upload.
+Aviso: O termo de acordo excedeu o limite de tamanho via plataforma DocuSign.
+Atualização: A procuração ad judicia está disponível para download no sistema interno do escritório.
+Status interno: A ata notarial foi rejeitada pelo tribunal para conferência final.
+Nova pasta compartilhada criada para os documentos do reclamante.
+Assinatura eletrônica da minuta de acordo pendente.
+Carteira de trabalho recebida por e-mail e protocolada no sistema interno.
+Documento: A documentação anexada passou por OCR e está pesquisável.
+Alerta: A escritura do imóvel foi enviada por e-mail e arquivado de forma definitiva.
+O comprovante de residência foi fragmentado em múltiplas partes e arquivado.
+A certidão negativa de débitos excedeu o limite de tamanho na nuvem corporativa.
+Assinatura eletrônica da procuração ad judicia pendente.
+Alerta: A carta de preposição foi assinada digitalmente via plataforma DocuSign.
+Documento: A petição inicial passou por OCR e está pesquisável para conferência final.
+Backup dos documentos de Banco Meridional realizado com sucesso.
+O termo de confidencialidade (NDA) foi enviado para o e-mail do cliente.
+Upload falhou: A declaração de hipossuficiência foi enviada por e-mail pelo sócio responsável.
+Cópia autenticada da planilha de cálculos solicitada ao cartório.
+Cliente corporativo anexou o RG atualizado no portal do escritório.
+Petição de juntada da minuta de acordo assinada com token OAB.
+O parecer técnico está disponível para download.
+Atenção: A ficha de cadastro foi anexada com sucesso para uso na audiência.
+Atenção: A documentação anexada está disponível para download.
+O arquivo PDF foi protocolado internamente via plataforma DocuSign.
+O dossiê do cliente está disponível para download pelo assistente jurídico.
+A certidão negativa de débitos foi rejeitada pelo tribunal para uso na audiência.
+Falha no upload do parecer técnico: arquivo corrompido.
+Atenção: O substabelecimento foi protocolado internamente e o cliente já foi notificado.
+Upload falhou: O contrato social está pendente de assinatura pelo assistente jurídico.
+Atenção: O comprovante de pagamento foi anexado com sucesso e arquivado de forma definitiva.
+Upload falhou: O termo de acordo foi encaminhado ao setor paralegal.
+A guia de recolhimento foi salva na pasta do cliente na subpasta de atos constitutivos.
+Aviso: O contrato de honorários foi enviado por e-mail.
+Upload do extrato bancário concluído com sucesso.
+O termo de confidencialidade (NDA) está pendente de assinatura digital via aplicativo.
+Aviso: O dossiê do cliente foi assinado digitalmente e o cliente já foi notificado.
+A declaração de hipossuficiência foi salva na pasta do cliente no dossiê previdenciário.
+RG atualizado movido para a pasta de arquivo morto.
+O RG atualizado do cliente está aguardando validação do gestor para instrução.
+Contestação recebida por e-mail e protocolada no sistema interno.
+Documento: A documentação anexada foi fragmentada em partes para instrução probatória.
+A cliente anexou a procuração ad judicia no portal do escritório.
+Procuração ad judicia movida para a pasta de arquivo morto.
+Status interno: O contrato de locação está pendente de assinatura na nuvem corporativa.
+A guia de custas foi corrompida durante o upload via plataforma DocuSign.
+Assinatura eletrônica da contestação pendente.
+OCR aplicado na réplica digitalizada.
+Alerta: O holerite do reclamante foi digitalizado em alta resolução no sistema interno do escritório.
+Alerta: O parecer técnico está pendente de assinatura.
+Documentação: o parecer técnico foi protocolado na rede interna.
+O parecer técnico excedeu o limite de tamanho.
+Réplica revisada e pronta para envio ao cliente.
+Documento: O comprovante de pagamento foi protocolado internamente para cumprimento de prazo.
+Backup dos documentos de Maria Santos realizado com sucesso.
+Status interno: o substabelecimento foi enviado para o e-mail do cliente.
+Cópia autenticada da certidão de casamento solicitada ao cartório.
+Requerimento administrativo de pensão gerado em formato PDF/A.
+Aviso: o contrato de honorários foi corrompido durante o upload.
+Alerta: O arquivo PDF foi protocolado internamente para instrução probatória.
+Atenção: A ata notarial passou por OCR e está pesquisável no portal do cliente.
+Upload falhou: A minuta da contestação foi encaminhada ao setor paralegal pelo sócio responsável.
+Atenção: A procuração ad judicia está pendente de assinatura e arquivado de forma definitiva.
+Backup dos documentos de Farmácias Reunidas Ltda realizado com sucesso.
+Assinatura eletrônica da réplica pendente.
+Documento: O contrato social foi assinado digitalmente na nuvem corporativa.
+O comprovante de residência foi enviado para o e-mail do cliente no sistema interno.
+Status interno: A certidão de nascimento foi anexada com sucesso.
+A escritura do imóvel foi encaminhada ao setor paralegal pelo assistente jurídico.
+Cópia autenticada da petição inicial solicitada ao cartório.
+Atualização: A procuração ad judicia foi anexada com sucesso na nuvem corporativa.
+Atualização: A procuração ad judicia excedeu o limite de tamanho pelo sócio responsável.
+Aviso: O contrato de locação foi rejeitado pelo tribunal.
+Certidão de casamento movida para a pasta de arquivo morto.
+O contrato social passou por OCR e está pesquisável no dossiê previdenciário.
+Status interno: O RG do cliente foi salvo na pasta digital na subpasta de atos constitutivos.
+Cópia integral do inquérito policial baixada e salva na pasta Sigilo.
+O substabelecimento está pendente de assinatura via aplicativo do escritório.
+Atualização: O contrato social está pendente de assinatura para conferência final.
+Atualização: A guia de custas foi fragmentada em partes via aplicativo do escritório.
+Atualização: A petição inicial excedeu o limite de tamanho e arquivado de forma definitiva.
+Upload falhou: A ficha de cadastro precisa ser reencaminhada para cumprimento de prazo.
+Alerta: A documentação anexada foi rejeitada pelo tribunal.
+A certidão negativa de débitos passou por OCR e está pesquisável e o cliente foi notificado.
+O RG atualizado do cliente foi encaminhado ao setor paralegal no sistema interno.
+Recibos de aluguel ilegíveis. Solicitar novo envio em alta resolução.
+Aviso: O arquivo PDF está pendente de assinatura na nuvem corporativa.
+Upload falhou: O substabelecimento excedeu o limite de tamanho para conferência final.
+Status interno: O arquivo PDF foi fragmentado em partes na subpasta de atos constitutivos.
+O comprovante de residência passou por OCR e está pesquisável.
+Cliente atualizou a ficha de cadastro no aplicativo do escritório.
+O parecer técnico foi digitalizado em alta resolução.
+Upload falhou: O substabelecimento excedeu o limite de tamanho.
+Certidão de casamento renomeada conforme padrão do escritório.
+Documento: O arquivo PDF foi enviado por e-mail.
+Atualização: A minuta da contestação foi digitalizada em alta resolução na nuvem corporativa.
+Aviso: A carta de preposição foi anexada com sucesso.
+Upload falhou: A certidão negativa de débitos foi rejeitada pelo tribunal via plataforma DocuSign.
+Upload falhou: O holerite do reclamante aguarda validação do gestor.
+A escritura do imóvel está aguardando validação do gestor via plataforma DocuSign.
+A certidão de trânsito em julgado excedeu o limite de tamanho do sistema via aplicativo.
+Erro de sincronização impediu o salvamento do parecer técnico.
+RG atualizado categorizado na caixa de entrada do sistema.
+Alerta: O termo de acordo foi fragmentado em partes.
+Aviso: O RG do cliente foi enviado por e-mail.
+Backup dos documentos da reclamada realizado com sucesso.
+Parecer técnico digitalizado e indexado no sistema.
+Upload do laudo pericial concluído com sucesso.
+Comprovantes de transferência reunidos em um único arquivo zipado.
+Aviso: O contrato de honorários foi protocolado internamente.
+Atualização: A ata notarial aguarda validação do gestor no dossiê previdenciário.
+Aviso: O contrato de honorários foi anexado com sucesso para uso na audiência.
+Assinatura eletrônica do comprovante de residência pendente.
+O relatório médico foi fragmentado em múltiplas partes na subpasta de atos.
+Aviso: A guia de custas aguarda validação do gestor.
+Minuta de acordo renomeada conforme padrão do escritório.
+Status interno: O RG do cliente foi fragmentado em partes.
+Aviso: O contrato de honorários foi protocolado internamente e o cliente já foi notificado.
+Atenção: A guia de custas foi protocolada internamente via plataforma DocuSign.
+Atenção: A documentação anexada foi salva na pasta digital e arquivado de forma definitiva.
+Upload falhou: O comprovante de residência foi anexado com sucesso para cumprimento de prazo.
+Atenção: O contrato de locação está pendente de assinatura e arquivado de forma definitiva.
+Petição de juntada do termo de audiência assinada com token OAB.
+A procuração ad judicia foi protocolada na rede interna no portal eletrônico.
+Atenção: O comprovante de pagamento foi protocolado internamente.
+Minuta de acordo categorizada na caixa de entrada do sistema.
+O comprovante de residência precisa ser reencaminhado.
+Status interno: a declaração de hipossuficiência foi assinada via certificado A3.
+Status interno: O RG do cliente foi encaminhado ao setor paralegal via aplicativo do escritório.
+Aviso: A minuta da contestação foi rejeitada pelo tribunal para instrução probatória.
+A escritura do imóvel foi protocolada na rede interna.
+Aviso: A escritura do imóvel foi salva na pasta digital.
+Erro de sincronização impediu o salvamento da carteira de trabalho.
+A guia de recolhimento foi anexada com sucesso para conferência final.
+Réplica renomeada conforme padrão do escritório.
+Alerta: O relatório médico precisa ser reencaminhado pelo sócio responsável.
+Documento: O comprovante de pagamento foi salvo na pasta digital.
+Falha no upload da declaração de imposto de renda: arquivo corrompido.
+Procuração ad judicia convertida para PDF e salva no sistema.
+Documento: A ficha de cadastro foi enviada por e-mail.
+Extrato bancário revisado e pronto para envio ao cliente.
+Documento: A ficha de cadastro excedeu o limite de tamanho e arquivado de forma definitiva.
+Upload da réplica concluído com sucesso.
+Atenção: O parecer técnico aguarda validação do gestor na subpasta de atos constitutivos.
+Atualização: O dossiê do cliente foi fragmentado em partes via aplicativo do escritório.
+Aviso: O arquivo PDF precisa ser reencaminhado na nuvem corporativa.
+Extrato bancário arquivado na pasta digital do processo.
+Aviso: A ata notarial excedeu o limite de tamanho e arquivado de forma definitiva.
+Aviso: O RG do cliente precisa ser reencaminhado.
+Atualização: A petição inicial foi corrompida durante o upload.
+Contrato de honorários categorizado na caixa de entrada do sistema.
+O RG atualizado do cliente excedeu o limite de tamanho do sistema.
+Alerta: O termo de acordo foi enviado por e-mail.
+Atenção: O dossiê do cliente foi encaminhado ao setor paralegal e arquivado de forma definitiva.
+Upload falhou: O arquivo PDF excedeu o limite de tamanho e o cliente já foi notificado.
+Reclamada anexou a declaração de imposto de renda no portal do escritório.
+Erro de sincronização impediu o salvamento do contrato social.
+Laudo pericial convertido para PDF e salvo no sistema.
+Atenção: A certidão negativa de débitos está pendente de assinatura.
+Upload falhou: a certidão de trânsito em julgado precisa ser reencaminhada.
+Upload falhou: A guia de custas passou por OCR e está pesquisável no portal do cliente.
+Contestação revisada e pronta para envio ao cliente.
+Contrato de honorários convertido para PDF e salvo no sistema.
+Declaração de imposto de renda recebida por e-mail e protocolada no sistema interno.
+Documento: A ata notarial foi assinada digitalmente.
+O comprovante de pagamento foi encaminhado ao setor paralegal.
+Extrato bancário renomeado conforme padrão do escritório.
+Atualização: O termo de acordo está pendente de assinatura.
+Certidão de nascimento revisada e pronta para envio ao cliente.
+Atenção: A petição inicial aguarda validação do gestor.
+Atenção: O RG do cliente precisa ser reencaminhado.
+Exportação do relatório de andamentos gerada em planilha.
+A certidão de nascimento foi protocolada internamente para cumprimento de prazo.
+Minuta de acordo arquivada na pasta digital do processo.
+Versão atualizada da planilha de cálculos substituiu a anterior no repositório.
+A certidão negativa de débitos foi rejeitada pelo tribunal.
+Atenção: A documentação anexada foi corrompida durante o upload na nuvem corporativa.
+Declaração de imposto de renda do autor adicionada aos autos internos.
+RG atualizado revisado e pronto para envio ao cliente.
+OCR aplicado no extrato bancário digitalizado.
+Falha no upload do comprovante de renda: arquivo corrompido.
+Carteira de trabalho movida para a pasta de arquivo morto.
+O comprovante de residência foi assinado via certificado A3 no portal eletrônico.
+Contestação pendente de assinatura digital via DocuSign.
+Status interno: a petição inicial foi rejeitada pelo tribunal.
+Upload falhou: A carta de preposição excedeu o limite de tamanho pelo assistente jurídico.
+Documento: A certidão de nascimento foi corrompida durante o upload.
+Minuta de acordo digitalizada e indexada no sistema.
+Aviso: O relatório médico foi rejeitado pelo tribunal.
+Upload do termo de audiência concluído com sucesso.
+Procuração ad judicia revisada e pronta para envio ao cliente.
+Contestação convertida para PDF e salva no sistema.
+O termo de confidencialidade (NDA) foi rejeitado pelo tribunal na subpasta de atos.
+Upload falhou: A ficha de cadastro foi encaminhada ao setor paralegal pelo sócio responsável.
+Upload da procuração ad judicia concluído com sucesso.
+Atenção: O laudo pericial foi protocolado internamente no dossiê previdenciário.
+O contrato de honorários foi fragmentado em partes.
+Atualização: A ata notarial excedeu o limite de tamanho pelo assistente jurídico.
+Termo de consentimento LGPD aceito pelo novo cliente na plataforma.
+O comprovante de residência foi anexado com sucesso.
+Atenção: O dossiê do cliente foi salvo na pasta digital para instrução probatória.
+Falha no upload do comprovante de residência: arquivo corrompido.
+A cliente anexou a minuta de acordo no portal do escritório.
+Status interno: A declaração de hipossuficiência foi encaminhada ao setor paralegal.
+Comprovante de renda recebido por e-mail e protocolado no sistema interno.
+A procuração ad judicia foi protocolada na rede interna para cumprimento de prazo.
+Upload falhou: A ata notarial foi digitalizada em alta resolução no portal do cliente.
+Upload falhou: O arquivo PDF foi encaminhado ao setor paralegal.
+Extrato bancário recebido por e-mail e protocolado no sistema interno.
+Cópia autenticada da procuração solicitada ao cartório.
+Atenção: O substabelecimento está disponível para download e o cliente já foi notificado.
+Silva & cia anexou o contrato de honorários no portal do escritório.
+Upload da planilha de cálculos concluído com sucesso.
+Atualização: A documentação anexada foi digitalizada em alta resolução.
+Réplica movida para a pasta de arquivo morto.
+Petição de juntada do extrato bancário assinada com token OAB.
+Alerta: O comprovante de residência foi corrompido durante o upload na nuvem corporativa.
+Atualização: O RG do cliente excedeu o limite de tamanho.
+Atualização: O holerite do reclamante aguarda validação do gestor.
+Upload falhou: A certidão de nascimento passou por OCR e está pesquisável na subpasta de atos constitutivos.
+Documentação complementar de ICMS recebida da contabilidade hoje.
+Aviso: O termo de acordo foi rejeitado pelo tribunal.
+Contrato social categorizado na caixa de entrada do sistema.
+Atualização: O laudo pericial foi anexado com sucesso no portal do cliente.
+Nova pasta compartilhada criada para os documentos do litígio.
+O holerite do reclamante precisa ser reencaminhado pelo assistente jurídico.
+Certidão de nascimento pendente de assinatura digital via DocuSign.
+Petição inicial convertida para PDF e salva no sistema.
+Documento: A petição inicial foi protocolada internamente.
+O comprovante de residência aguarda validação do gestor para conferência final.
+Documento: O contrato de locação foi assinado digitalmente pelo sócio responsável.
+A declaração de hipossuficiência está disponível para download para conferência final.
+Atualização: A guia de custas foi encaminhada ao setor paralegal no portal do cliente.
+Documento: O comprovante de residência passou por OCR e está pesquisável.
+A guia de recolhimento foi protocolada na rede interna no dossiê previdenciário.
+Upload falhou: O dossiê do cliente aguarda validação do gestor para instrução probatória.
+Upload falhou: O contrato de honorários foi assinado digitalmente.
+Upload falhou: a ata notarial foi rejeitada pelo tribunal.
+Aviso: A declaração de hipossuficiência foi digitalizada em alta resolução.
+Status interno: A ata notarial está disponível para download para cumprimento de prazo.
+Alerta: A ficha de cadastro foi salva na pasta digital via aplicativo do escritório.
+Atualização: A ata notarial foi encaminhada ao setor paralegal.
+Status interno: O contrato de locação foi digitalizado em alta resolução no dossiê previdenciário.
+Procuração pendente de assinatura digital via DocuSign.
+Aviso: A minuta da contestação foi assinada digitalmente.
+Atenção: A documentação anexada excedeu o limite de tamanho na subpasta de atos constitutivos.
+O contrato de honorários foi encaminhado ao setor paralegal no dossiê previdenciário.
+Falha no upload do contrato de honorários: arquivo corrompido.
+Alerta: A guia de custas foi corrompida durante o upload e o cliente já foi notificado.
+Status interno: A certidão de nascimento foi corrompida durante o upload para cumprimento de prazo.
+Documento: O comprovante de pagamento foi digitalizado em alta resolução.
+Upload falhou: A carta de preposição precisa ser reencaminhada no dossiê previdenciário.
+Os contracheques do reclamante foram renomeados por ordem de data.
+Documento: O parecer técnico está disponível para download no dossiê previdenciário.
+Status interno: A petição inicial passou por OCR e está pesquisável via plataforma DocuSign.
+Documento: A ficha de cadastro foi rejeitada pelo tribunal na subpasta de atos constitutivos.
+Assinatura eletrônica do comprovante de renda pendente.
+Carteira de trabalho categorizada na caixa de entrada do sistema.
+Planilha de cálculos categorizada na caixa de entrada do sistema.
+A certidão de trânsito em julgado precisa ser reencaminhada.
+Aviso: O laudo pericial foi corrompido durante o upload na nuvem corporativa.
+Status interno: O substabelecimento excedeu o limite de tamanho para conferência final.
+Certidão de casamento revisada e pronta para envio ao cliente.
+Upload falhou: A documentação anexada aguarda validação do gestor para conferência final.
+Aviso: A declaração de hipossuficiência foi fragmentada em partes via aplicativo do escritório.
+Alerta: A ficha de cadastro foi enviada por e-mail na nuvem corporativa.
+Cópias das conversas de WhatsApp formatadas e salvas para prova.
+O RG atualizado do cliente está aguardando validação do gestor e o cliente notificado.
+Atenção: A ficha de cadastro foi salva na pasta digital no sistema interno do escritório.
+Alerta: A ficha de cadastro está disponível para download.
+Atenção: A declaração de hipossuficiência está disponível para download.
+Falha no upload da minuta de acordo: arquivo corrompido.
+Alerta: o contrato social está aguardando validação do gestor.
+Aviso: A escritura do imóvel foi rejeitada pelo tribunal.
+Documento: O contrato social aguarda validação do gestor no sistema interno do escritório.
+Status interno: O comprovante de pagamento foi digitalizado em alta resolução para instrução probatória.
+OCR aplicado na declaração de imposto de renda digitalizada.
+A cliente anexou a certidão de casamento no portal do escritório.
+O contrato de locação foi rejeitado pelo tribunal no dossiê previdenciário.
+O contrato de locação foi enviado para o e-mail do cliente no dossiê previdenciário.
+Planilha de cálculos pendente de assinatura digital via DocuSign.
+A guia de custas foi corrompida durante o upload.
+Alerta: O contrato social foi salvo na pasta digital pelo assistente jurídico.
+Termo de acordo extrajudicial protocolado na rede interna.
+A escritura do imóvel foi rejeitada pelo tribunal no portal eletrônico.
+Comprovante de residência revisado e pronto para envio ao cliente.
+Faltam RG e CPF atualizados na pasta digital do cliente.
+Status interno: O contrato de locação foi salvo na pasta digital pelo sócio responsável.
+Aviso: O contrato de locação foi encaminhado ao setor paralegal para instrução probatória.

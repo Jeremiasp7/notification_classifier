@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import time
 from datetime import datetime, timezone
 
 import joblib
@@ -25,7 +26,11 @@ from scripts.plots import plot_model_comparison
 CANDIDATES = {
     "logreg": lambda: LogisticRegression(max_iter=1000, C=1.0, class_weight="balanced"),
     "svm": lambda: SVC(kernel="linear", C=1.0, probability=True, class_weight="balanced"),
-    "xgboost": lambda: XGBClassifier(eval_metric="mlogloss", random_state=42)
+    "xgboost": lambda: XGBClassifier(
+        eval_metric="mlogloss",
+        early_stopping_rounds=10,
+        random_state=42
+    )
 }
 
 
@@ -45,21 +50,39 @@ def train_and_select(model_choice: str | None = None, plot: bool = False) -> Non
     X_train = embed(train_df["sentenca"].tolist())
     X_val = embed(val_df["sentenca"].tolist())
 
-    candidates = CANDIDATES if model_choice is None else {model_choice: CANDIDATES[model_choice]}
+    candidates = CANDIDATES if model_choice is None else {
+        model_choice: CANDIDATES[model_choice]
+    }
 
     best_name, best_model, best_f1 = None, None, -1.0
     results = {}
 
     for name, build_model in candidates.items():
         model = build_model()
-        model.fit(X_train, y_train)
 
+        start_train = time.perf_counter()
+
+        if name == "xgboost":
+            model.fit(X_train, y_train, eval_set=[(X_val, y_val)], verbose=False)
+        else:
+            model.fit(X_train, y_train)
+
+        train_time = time.perf_counter() - start_train
+
+        start_infer = time.perf_counter()
         preds = model.predict(X_val)
+        infer_time = time.perf_counter() - start_infer
+
         acc = accuracy_score(y_val, preds)
         f1 = f1_score(y_val, preds, average="macro")
-        results[name] = {"accuracy": acc, "f1_macro": f1}
+        results[name] = {
+            "accuracy": acc,
+            "f1_macro": f1,
+            "train_time_sec": round(train_time, 4),
+            "infer_time_sec": round(infer_time, 4)
+        }
 
-        print(f"  [{name}] accuracy={acc:.4f}  f1_macro={f1:.4f}")
+        print(f" [{name}] accuracy={acc:.4f} f1_macro={f1:.4f} (Treino: {train_time:.2f}s)")
 
         if f1 > best_f1:
             best_name, best_model, best_f1 = name, model, f1
@@ -80,7 +103,9 @@ def train_and_select(model_choice: str | None = None, plot: bool = False) -> Non
         "val_results": results,
         "trained_at": datetime.now(timezone.utc).isoformat(),
     }
-    METADATA_PATH.write_text(json.dumps(metadata, indent=2, ensure_ascii=False), encoding="utf-8")
+    METADATA_PATH.write_text(
+        json.dumps(metadata, indent=2, ensure_ascii=False), encoding="utf-8"
+    )
 
     print(f"Artefatos salvos em: {MODELS_DIR}")
 

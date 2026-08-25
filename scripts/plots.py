@@ -98,7 +98,7 @@ def plot_classification_report(
         cbar=True,
         ax=ax,
     )
-    ax.set_title(f"Relatório de classificação — {split} (accuracy={report['accuracy']:.2f})")
+    ax.set_title(f"Relatório de classificação—{split} (accuracy={report['accuracy']:.2f})")
     plt.xticks(rotation=0)
     plt.yticks(rotation=0)
     fig.tight_layout()
@@ -117,8 +117,8 @@ def plot_model_comparison(
     show: bool = False,
 ) -> Path:
     """
-    Gera um gráfico de barras comparando accuracy e f1_macro 
-    entre candidatos. É usado pelo train.py para comparar 
+    Gera um gráfico de barras comparando accuracy e f1_macro
+    entre candidatos. É usado pelo train.py para comparar
     logreg vs svm na validação.
     """
     names = list(results.keys())

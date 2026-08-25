@@ -6,9 +6,9 @@ import pandas as pd
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 
-TRAIN_PATH = DATA_DIR / "database_notification_law_train.csv"
-VAL_PATH = DATA_DIR / "database_notification_law_val.csv"
-TEST_PATH = DATA_DIR / "database_notification_law_test.csv"
+TRAIN_PATH = DATA_DIR / "train.csv"
+VAL_PATH = DATA_DIR / "val.csv"
+TEST_PATH = DATA_DIR / "test.csv"
 
 REQUIRED_COLUMNS = {"id", "sentenca", "classe"}
 
@@ -17,7 +17,7 @@ def _load_csv(path: Path) -> pd.DataFrame:
     if not path.exists():
         raise FileNotFoundError(f"Arquivo não encontrado: {path}")
 
-    df = pd.read_csv(path)
+    df = pd.read_csv(path, sep=';')
 
     missing = REQUIRED_COLUMNS - set(df.columns)
     if missing:

@@ -61,7 +61,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--plot",
         action="store_true",
-        help="Gera matriz de confusão e relatório de classificação como imagens em /reports.",
+        help="Gera matriz de confusão e relatório de classificação em /reports.",
     )
     parser.add_argument(
         "--show",
