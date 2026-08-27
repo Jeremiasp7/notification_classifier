@@ -998,3 +998,1003 @@ Ato ordinatório praticado na 7ª Vara Empresarial. Aguardando manifestação da
 Requisitada informação à autoridade coatora em mandado de segurança.
 Expedida carta precatória para oitiva na 8ª Vara Criminal. Verifique o andamento no PJe.
 Urgente: Expedido mandado de citação.
+Acórdão publicado. Confira o teor no sistema.
+Agravo de instrumento recebido. O processo segue tramitação normal.
+Agravo de instrumento recebido. Prazo comum aberto.
+Alerta: Acórdão publicado. Confira o teor no sistema.
+Alerta: Acórdão publicado. Vista às partes por 5 dias.
+Alerta: Agravo de instrumento recebido na 3ª Vara Criminal. Confira o teor no sistema.
+Alerta: Agravo de instrumento recebido pelo Tribunal de Justiça.
+Alerta: Agravo de instrumento recebido.
+Alerta: Apelação interposta na Vara da Fazenda Pública.
+Alerta: Apelação interposta. Remetam-se os autos ao arquivo.
+Alerta: Ato ordinatório praticado.
+Alerta: Ato ordinatório praticado. Aguardando pagamento de custas.
+Alerta: Autos remetidos à conclusão. O prazo recursal inicia-se amanhã.
+Alerta: Autos remetidos à conclusão. O processo segue tramitação normal.
+Alerta: Autos remetidos à conclusão. Vista às partes por 5 dias.
+Alerta: Baixa definitiva dos autos no sistema e-Proc. O processo segue tramitação normal.
+Alerta: Baixa definitiva dos autos pela contadoria judicial. Vista às partes por 5 dias.
+Alerta: Baixa definitiva dos autos. Aguardando pagamento de custas.
+Alerta: Baixa definitiva dos autos. Vista às partes por 5 dias.
+Alerta: Carta precatória expedida na 2ª Vara do Trabalho. O processo segue tramitação normal.
+Alerta: Carta precatória expedida no Juizado Especial. Aguardando decurso de prazo.
+Alerta: Carta precatória expedida.
+Alerta: Carta precatória expedida. Aguardando decurso de prazo.
+Alerta: Carta precatória expedida. Aguardando manifestação das partes.
+Alerta: Certidão de decurso de prazo expedida na 3ª Vara Criminal. Prazo comum aberto.
+Alerta: Certidão de decurso de prazo expedida.
+Alerta: Conclusos para julgamento no sistema PJe. Prazo comum aberto.
+Alerta: Decisão interlocutória proferida na 3ª Vara Criminal.
+Alerta: Decisão interlocutória proferida. Arquive-se com as cautelas de praxe.
+Alerta: Decisão interlocutória proferida. O processo segue tramitação normal.
+Alerta: Decisão interlocutória proferida. Verifique o andamento no tribunal.
+Alerta: Deferida a tutela de urgência pelo relator. Arquive-se com as cautelas de praxe.
+Alerta: Deferida a tutela de urgência. Confira o teor no sistema.
+Alerta: Deferida a tutela de urgência. Consulte a íntegra no e-Proc.
+Alerta: Deferida a tutela de urgência. Prazo comum aberto.
+Alerta: Determinada a penhora online na comarca de origem. Arquive-se com as cautelas de praxe.
+Alerta: Determinada a penhora online na comarca de origem. Confira o teor no sistema.
+Alerta: Determinada a penhora online no Superior Tribunal de Justiça. Aguardando manifestação das partes.
+Alerta: Determinada a penhora online no sistema e-Proc. Aguardando decurso de prazo.
+Alerta: Determinada a penhora online. Confira o teor no sistema.
+Alerta: Embargos de declaração rejeitados na Vara de Família. Verifique o andamento no tribunal.
+Alerta: Embargos de declaração rejeitados no sistema PJe. O processo segue tramitação normal.
+Alerta: Embargos de declaração rejeitados pela contadoria judicial.
+Alerta: Expedido mandado de citação pela secretaria da vara. Certifique-se o decurso do prazo.
+Alerta: Expedido mandado de citação pelo relator. Cumpra-se com urgência.
+Alerta: Homologado o acordo no Juizado Especial. Aguardando decurso de prazo.
+Alerta: Homologado o acordo.
+Alerta: Homologado o acordo. Aguardando pagamento de custas.
+Alerta: Homologado o acordo. Arquive-se com as cautelas de praxe.
+Alerta: Indeferida a liminar nos autos da ação. Confira o teor no sistema.
+Alerta: Indeferida a liminar. Confira o teor no sistema.
+Alerta: Juntada de petição na 2ª Vara do Trabalho. Remetam-se os autos ao arquivo.
+Alerta: Juntada de petição.
+Alerta: Juntada de petição. O prazo recursal inicia-se amanhã.
+Alerta: Juntada de petição. O processo segue tramitação normal.
+Alerta: Mandado devolvido cumprido no cartório da vara. Prazo comum aberto.
+Alerta: Mandado devolvido cumprido pelo relator. Prazo comum aberto.
+Alerta: Mandado devolvido cumprido. Remetam-se os autos ao arquivo.
+Alerta: Mandado devolvido sem cumprimento no Juizado Especial.
+Alerta: Mandado devolvido sem cumprimento.
+Alerta: Mandado devolvido sem cumprimento. Confira o teor no sistema.
+Alerta: Manifestação pericial anexada. Aguardando decurso de prazo.
+Alerta: Manifestação pericial anexada. Aguardando manifestação das partes.
+Alerta: Manifestação pericial anexada. Consulte a íntegra no e-Proc.
+Alerta: Manifestação pericial anexada. O prazo recursal inicia-se amanhã.
+Alerta: Manifestação pericial anexada. Verifique o andamento no tribunal.
+Alerta: Ofício expedido.
+Alerta: Ofício expedido. Notifique-se o cliente da decisão.
+Alerta: Ofício expedido. Prazo comum aberto.
+Alerta: Petição de juntada recebida na 1ª Vara Cível. Cumpra-se com urgência.
+Alerta: Petição de juntada recebida na Vara de Família. O prazo recursal inicia-se amanhã.
+Alerta: Petição de juntada recebida no cartório da vara. Arquive-se com as cautelas de praxe.
+Alerta: Petição de juntada recebida pela contadoria judicial.
+Alerta: Petição de juntada recebida. Consulte a íntegra no e-Proc.
+Alerta: Petição de juntada recebida. Cumpra-se com urgência.
+Alerta: Recebidos os autos na Vara de Família. O processo segue tramitação normal.
+Alerta: Recebidos os autos no processo de execução. Aguardando a intimação do réu.
+Alerta: Redistribuição do processo no Diário da Justiça Eletrônico.
+Alerta: Redistribuição do processo no sistema PJe. Aguardando a intimação do réu.
+Alerta: Redistribuição do processo no sistema PJe. O prazo recursal inicia-se amanhã.
+Alerta: Redistribuição do processo pelo juízo deprecante.
+Alerta: Redistribuição do processo. Aguardando manifestação das partes.
+Alerta: Remessa ao tribunal superior nos autos da ação. Remetam-se os autos ao arquivo.
+Alerta: Remessa ao tribunal superior. Certifique-se o decurso do prazo.
+Alerta: Sentença de mérito publicada no sistema e-Proc. Aguardando decurso de prazo.
+Alerta: Sentença de mérito publicada no sistema e-Proc. O processo segue tramitação normal.
+Alerta: Sentença de mérito publicada pelo juízo deprecante. Aguardando a intimação do réu.
+Alerta: Sentença de mérito publicada. Prazo comum aberto.
+Alerta: Sentença proferida.
+Alerta: Sentença proferida. O prazo recursal inicia-se amanhã.
+Alerta: Suspensão do processo decretada. Consulte a íntegra no e-Proc.
+Alerta: Suspensão do processo decretada. Notifique-se o cliente da decisão.
+Alerta: Trânsito em julgado certificado na Vara de Família. O processo segue tramitação normal.
+Alerta: Trânsito em julgado certificado no Diário da Justiça Eletrônico. Prazo comum aberto.
+Alerta: Trânsito em julgado certificado pelo relator. Vista às partes por 5 dias.
+Alerta: Trânsito em julgado certificado.
+Alerta: Vista ao Ministério Público na Vara de Família. Confira o teor no sistema.
+Alerta: Vista ao Ministério Público.
+Andamento: Acórdão publicado no processo de execução. Notifique-se o cliente da decisão.
+Andamento: Acórdão publicado pela secretaria da vara. Vista às partes por 5 dias.
+Andamento: Acórdão publicado.
+Andamento: Agravo de instrumento recebido pela secretaria da vara. Vista às partes por 5 dias.
+Andamento: Agravo de instrumento recebido.
+Andamento: Agravo de instrumento recebido. Verifique o andamento no tribunal.
+Andamento: Apelação interposta na 3ª Vara Criminal. O processo segue tramitação normal.
+Andamento: Apelação interposta pela secretaria da vara. Certifique-se o decurso do prazo.
+Andamento: Apelação interposta. Aguardando a intimação do réu.
+Andamento: Apelação interposta. Consulte a íntegra no e-Proc.
+Andamento: Ato ordinatório praticado no cartório da vara. Cumpra-se com urgência.
+Andamento: Ato ordinatório praticado. Vista às partes por 5 dias.
+Andamento: Autos remetidos à conclusão na Vara da Fazenda Pública. Certifique-se o decurso do prazo.
+Andamento: Autos remetidos à conclusão na Vara da Fazenda Pública. O processo segue tramitação normal.
+Andamento: Autos remetidos à conclusão no Juizado Especial. Prazo comum aberto.
+Andamento: Autos remetidos à conclusão no sistema e-Proc. Verifique o andamento no tribunal.
+Andamento: Autos remetidos à conclusão. O processo segue tramitação normal.
+Andamento: Baixa definitiva dos autos na 1ª Vara Cível. Prazo comum aberto.
+Andamento: Baixa definitiva dos autos pelo relator. Aguardando pagamento de custas.
+Andamento: Baixa definitiva dos autos. Verifique o andamento no tribunal.
+Andamento: Carta precatória expedida pela secretaria da vara. O prazo recursal inicia-se amanhã.
+Andamento: Carta precatória expedida. Arquive-se com as cautelas de praxe.
+Andamento: Carta precatória expedida. Consulte a íntegra no e-Proc.
+Andamento: Certidão de decurso de prazo expedida na Vara de Família. Confira o teor no sistema.
+Andamento: Certidão de decurso de prazo expedida. Certifique-se o decurso do prazo.
+Andamento: Certidão de decurso de prazo expedida. Notifique-se o cliente da decisão.
+Andamento: Certidão de decurso de prazo expedida. Verifique o andamento no tribunal.
+Andamento: Conclusos para julgamento na 3ª Vara Criminal.
+Andamento: Conclusos para julgamento no sistema PJe. Aguardando a intimação do réu.
+Andamento: Conclusos para julgamento no sistema PJe. Consulte a íntegra no e-Proc.
+Andamento: Conclusos para julgamento. Aguardando a intimação do réu.
+Andamento: Decisão interlocutória proferida no Superior Tribunal de Justiça.
+Andamento: Decisão interlocutória proferida pela secretaria da vara. Consulte a íntegra no e-Proc.
+Andamento: Decisão interlocutória proferida pelo juízo deprecante. Consulte a íntegra no e-Proc.
+Andamento: Deferida a tutela de urgência pelo relator. Certifique-se o decurso do prazo.
+Andamento: Deferida a tutela de urgência. Certifique-se o decurso do prazo.
+Andamento: Deferida a tutela de urgência. Prazo comum aberto.
+Andamento: Determinada a penhora online no sistema e-Proc. Aguardando decurso de prazo.
+Andamento: Determinada a penhora online.
+Andamento: Determinada a penhora online. Arquive-se com as cautelas de praxe.
+Andamento: Determinada a penhora online. Verifique o andamento no tribunal.
+Andamento: Determinada a penhora online. Vista às partes por 5 dias.
+Andamento: Embargos de declaração rejeitados no Juizado Especial. Aguardando a intimação do réu.
+Andamento: Embargos de declaração rejeitados pela contadoria judicial. O processo segue tramitação normal.
+Andamento: Expedido alvará eletrônico.
+Andamento: Expedido alvará eletrônico. Aguardando a intimação do réu.
+Andamento: Expedido alvará eletrônico. O prazo recursal inicia-se amanhã.
+Andamento: Expedido mandado de citação no cartório da vara.
+Andamento: Expedido mandado de citação pelo juízo deprecante.
+Andamento: Homologado o acordo na 3ª Vara Criminal. Vista às partes por 5 dias.
+Andamento: Homologado o acordo na Vara da Fazenda Pública.
+Andamento: Indeferida a liminar no Diário da Justiça Eletrônico. O processo segue tramitação normal.
+Andamento: Indeferida a liminar. Aguardando pagamento de custas.
+Andamento: Juntada de petição no Juizado Especial. O prazo recursal inicia-se amanhã.
+Andamento: Juntada de petição no portal eletrônico e-SAJ. Confira o teor no sistema.
+Andamento: Juntada de petição pelo Tribunal de Justiça. Notifique-se o cliente da decisão.
+Andamento: Juntada de petição. Notifique-se o cliente da decisão.
+Andamento: Mandado devolvido cumprido no portal eletrônico e-SAJ. Vista às partes por 5 dias.
+Andamento: Mandado devolvido sem cumprimento na 3ª Vara Criminal. Arquive-se com as cautelas de praxe.
+Andamento: Mandado devolvido sem cumprimento pela secretaria da vara. Notifique-se o cliente da decisão.
+Andamento: Mandado devolvido sem cumprimento pelo Tribunal de Justiça. Certifique-se o decurso do prazo.
+Andamento: Mandado devolvido sem cumprimento.
+Andamento: Mandado devolvido sem cumprimento. Cumpra-se com urgência.
+Andamento: Mandado devolvido sem cumprimento. Verifique o andamento no tribunal.
+Andamento: Manifestação pericial anexada no sistema PJe. Aguardando manifestação das partes.
+Andamento: Manifestação pericial anexada pelo Tribunal de Justiça.
+Andamento: Manifestação pericial anexada pelo Tribunal de Justiça. Consulte a íntegra no e-Proc.
+Andamento: Manifestação pericial anexada. Arquive-se com as cautelas de praxe.
+Andamento: Manifestação pericial anexada. Verifique o andamento no tribunal.
+Andamento: Novo despacho proferido pela secretaria da vara. Verifique o andamento no tribunal.
+Andamento: Novo despacho proferido. Verifique o andamento no tribunal.
+Andamento: Ofício expedido na 2ª Vara do Trabalho. Verifique o andamento no tribunal.
+Andamento: Ofício expedido no cartório da vara. Aguardando pagamento de custas.
+Andamento: Ofício expedido. Certifique-se o decurso do prazo.
+Andamento: Ofício expedido. Remetam-se os autos ao arquivo.
+Andamento: Petição de juntada recebida pela secretaria da vara. Prazo comum aberto.
+Andamento: Petição de juntada recebida. Remetam-se os autos ao arquivo.
+Andamento: Recebidos os autos no Juizado Especial. Arquive-se com as cautelas de praxe.
+Andamento: Redistribuição do processo. Aguardando manifestação das partes.
+Andamento: Redistribuição do processo. Arquive-se com as cautelas de praxe.
+Andamento: Remessa ao tribunal superior no Superior Tribunal de Justiça. Vista às partes por 5 dias.
+Andamento: Remessa ao tribunal superior no sistema e-Proc. Remetam-se os autos ao arquivo.
+Andamento: Remessa ao tribunal superior. Cumpra-se com urgência.
+Andamento: Sentença de mérito publicada no sistema PJe. Certifique-se o decurso do prazo.
+Andamento: Sentença de mérito publicada.
+Andamento: Sentença proferida no sistema e-Proc. Arquive-se com as cautelas de praxe.
+Andamento: Sentença proferida.
+Andamento: Sentença proferida. Cumpra-se com urgência.
+Andamento: Suspensão do processo decretada no sistema e-Proc. Arquive-se com as cautelas de praxe.
+Andamento: Suspensão do processo decretada. Aguardando a intimação do réu.
+Andamento: Trânsito em julgado certificado na 3ª Vara Criminal. Remetam-se os autos ao arquivo.
+Andamento: Trânsito em julgado certificado. Notifique-se o cliente da decisão.
+Andamento: Vista ao Ministério Público na 1ª Vara Cível. Notifique-se o cliente da decisão.
+Andamento: Vista ao Ministério Público na 3ª Vara Criminal. Confira o teor no sistema.
+Andamento: Vista ao Ministério Público na comarca de origem. O processo segue tramitação normal.
+Andamento: Vista ao Ministério Público.
+Apelação interposta na 1ª Vara Cível. Cumpra-se com urgência.
+Apelação interposta no Diário da Justiça Eletrônico. Confira o teor no sistema.
+Apelação interposta no cartório da vara.
+Apelação interposta. Aguardando a intimação do réu.
+Apelação interposta. Arquive-se com as cautelas de praxe.
+Apelação interposta. Certifique-se o decurso do prazo.
+Atenção: Acórdão publicado pelo juízo deprecante. O processo segue tramitação normal.
+Atenção: Acórdão publicado. Aguardando a intimação do réu.
+Atenção: Acórdão publicado. Arquive-se com as cautelas de praxe.
+Atenção: Acórdão publicado. Consulte a íntegra no e-Proc.
+Atenção: Agravo de instrumento recebido na comarca de origem. Certifique-se o decurso do prazo.
+Atenção: Agravo de instrumento recebido no Diário da Justiça Eletrônico. Arquive-se com as cautelas de praxe.
+Atenção: Agravo de instrumento recebido no Juizado Especial. Verifique o andamento no tribunal.
+Atenção: Agravo de instrumento recebido pelo relator. Prazo comum aberto.
+Atenção: Agravo de instrumento recebido. Arquive-se com as cautelas de praxe.
+Atenção: Agravo de instrumento recebido. O processo segue tramitação normal.
+Atenção: Agravo de instrumento recebido. Verifique o andamento no tribunal.
+Atenção: Apelação interposta na Vara da Fazenda Pública. Vista às partes por 5 dias.
+Atenção: Apelação interposta no Diário da Justiça Eletrônico. Remetam-se os autos ao arquivo.
+Atenção: Apelação interposta pelo juízo deprecante. Confira o teor no sistema.
+Atenção: Apelação interposta.
+Atenção: Apelação interposta. Confira o teor no sistema.
+Atenção: Autos remetidos à conclusão na 1ª Vara Cível. Cumpra-se com urgência.
+Atenção: Autos remetidos à conclusão. Aguardando pagamento de custas.
+Atenção: Autos remetidos à conclusão. Notifique-se o cliente da decisão.
+Atenção: Autos remetidos à conclusão. Vista às partes por 5 dias.
+Atenção: Baixa definitiva dos autos no sistema e-Proc. Consulte a íntegra no e-Proc.
+Atenção: Baixa definitiva dos autos pelo Tribunal de Justiça. Consulte a íntegra no e-Proc.
+Atenção: Baixa definitiva dos autos pelo relator. Cumpra-se com urgência.
+Atenção: Baixa definitiva dos autos. Aguardando decurso de prazo.
+Atenção: Baixa definitiva dos autos. Arquive-se com as cautelas de praxe.
+Atenção: Baixa definitiva dos autos. Prazo comum aberto.
+Atenção: Baixa definitiva dos autos. Verifique o andamento no tribunal.
+Atenção: Carta precatória expedida na Vara de Família. Notifique-se o cliente da decisão.
+Atenção: Carta precatória expedida no Juizado Especial. Aguardando pagamento de custas.
+Atenção: Carta precatória expedida no Superior Tribunal de Justiça. Aguardando a intimação do réu.
+Atenção: Carta precatória expedida.
+Atenção: Certidão de decurso de prazo expedida na Vara da Fazenda Pública. Notifique-se o cliente da decisão.
+Atenção: Certidão de decurso de prazo expedida. Arquive-se com as cautelas de praxe.
+Atenção: Certidão de decurso de prazo expedida. Notifique-se o cliente da decisão.
+Atenção: Certidão de decurso de prazo expedida. O prazo recursal inicia-se amanhã.
+Atenção: Conclusos para julgamento no Juizado Especial. Remetam-se os autos ao arquivo.
+Atenção: Conclusos para julgamento. Arquive-se com as cautelas de praxe.
+Atenção: Decisão interlocutória proferida no Diário da Justiça Eletrônico. Verifique o andamento no tribunal.
+Atenção: Decisão interlocutória proferida. O prazo recursal inicia-se amanhã.
+Atenção: Deferida a tutela de urgência na Vara de Família. Aguardando manifestação das partes.
+Atenção: Deferida a tutela de urgência.
+Atenção: Deferida a tutela de urgência. Confira o teor no sistema.
+Atenção: Determinada a penhora online na 1ª Vara Cível. O prazo recursal inicia-se amanhã.
+Atenção: Determinada a penhora online.
+Atenção: Determinada a penhora online. Confira o teor no sistema.
+Atenção: Embargos de declaração rejeitados na Vara de Família. Aguardando a intimação do réu.
+Atenção: Embargos de declaração rejeitados. Aguardando decurso de prazo.
+Atenção: Embargos de declaração rejeitados. Certifique-se o decurso do prazo.
+Atenção: Embargos de declaração rejeitados. Confira o teor no sistema.
+Atenção: Embargos de declaração rejeitados. O prazo recursal inicia-se amanhã.
+Atenção: Expedido alvará eletrônico na comarca de origem. Remetam-se os autos ao arquivo.
+Atenção: Expedido alvará eletrônico no sistema e-Proc. Vista às partes por 5 dias.
+Atenção: Expedido alvará eletrônico. Prazo comum aberto.
+Atenção: Expedido mandado de citação no Diário da Justiça Eletrônico.
+Atenção: Expedido mandado de citação no Juizado Especial. Verifique o andamento no tribunal.
+Atenção: Expedido mandado de citação. O prazo recursal inicia-se amanhã.
+Atenção: Homologado o acordo na 3ª Vara Criminal. Aguardando decurso de prazo.
+Atenção: Homologado o acordo nos autos da ação. Certifique-se o decurso do prazo.
+Atenção: Homologado o acordo.
+Atenção: Indeferida a liminar no portal eletrônico e-SAJ. Certifique-se o decurso do prazo.
+Atenção: Indeferida a liminar.
+Atenção: Indeferida a liminar. Prazo comum aberto.
+Atenção: Juntada de petição na 3ª Vara Criminal. Aguardando pagamento de custas.
+Atenção: Juntada de petição no sistema e-Proc.
+Atenção: Juntada de petição. Remetam-se os autos ao arquivo.
+Atenção: Mandado devolvido cumprido no cartório da vara. Vista às partes por 5 dias.
+Atenção: Mandado devolvido cumprido no sistema PJe.
+Atenção: Mandado devolvido cumprido.
+Atenção: Mandado devolvido cumprido. Prazo comum aberto.
+Atenção: Mandado devolvido sem cumprimento no cartório da vara. Notifique-se o cliente da decisão.
+Atenção: Mandado devolvido sem cumprimento pela secretaria da vara.
+Atenção: Mandado devolvido sem cumprimento pelo relator. O prazo recursal inicia-se amanhã.
+Atenção: Mandado devolvido sem cumprimento. Vista às partes por 5 dias.
+Atenção: Manifestação pericial anexada no processo de execução. Notifique-se o cliente da decisão.
+Atenção: Manifestação pericial anexada pelo Tribunal de Justiça. Vista às partes por 5 dias.
+Atenção: Novo despacho proferido. Remetam-se os autos ao arquivo.
+Atenção: Ofício expedido na 3ª Vara Criminal. Verifique o andamento no tribunal.
+Atenção: Petição de juntada recebida no processo de execução. Vista às partes por 5 dias.
+Atenção: Petição de juntada recebida no sistema e-Proc.
+Atenção: Petição de juntada recebida.
+Atenção: Petição de juntada recebida. Arquive-se com as cautelas de praxe.
+Atenção: Petição de juntada recebida. Consulte a íntegra no e-Proc.
+Atenção: Recebidos os autos. Confira o teor no sistema.
+Atenção: Redistribuição do processo. Remetam-se os autos ao arquivo.
+Atenção: Redistribuição do processo. Vista às partes por 5 dias.
+Atenção: Remessa ao tribunal superior na 2ª Vara do Trabalho.
+Atenção: Remessa ao tribunal superior no Superior Tribunal de Justiça.
+Atenção: Remessa ao tribunal superior no sistema e-Proc. Notifique-se o cliente da decisão.
+Atenção: Remessa ao tribunal superior nos autos da ação. Arquive-se com as cautelas de praxe.
+Atenção: Remessa ao tribunal superior. Aguardando pagamento de custas.
+Atenção: Sentença de mérito publicada.
+Atenção: Sentença de mérito publicada. Arquive-se com as cautelas de praxe.
+Atenção: Sentença proferida no Diário da Justiça Eletrônico.
+Atenção: Sentença proferida no cartório da vara. Remetam-se os autos ao arquivo.
+Atenção: Trânsito em julgado certificado na comarca de origem.
+Atenção: Trânsito em julgado certificado no sistema PJe. Aguardando pagamento de custas.
+Atenção: Trânsito em julgado certificado. Remetam-se os autos ao arquivo.
+Atenção: Vista ao Ministério Público na 3ª Vara Criminal. Aguardando a intimação do réu.
+Atenção: Vista ao Ministério Público no processo de execução. Aguardando pagamento de custas.
+Atenção: Vista ao Ministério Público pelo Tribunal de Justiça.
+Atenção: Vista ao Ministério Público. Notifique-se o cliente da decisão.
+Ato ordinatório praticado na Vara de Família. Consulte a íntegra no e-Proc.
+Ato ordinatório praticado na comarca de origem. Cumpra-se com urgência.
+Ato ordinatório praticado no cartório da vara. Verifique o andamento no tribunal.
+Ato ordinatório praticado no processo de execução.
+Atualização processual: Acórdão publicado pela contadoria judicial. Aguardando pagamento de custas.
+Atualização processual: Acórdão publicado pelo Tribunal de Justiça. O prazo recursal inicia-se amanhã.
+Atualização processual: Acórdão publicado. O processo segue tramitação normal.
+Atualização processual: Agravo de instrumento recebido no cartório da vara. Remetam-se os autos ao arquivo.
+Atualização processual: Apelação interposta. Aguardando a intimação do réu.
+Atualização processual: Apelação interposta. Aguardando pagamento de custas.
+Atualização processual: Apelação interposta. Cumpra-se com urgência.
+Atualização processual: Ato ordinatório praticado no Juizado Especial. Remetam-se os autos ao arquivo.
+Atualização processual: Ato ordinatório praticado no cartório da vara. O prazo recursal inicia-se amanhã.
+Atualização processual: Ato ordinatório praticado pela contadoria judicial.
+Atualização processual: Ato ordinatório praticado.
+Atualização processual: Ato ordinatório praticado. Certifique-se o decurso do prazo.
+Atualização processual: Ato ordinatório praticado. O prazo recursal inicia-se amanhã.
+Atualização processual: Autos remetidos à conclusão na 3ª Vara Criminal. Certifique-se o decurso do prazo.
+Atualização processual: Autos remetidos à conclusão pelo juízo deprecante. Verifique o andamento no tribunal.
+Atualização processual: Baixa definitiva dos autos no sistema PJe. Aguardando manifestação das partes.
+Atualização processual: Baixa definitiva dos autos. Certifique-se o decurso do prazo.
+Atualização processual: Baixa definitiva dos autos. Confira o teor no sistema.
+Atualização processual: Carta precatória expedida no Juizado Especial. Aguardando a intimação do réu.
+Atualização processual: Certidão de decurso de prazo expedida.
+Atualização processual: Certidão de decurso de prazo expedida. Certifique-se o decurso do prazo.
+Atualização processual: Certidão de decurso de prazo expedida. Cumpra-se com urgência.
+Atualização processual: Conclusos para julgamento no cartório da vara. Cumpra-se com urgência.
+Atualização processual: Conclusos para julgamento.
+Atualização processual: Conclusos para julgamento. Notifique-se o cliente da decisão.
+Atualização processual: Decisão interlocutória proferida nos autos da ação.
+Atualização processual: Decisão interlocutória proferida pelo Tribunal de Justiça. Confira o teor no sistema.
+Atualização processual: Deferida a tutela de urgência nos autos da ação.
+Atualização processual: Deferida a tutela de urgência. Aguardando manifestação das partes.
+Atualização processual: Deferida a tutela de urgência. Arquive-se com as cautelas de praxe.
+Atualização processual: Deferida a tutela de urgência. Notifique-se o cliente da decisão.
+Atualização processual: Determinada a penhora online nos autos da ação. Aguardando manifestação das partes.
+Atualização processual: Determinada a penhora online. Verifique o andamento no tribunal.
+Atualização processual: Embargos de declaração rejeitados.
+Atualização processual: Embargos de declaração rejeitados. Cumpra-se com urgência.
+Atualização processual: Embargos de declaração rejeitados. O processo segue tramitação normal.
+Atualização processual: Expedido alvará eletrônico na 3ª Vara Criminal. Consulte a íntegra no e-Proc.
+Atualização processual: Expedido alvará eletrônico. Aguardando decurso de prazo.
+Atualização processual: Expedido alvará eletrônico. O prazo recursal inicia-se amanhã.
+Atualização processual: Expedido alvará eletrônico. Vista às partes por 5 dias.
+Atualização processual: Expedido mandado de citação na Vara da Fazenda Pública.
+Atualização processual: Expedido mandado de citação no Diário da Justiça Eletrônico. Aguardando a intimação do réu.
+Atualização processual: Expedido mandado de citação no sistema PJe. Arquive-se com as cautelas de praxe.
+Atualização processual: Expedido mandado de citação. Arquive-se com as cautelas de praxe.
+Atualização processual: Expedido mandado de citação. Vista às partes por 5 dias.
+Atualização processual: Homologado o acordo no portal eletrônico e-SAJ. O prazo recursal inicia-se amanhã.
+Atualização processual: Homologado o acordo nos autos da ação. Confira o teor no sistema.
+Atualização processual: Homologado o acordo pelo juízo deprecante. Aguardando manifestação das partes.
+Atualização processual: Homologado o acordo. Consulte a íntegra no e-Proc.
+Atualização processual: Homologado o acordo. O prazo recursal inicia-se amanhã.
+Atualização processual: Indeferida a liminar na 2ª Vara do Trabalho.
+Atualização processual: Indeferida a liminar no Diário da Justiça Eletrônico. Confira o teor no sistema.
+Atualização processual: Indeferida a liminar no Juizado Especial. Arquive-se com as cautelas de praxe.
+Atualização processual: Indeferida a liminar no Superior Tribunal de Justiça. Cumpra-se com urgência.
+Atualização processual: Indeferida a liminar no sistema e-Proc. Aguardando a intimação do réu.
+Atualização processual: Indeferida a liminar pelo relator. Certifique-se o decurso do prazo.
+Atualização processual: Indeferida a liminar. Confira o teor no sistema.
+Atualização processual: Juntada de petição pelo relator. O processo segue tramitação normal.
+Atualização processual: Juntada de petição. Confira o teor no sistema.
+Atualização processual: Juntada de petição. Notifique-se o cliente da decisão.
+Atualização processual: Mandado devolvido cumprido na 3ª Vara Criminal.
+Atualização processual: Mandado devolvido cumprido. O prazo recursal inicia-se amanhã.
+Atualização processual: Mandado devolvido sem cumprimento na 2ª Vara do Trabalho. Arquive-se com as cautelas de praxe.
+Atualização processual: Mandado devolvido sem cumprimento no portal eletrônico e-SAJ. Aguardando pagamento de custas.
+Atualização processual: Mandado devolvido sem cumprimento nos autos da ação. Verifique o andamento no tribunal.
+Atualização processual: Mandado devolvido sem cumprimento. Aguardando manifestação das partes.
+Atualização processual: Mandado devolvido sem cumprimento. Aguardando pagamento de custas.
+Atualização processual: Mandado devolvido sem cumprimento. Consulte a íntegra no e-Proc.
+Atualização processual: Manifestação pericial anexada no Superior Tribunal de Justiça. Aguardando pagamento de custas.
+Atualização processual: Novo despacho proferido na 2ª Vara do Trabalho. Aguardando a intimação do réu.
+Atualização processual: Novo despacho proferido pelo juízo deprecante. Notifique-se o cliente da decisão.
+Atualização processual: Novo despacho proferido. Aguardando decurso de prazo.
+Atualização processual: Novo despacho proferido. Consulte a íntegra no e-Proc.
+Atualização processual: Novo despacho proferido. Vista às partes por 5 dias.
+Atualização processual: Ofício expedido na 3ª Vara Criminal. Consulte a íntegra no e-Proc.
+Atualização processual: Ofício expedido pelo Tribunal de Justiça. Remetam-se os autos ao arquivo.
+Atualização processual: Ofício expedido. Aguardando decurso de prazo.
+Atualização processual: Petição de juntada recebida na 2ª Vara do Trabalho. Verifique o andamento no tribunal.
+Atualização processual: Petição de juntada recebida pela secretaria da vara.
+Atualização processual: Petição de juntada recebida pelo juízo deprecante. Consulte a íntegra no e-Proc.
+Atualização processual: Petição de juntada recebida.
+Atualização processual: Petição de juntada recebida. Aguardando manifestação das partes.
+Atualização processual: Petição de juntada recebida. Aguardando pagamento de custas.
+Atualização processual: Recebidos os autos no sistema PJe. Confira o teor no sistema.
+Atualização processual: Recebidos os autos pelo relator. Consulte a íntegra no e-Proc.
+Atualização processual: Redistribuição do processo pelo juízo deprecante. Confira o teor no sistema.
+Atualização processual: Redistribuição do processo. Arquive-se com as cautelas de praxe.
+Atualização processual: Redistribuição do processo. Prazo comum aberto.
+Atualização processual: Remessa ao tribunal superior pelo juízo deprecante.
+Atualização processual: Remessa ao tribunal superior.
+Atualização processual: Remessa ao tribunal superior. Remetam-se os autos ao arquivo.
+Atualização processual: Remessa ao tribunal superior. Verifique o andamento no tribunal.
+Atualização processual: Remessa ao tribunal superior. Vista às partes por 5 dias.
+Atualização processual: Sentença de mérito publicada pelo juízo deprecante. Aguardando a intimação do réu.
+Atualização processual: Sentença de mérito publicada.
+Atualização processual: Sentença proferida na 1ª Vara Cível.
+Atualização processual: Sentença proferida. Remetam-se os autos ao arquivo.
+Atualização processual: Suspensão do processo decretada no Superior Tribunal de Justiça. Remetam-se os autos ao arquivo.
+Atualização processual: Trânsito em julgado certificado no Juizado Especial. Arquive-se com as cautelas de praxe.
+Atualização processual: Trânsito em julgado certificado pela contadoria judicial. Arquive-se com as cautelas de praxe.
+Atualização processual: Trânsito em julgado certificado. O prazo recursal inicia-se amanhã.
+Atualização processual: Vista ao Ministério Público no cartório da vara. Certifique-se o decurso do prazo.
+Atualização processual: Vista ao Ministério Público pela secretaria da vara. Cumpra-se com urgência.
+Atualização processual: Vista ao Ministério Público. Aguardando decurso de prazo.
+Atualização processual: Vista ao Ministério Público. Arquive-se com as cautelas de praxe.
+Atualização processual: Vista ao Ministério Público. Cumpra-se com urgência.
+Autos remetidos à conclusão na 3ª Vara Criminal. Remetam-se os autos ao arquivo.
+Autos remetidos à conclusão no cartório da vara.
+Autos remetidos à conclusão.
+Autos remetidos à conclusão. Aguardando decurso de prazo.
+Aviso de movimentação: Acórdão publicado. Notifique-se o cliente da decisão.
+Aviso de movimentação: Agravo de instrumento recebido na 2ª Vara do Trabalho. Consulte a íntegra no e-Proc.
+Aviso de movimentação: Agravo de instrumento recebido na Vara da Fazenda Pública. Aguardando a intimação do réu.
+Aviso de movimentação: Agravo de instrumento recebido no Juizado Especial. Consulte a íntegra no e-Proc.
+Aviso de movimentação: Agravo de instrumento recebido pelo relator. Certifique-se o decurso do prazo.
+Aviso de movimentação: Agravo de instrumento recebido.
+Aviso de movimentação: Apelação interposta no processo de execução.
+Aviso de movimentação: Apelação interposta.
+Aviso de movimentação: Ato ordinatório praticado no sistema e-Proc. Aguardando pagamento de custas.
+Aviso de movimentação: Ato ordinatório praticado. Aguardando pagamento de custas.
+Aviso de movimentação: Ato ordinatório praticado. Vista às partes por 5 dias.
+Aviso de movimentação: Autos remetidos à conclusão no processo de execução. Confira o teor no sistema.
+Aviso de movimentação: Autos remetidos à conclusão pelo juízo deprecante. Aguardando decurso de prazo.
+Aviso de movimentação: Baixa definitiva dos autos na 2ª Vara do Trabalho. Verifique o andamento no tribunal.
+Aviso de movimentação: Carta precatória expedida no Juizado Especial.
+Aviso de movimentação: Carta precatória expedida no sistema PJe. Notifique-se o cliente da decisão.
+Aviso de movimentação: Carta precatória expedida pela contadoria judicial.
+Aviso de movimentação: Carta precatória expedida pelo relator. Arquive-se com as cautelas de praxe.
+Aviso de movimentação: Carta precatória expedida.
+Aviso de movimentação: Carta precatória expedida. Certifique-se o decurso do prazo.
+Aviso de movimentação: Carta precatória expedida. Vista às partes por 5 dias.
+Aviso de movimentação: Certidão de decurso de prazo expedida na comarca de origem. Notifique-se o cliente da decisão.
+Aviso de movimentação: Certidão de decurso de prazo expedida no portal eletrônico e-SAJ. Arquive-se com as cautelas de praxe.
+Aviso de movimentação: Certidão de decurso de prazo expedida.
+Aviso de movimentação: Certidão de decurso de prazo expedida. Consulte a íntegra no e-Proc.
+Aviso de movimentação: Conclusos para julgamento na Vara de Família. O processo segue tramitação normal.
+Aviso de movimentação: Conclusos para julgamento pelo Tribunal de Justiça.
+Aviso de movimentação: Conclusos para julgamento. O processo segue tramitação normal.
+Aviso de movimentação: Decisão interlocutória proferida.
+Aviso de movimentação: Deferida a tutela de urgência na comarca de origem. Consulte a íntegra no e-Proc.
+Aviso de movimentação: Deferida a tutela de urgência no Juizado Especial.
+Aviso de movimentação: Deferida a tutela de urgência no Superior Tribunal de Justiça. Aguardando manifestação das partes.
+Aviso de movimentação: Deferida a tutela de urgência. Arquive-se com as cautelas de praxe.
+Aviso de movimentação: Deferida a tutela de urgência. Cumpra-se com urgência.
+Aviso de movimentação: Deferida a tutela de urgência. Vista às partes por 5 dias.
+Aviso de movimentação: Determinada a penhora online.
+Aviso de movimentação: Determinada a penhora online. O processo segue tramitação normal.
+Aviso de movimentação: Expedido alvará eletrônico. Confira o teor no sistema.
+Aviso de movimentação: Expedido alvará eletrônico. Vista às partes por 5 dias.
+Aviso de movimentação: Expedido mandado de citação no Juizado Especial. Arquive-se com as cautelas de praxe.
+Aviso de movimentação: Expedido mandado de citação.
+Aviso de movimentação: Expedido mandado de citação. Aguardando manifestação das partes.
+Aviso de movimentação: Expedido mandado de citação. Notifique-se o cliente da decisão.
+Aviso de movimentação: Homologado o acordo na 1ª Vara Cível. Confira o teor no sistema.
+Aviso de movimentação: Homologado o acordo no sistema PJe. Verifique o andamento no tribunal.
+Aviso de movimentação: Indeferida a liminar na 1ª Vara Cível. Aguardando a intimação do réu.
+Aviso de movimentação: Indeferida a liminar no Diário da Justiça Eletrônico. Certifique-se o decurso do prazo.
+Aviso de movimentação: Indeferida a liminar no processo de execução. Confira o teor no sistema.
+Aviso de movimentação: Indeferida a liminar nos autos da ação. Aguardando a intimação do réu.
+Aviso de movimentação: Indeferida a liminar. Notifique-se o cliente da decisão.
+Aviso de movimentação: Indeferida a liminar. Vista às partes por 5 dias.
+Aviso de movimentação: Juntada de petição pelo juízo deprecante. Cumpra-se com urgência.
+Aviso de movimentação: Juntada de petição. Notifique-se o cliente da decisão.
+Aviso de movimentação: Mandado devolvido cumprido.
+Aviso de movimentação: Mandado devolvido cumprido. Confira o teor no sistema.
+Aviso de movimentação: Mandado devolvido sem cumprimento na 2ª Vara do Trabalho. Aguardando manifestação das partes.
+Aviso de movimentação: Mandado devolvido sem cumprimento.
+Aviso de movimentação: Manifestação pericial anexada. Aguardando a intimação do réu.
+Aviso de movimentação: Manifestação pericial anexada. Aguardando decurso de prazo.
+Aviso de movimentação: Novo despacho proferido pela secretaria da vara. O processo segue tramitação normal.
+Aviso de movimentação: Novo despacho proferido. Cumpra-se com urgência.
+Aviso de movimentação: Ofício expedido na 1ª Vara Cível. Verifique o andamento no tribunal.
+Aviso de movimentação: Ofício expedido pelo Tribunal de Justiça. O processo segue tramitação normal.
+Aviso de movimentação: Ofício expedido pelo juízo deprecante. Notifique-se o cliente da decisão.
+Aviso de movimentação: Ofício expedido.
+Aviso de movimentação: Ofício expedido. Prazo comum aberto.
+Aviso de movimentação: Petição de juntada recebida na 2ª Vara do Trabalho. Aguardando pagamento de custas.
+Aviso de movimentação: Petição de juntada recebida no Juizado Especial. Confira o teor no sistema.
+Aviso de movimentação: Petição de juntada recebida. Certifique-se o decurso do prazo.
+Aviso de movimentação: Petição de juntada recebida. O prazo recursal inicia-se amanhã.
+Aviso de movimentação: Recebidos os autos no Diário da Justiça Eletrônico. Aguardando decurso de prazo.
+Aviso de movimentação: Recebidos os autos pelo Tribunal de Justiça. Remetam-se os autos ao arquivo.
+Aviso de movimentação: Recebidos os autos. Aguardando a intimação do réu.
+Aviso de movimentação: Recebidos os autos. Aguardando manifestação das partes.
+Aviso de movimentação: Recebidos os autos. Aguardando pagamento de custas.
+Aviso de movimentação: Redistribuição do processo.
+Aviso de movimentação: Redistribuição do processo. Aguardando manifestação das partes.
+Aviso de movimentação: Redistribuição do processo. Verifique o andamento no tribunal.
+Aviso de movimentação: Remessa ao tribunal superior. Confira o teor no sistema.
+Aviso de movimentação: Remessa ao tribunal superior. O processo segue tramitação normal.
+Aviso de movimentação: Sentença de mérito publicada no sistema e-Proc. Remetam-se os autos ao arquivo.
+Aviso de movimentação: Sentença de mérito publicada. Cumpra-se com urgência.
+Aviso de movimentação: Sentença de mérito publicada. Notifique-se o cliente da decisão.
+Aviso de movimentação: Sentença proferida no sistema PJe. Verifique o andamento no tribunal.
+Aviso de movimentação: Sentença proferida pelo relator. Aguardando decurso de prazo.
+Aviso de movimentação: Sentença proferida. Aguardando a intimação do réu.
+Aviso de movimentação: Trânsito em julgado certificado pela contadoria judicial. Prazo comum aberto.
+Aviso de movimentação: Trânsito em julgado certificado.
+Aviso de movimentação: Trânsito em julgado certificado. Aguardando a intimação do réu.
+Aviso de movimentação: Trânsito em julgado certificado. O processo segue tramitação normal.
+Aviso de movimentação: Vista ao Ministério Público pelo juízo deprecante.
+Aviso de movimentação: Vista ao Ministério Público. Aguardando a intimação do réu.
+Aviso de movimentação: Vista ao Ministério Público. Aguardando pagamento de custas.
+Aviso de movimentação: Vista ao Ministério Público. Cumpra-se com urgência.
+Aviso de movimentação: Vista ao Ministério Público. Remetam-se os autos ao arquivo.
+Baixa definitiva dos autos no portal eletrônico e-SAJ. Aguardando decurso de prazo.
+Baixa definitiva dos autos no sistema PJe. Aguardando pagamento de custas.
+Baixa definitiva dos autos pelo juízo deprecante. Prazo comum aberto.
+Certidão de decurso de prazo expedida na 2ª Vara do Trabalho.
+Certidão de decurso de prazo expedida na comarca de origem. Confira o teor no sistema.
+Conclusos para julgamento na comarca de origem. Certifique-se o decurso do prazo.
+Decisão interlocutória proferida no portal eletrônico e-SAJ. O processo segue tramitação normal.
+Decisão interlocutória proferida. Certifique-se o decurso do prazo.
+Decisão interlocutória proferida. Vista às partes por 5 dias.
+Deferida a tutela de urgência na 1ª Vara Cível. O prazo recursal inicia-se amanhã.
+Deferida a tutela de urgência pelo Tribunal de Justiça. Arquive-se com as cautelas de praxe.
+Deferida a tutela de urgência.
+Determinada a penhora online na 2ª Vara do Trabalho.
+Determinada a penhora online no Juizado Especial.
+Determinada a penhora online. Aguardando decurso de prazo.
+Determinada a penhora online. Aguardando pagamento de custas.
+Determinada a penhora online. Certifique-se o decurso do prazo.
+Embargos de declaração rejeitados no cartório da vara. Consulte a íntegra no e-Proc.
+Embargos de declaração rejeitados. Aguardando pagamento de custas.
+Embargos de declaração rejeitados. Cumpra-se com urgência.
+Embargos de declaração rejeitados. Vista às partes por 5 dias.
+Expedido alvará eletrônico no cartório da vara. Consulte a íntegra no e-Proc.
+Expedido alvará eletrônico.
+Expedido alvará eletrônico. Aguardando decurso de prazo.
+Expedido mandado de citação no portal eletrônico e-SAJ. Aguardando pagamento de custas.
+Expedido mandado de citação. Aguardando pagamento de custas.
+Expedido mandado de citação. Remetam-se os autos ao arquivo.
+Indeferida a liminar. Aguardando decurso de prazo.
+Indeferida a liminar. Certifique-se o decurso do prazo.
+Informação: Acórdão publicado.
+Informação: Acórdão publicado. Arquive-se com as cautelas de praxe.
+Informação: Acórdão publicado. O processo segue tramitação normal.
+Informação: Agravo de instrumento recebido no Diário da Justiça Eletrônico.
+Informação: Agravo de instrumento recebido no Superior Tribunal de Justiça. Aguardando decurso de prazo.
+Informação: Agravo de instrumento recebido no processo de execução. Certifique-se o decurso do prazo.
+Informação: Agravo de instrumento recebido pelo juízo deprecante.
+Informação: Agravo de instrumento recebido pelo relator. Notifique-se o cliente da decisão.
+Informação: Agravo de instrumento recebido. Arquive-se com as cautelas de praxe.
+Informação: Apelação interposta. Verifique o andamento no tribunal.
+Informação: Ato ordinatório praticado. Aguardando a intimação do réu.
+Informação: Ato ordinatório praticado. Arquive-se com as cautelas de praxe.
+Informação: Ato ordinatório praticado. Prazo comum aberto.
+Informação: Autos remetidos à conclusão pelo Tribunal de Justiça.
+Informação: Autos remetidos à conclusão.
+Informação: Autos remetidos à conclusão. Confira o teor no sistema.
+Informação: Autos remetidos à conclusão. O processo segue tramitação normal.
+Informação: Baixa definitiva dos autos na 1ª Vara Cível.
+Informação: Baixa definitiva dos autos. O processo segue tramitação normal.
+Informação: Carta precatória expedida na Vara da Fazenda Pública. Prazo comum aberto.
+Informação: Carta precatória expedida. Aguardando a intimação do réu.
+Informação: Carta precatória expedida. Arquive-se com as cautelas de praxe.
+Informação: Certidão de decurso de prazo expedida pelo relator.
+Informação: Certidão de decurso de prazo expedida. Certifique-se o decurso do prazo.
+Informação: Certidão de decurso de prazo expedida. Cumpra-se com urgência.
+Informação: Conclusos para julgamento na Vara da Fazenda Pública. Aguardando pagamento de custas.
+Informação: Conclusos para julgamento.
+Informação: Conclusos para julgamento. Aguardando manifestação das partes.
+Informação: Decisão interlocutória proferida na Vara da Fazenda Pública.
+Informação: Decisão interlocutória proferida no processo de execução. Aguardando a intimação do réu.
+Informação: Decisão interlocutória proferida no sistema e-Proc. Aguardando manifestação das partes.
+Informação: Decisão interlocutória proferida. Aguardando pagamento de custas.
+Informação: Decisão interlocutória proferida. Prazo comum aberto.
+Informação: Deferida a tutela de urgência na 3ª Vara Criminal. Certifique-se o decurso do prazo.
+Informação: Deferida a tutela de urgência. Aguardando a intimação do réu.
+Informação: Deferida a tutela de urgência. Cumpra-se com urgência.
+Informação: Determinada a penhora online na 1ª Vara Cível. Consulte a íntegra no e-Proc.
+Informação: Determinada a penhora online no Juizado Especial. Remetam-se os autos ao arquivo.
+Informação: Determinada a penhora online no cartório da vara. Vista às partes por 5 dias.
+Informação: Determinada a penhora online no portal eletrônico e-SAJ.
+Informação: Determinada a penhora online. Aguardando a intimação do réu.
+Informação: Determinada a penhora online. Arquive-se com as cautelas de praxe.
+Informação: Determinada a penhora online. O prazo recursal inicia-se amanhã.
+Informação: Embargos de declaração rejeitados na 3ª Vara Criminal. Aguardando decurso de prazo.
+Informação: Embargos de declaração rejeitados no cartório da vara. Aguardando pagamento de custas.
+Informação: Embargos de declaração rejeitados. Aguardando a intimação do réu.
+Informação: Expedido alvará eletrônico na comarca de origem. Arquive-se com as cautelas de praxe.
+Informação: Expedido alvará eletrônico pela contadoria judicial.
+Informação: Expedido alvará eletrônico.
+Informação: Expedido mandado de citação na Vara de Família.
+Informação: Expedido mandado de citação. Arquive-se com as cautelas de praxe.
+Informação: Expedido mandado de citação. Certifique-se o decurso do prazo.
+Informação: Expedido mandado de citação. Confira o teor no sistema.
+Informação: Expedido mandado de citação. O processo segue tramitação normal.
+Informação: Homologado o acordo.
+Informação: Homologado o acordo. Verifique o andamento no tribunal.
+Informação: Indeferida a liminar. Aguardando pagamento de custas.
+Informação: Mandado devolvido cumprido no Juizado Especial. Aguardando a intimação do réu.
+Informação: Mandado devolvido cumprido pelo juízo deprecante. Arquive-se com as cautelas de praxe.
+Informação: Mandado devolvido cumprido.
+Informação: Mandado devolvido cumprido. Verifique o andamento no tribunal.
+Informação: Mandado devolvido sem cumprimento pela secretaria da vara.
+Informação: Mandado devolvido sem cumprimento. Aguardando a intimação do réu.
+Informação: Mandado devolvido sem cumprimento. Arquive-se com as cautelas de praxe.
+Informação: Manifestação pericial anexada na comarca de origem. O processo segue tramitação normal.
+Informação: Manifestação pericial anexada. Verifique o andamento no tribunal.
+Informação: Ofício expedido. Aguardando decurso de prazo.
+Informação: Ofício expedido. Consulte a íntegra no e-Proc.
+Informação: Ofício expedido. Verifique o andamento no tribunal.
+Informação: Petição de juntada recebida no sistema e-Proc. Prazo comum aberto.
+Informação: Petição de juntada recebida pela contadoria judicial. Confira o teor no sistema.
+Informação: Petição de juntada recebida.
+Informação: Petição de juntada recebida. Aguardando a intimação do réu.
+Informação: Petição de juntada recebida. Aguardando decurso de prazo.
+Informação: Petição de juntada recebida. Prazo comum aberto.
+Informação: Recebidos os autos na 1ª Vara Cível. Prazo comum aberto.
+Informação: Recebidos os autos no Diário da Justiça Eletrônico.
+Informação: Recebidos os autos. O processo segue tramitação normal.
+Informação: Redistribuição do processo pela contadoria judicial.
+Informação: Remessa ao tribunal superior no Superior Tribunal de Justiça. Certifique-se o decurso do prazo.
+Informação: Remessa ao tribunal superior. Certifique-se o decurso do prazo.
+Informação: Sentença de mérito publicada na comarca de origem. O prazo recursal inicia-se amanhã.
+Informação: Sentença de mérito publicada no Diário da Justiça Eletrônico. Verifique o andamento no tribunal.
+Informação: Sentença de mérito publicada no processo de execução. Arquive-se com as cautelas de praxe.
+Informação: Sentença de mérito publicada pela secretaria da vara.
+Informação: Sentença de mérito publicada pelo juízo deprecante. Aguardando decurso de prazo.
+Informação: Sentença de mérito publicada. Aguardando manifestação das partes.
+Informação: Sentença proferida no cartório da vara. Aguardando manifestação das partes.
+Informação: Sentença proferida pela secretaria da vara. Aguardando decurso de prazo.
+Informação: Sentença proferida. Certifique-se o decurso do prazo.
+Informação: Sentença proferida. Consulte a íntegra no e-Proc.
+Informação: Suspensão do processo decretada na comarca de origem. Aguardando a intimação do réu.
+Informação: Suspensão do processo decretada no Juizado Especial.
+Informação: Suspensão do processo decretada no Superior Tribunal de Justiça. Cumpra-se com urgência.
+Informação: Trânsito em julgado certificado na Vara de Família. Aguardando pagamento de custas.
+Informação: Trânsito em julgado certificado pelo juízo deprecante. O prazo recursal inicia-se amanhã.
+Informação: Vista ao Ministério Público no Superior Tribunal de Justiça. O processo segue tramitação normal.
+Informação: Vista ao Ministério Público pela secretaria da vara. Notifique-se o cliente da decisão.
+Informação: Vista ao Ministério Público pelo relator. Verifique o andamento no tribunal.
+Informação: Vista ao Ministério Público.
+Informação: Vista ao Ministério Público. Confira o teor no sistema.
+Juntada de petição. Notifique-se o cliente da decisão.
+Juntada de petição. Remetam-se os autos ao arquivo.
+Mandado devolvido cumprido na 1ª Vara Cível. Aguardando decurso de prazo.
+Mandado devolvido cumprido na 3ª Vara Criminal. Consulte a íntegra no e-Proc.
+Mandado devolvido cumprido na Vara da Fazenda Pública. Aguardando pagamento de custas.
+Mandado devolvido cumprido no portal eletrônico e-SAJ. Prazo comum aberto.
+Mandado devolvido cumprido.
+Mandado devolvido sem cumprimento no sistema e-Proc. Remetam-se os autos ao arquivo.
+Mandado devolvido sem cumprimento.
+Mandado devolvido sem cumprimento. Aguardando pagamento de custas.
+Manifestação pericial anexada na Vara da Fazenda Pública. Aguardando a intimação do réu.
+Manifestação pericial anexada na Vara da Fazenda Pública. Aguardando pagamento de custas.
+Manifestação pericial anexada. Aguardando decurso de prazo.
+Manifestação pericial anexada. Arquive-se com as cautelas de praxe.
+Manifestação pericial anexada. Vista às partes por 5 dias.
+Notificação: Acórdão publicado na 2ª Vara do Trabalho. O processo segue tramitação normal.
+Notificação: Acórdão publicado na 3ª Vara Criminal. Vista às partes por 5 dias.
+Notificação: Acórdão publicado na Vara de Família. O processo segue tramitação normal.
+Notificação: Acórdão publicado no portal eletrônico e-SAJ. Notifique-se o cliente da decisão.
+Notificação: Acórdão publicado. Confira o teor no sistema.
+Notificação: Agravo de instrumento recebido no Diário da Justiça Eletrônico. Aguardando manifestação das partes.
+Notificação: Apelação interposta na 3ª Vara Criminal.
+Notificação: Apelação interposta na Vara da Fazenda Pública.
+Notificação: Apelação interposta. Certifique-se o decurso do prazo.
+Notificação: Apelação interposta. Prazo comum aberto.
+Notificação: Ato ordinatório praticado na Vara da Fazenda Pública. Prazo comum aberto.
+Notificação: Ato ordinatório praticado no Superior Tribunal de Justiça.
+Notificação: Ato ordinatório praticado pelo Tribunal de Justiça. Vista às partes por 5 dias.
+Notificação: Ato ordinatório praticado.
+Notificação: Ato ordinatório praticado. Aguardando decurso de prazo.
+Notificação: Ato ordinatório praticado. Aguardando manifestação das partes.
+Notificação: Autos remetidos à conclusão na comarca de origem. Remetam-se os autos ao arquivo.
+Notificação: Autos remetidos à conclusão no Diário da Justiça Eletrônico.
+Notificação: Autos remetidos à conclusão no processo de execução.
+Notificação: Autos remetidos à conclusão. Certifique-se o decurso do prazo.
+Notificação: Autos remetidos à conclusão. Cumpra-se com urgência.
+Notificação: Autos remetidos à conclusão. Remetam-se os autos ao arquivo.
+Notificação: Baixa definitiva dos autos no Superior Tribunal de Justiça. Cumpra-se com urgência.
+Notificação: Baixa definitiva dos autos no sistema PJe.
+Notificação: Baixa definitiva dos autos.
+Notificação: Baixa definitiva dos autos. Cumpra-se com urgência.
+Notificação: Carta precatória expedida no portal eletrônico e-SAJ. O processo segue tramitação normal.
+Notificação: Carta precatória expedida. Vista às partes por 5 dias.
+Notificação: Certidão de decurso de prazo expedida no cartório da vara. Certifique-se o decurso do prazo.
+Notificação: Certidão de decurso de prazo expedida.
+Notificação: Certidão de decurso de prazo expedida. Confira o teor no sistema.
+Notificação: Decisão interlocutória proferida na Vara da Fazenda Pública. Vista às partes por 5 dias.
+Notificação: Deferida a tutela de urgência.
+Notificação: Deferida a tutela de urgência. Consulte a íntegra no e-Proc.
+Notificação: Deferida a tutela de urgência. Remetam-se os autos ao arquivo.
+Notificação: Determinada a penhora online. Aguardando a intimação do réu.
+Notificação: Determinada a penhora online. Vista às partes por 5 dias.
+Notificação: Embargos de declaração rejeitados pelo juízo deprecante.
+Notificação: Embargos de declaração rejeitados.
+Notificação: Embargos de declaração rejeitados. Aguardando decurso de prazo.
+Notificação: Expedido alvará eletrônico no sistema e-Proc. Cumpra-se com urgência.
+Notificação: Expedido alvará eletrônico. Aguardando decurso de prazo.
+Notificação: Expedido mandado de citação no sistema PJe. Aguardando a intimação do réu.
+Notificação: Expedido mandado de citação no sistema PJe. Consulte a íntegra no e-Proc.
+Notificação: Expedido mandado de citação pela secretaria da vara. Arquive-se com as cautelas de praxe.
+Notificação: Expedido mandado de citação.
+Notificação: Homologado o acordo no portal eletrônico e-SAJ.
+Notificação: Homologado o acordo no portal eletrônico e-SAJ. Verifique o andamento no tribunal.
+Notificação: Homologado o acordo. Verifique o andamento no tribunal.
+Notificação: Indeferida a liminar no Superior Tribunal de Justiça.
+Notificação: Indeferida a liminar. Aguardando a intimação do réu.
+Notificação: Indeferida a liminar. Consulte a íntegra no e-Proc.
+Notificação: Indeferida a liminar. O prazo recursal inicia-se amanhã.
+Notificação: Juntada de petição na 3ª Vara Criminal. Confira o teor no sistema.
+Notificação: Juntada de petição no Juizado Especial. Confira o teor no sistema.
+Notificação: Juntada de petição no Superior Tribunal de Justiça. Notifique-se o cliente da decisão.
+Notificação: Mandado devolvido cumprido. Aguardando decurso de prazo.
+Notificação: Mandado devolvido cumprido. Vista às partes por 5 dias.
+Notificação: Mandado devolvido sem cumprimento no Superior Tribunal de Justiça.
+Notificação: Mandado devolvido sem cumprimento no portal eletrônico e-SAJ. Aguardando pagamento de custas.
+Notificação: Mandado devolvido sem cumprimento.
+Notificação: Novo despacho proferido pela contadoria judicial. Aguardando manifestação das partes.
+Notificação: Novo despacho proferido pela secretaria da vara. Aguardando decurso de prazo.
+Notificação: Novo despacho proferido. Remetam-se os autos ao arquivo.
+Notificação: Ofício expedido no sistema PJe. Consulte a íntegra no e-Proc.
+Notificação: Ofício expedido nos autos da ação.
+Notificação: Ofício expedido.
+Notificação: Ofício expedido. Aguardando a intimação do réu.
+Notificação: Petição de juntada recebida. Aguardando pagamento de custas.
+Notificação: Petição de juntada recebida. Remetam-se os autos ao arquivo.
+Notificação: Recebidos os autos pela contadoria judicial. Cumpra-se com urgência.
+Notificação: Recebidos os autos.
+Notificação: Recebidos os autos. Certifique-se o decurso do prazo.
+Notificação: Recebidos os autos. Cumpra-se com urgência.
+Notificação: Recebidos os autos. Vista às partes por 5 dias.
+Notificação: Redistribuição do processo na 1ª Vara Cível.
+Notificação: Redistribuição do processo no portal eletrônico e-SAJ.
+Notificação: Redistribuição do processo pela secretaria da vara.
+Notificação: Redistribuição do processo. Remetam-se os autos ao arquivo.
+Notificação: Remessa ao tribunal superior na comarca de origem. Aguardando decurso de prazo.
+Notificação: Remessa ao tribunal superior no portal eletrônico e-SAJ. Aguardando pagamento de custas.
+Notificação: Sentença de mérito publicada no Juizado Especial. Notifique-se o cliente da decisão.
+Notificação: Sentença de mérito publicada no processo de execução. O processo segue tramitação normal.
+Notificação: Sentença de mérito publicada.
+Notificação: Sentença de mérito publicada. Remetam-se os autos ao arquivo.
+Notificação: Sentença de mérito publicada. Verifique o andamento no tribunal.
+Notificação: Sentença proferida na Vara da Fazenda Pública. Cumpra-se com urgência.
+Notificação: Sentença proferida na Vara de Família. Prazo comum aberto.
+Notificação: Sentença proferida pelo Tribunal de Justiça. Notifique-se o cliente da decisão.
+Notificação: Sentença proferida pelo juízo deprecante. Confira o teor no sistema.
+Notificação: Sentença proferida. Aguardando pagamento de custas.
+Notificação: Suspensão do processo decretada no processo de execução. Certifique-se o decurso do prazo.
+Notificação: Suspensão do processo decretada nos autos da ação. Prazo comum aberto.
+Notificação: Suspensão do processo decretada. Aguardando a intimação do réu.
+Notificação: Trânsito em julgado certificado pela secretaria da vara. Aguardando pagamento de custas.
+Notificação: Trânsito em julgado certificado pela secretaria da vara. Prazo comum aberto.
+Notificação: Trânsito em julgado certificado pela secretaria da vara. Remetam-se os autos ao arquivo.
+Notificação: Trânsito em julgado certificado. O processo segue tramitação normal.
+Notificação: Vista ao Ministério Público no Juizado Especial.
+Notificação: Vista ao Ministério Público no cartório da vara.
+Notificação: Vista ao Ministério Público no sistema PJe. Aguardando decurso de prazo.
+Notificação: Vista ao Ministério Público no sistema e-Proc. Notifique-se o cliente da decisão.
+Notificação: Vista ao Ministério Público. O processo segue tramitação normal.
+Novo despacho proferido nos autos da ação. O prazo recursal inicia-se amanhã.
+Novo despacho proferido pelo Tribunal de Justiça. Vista às partes por 5 dias.
+Novo despacho proferido. O processo segue tramitação normal.
+Ofício expedido nos autos da ação. Consulte a íntegra no e-Proc.
+Ofício expedido.
+Ofício expedido. Arquive-se com as cautelas de praxe.
+Ofício expedido. Certifique-se o decurso do prazo.
+Ofício expedido. Confira o teor no sistema.
+Ofício expedido. O processo segue tramitação normal.
+Petição de juntada recebida no sistema e-Proc. Vista às partes por 5 dias.
+Petição de juntada recebida nos autos da ação. Aguardando a intimação do réu.
+Petição de juntada recebida.
+Recebidos os autos na 2ª Vara do Trabalho.
+Recebidos os autos. O processo segue tramitação normal.
+Redistribuição do processo no processo de execução. Prazo comum aberto.
+Redistribuição do processo no sistema e-Proc. Arquive-se com as cautelas de praxe.
+Redistribuição do processo. Confira o teor no sistema.
+Redistribuição do processo. O processo segue tramitação normal.
+Remessa ao tribunal superior na Vara da Fazenda Pública. Remetam-se os autos ao arquivo.
+Remessa ao tribunal superior. Aguardando manifestação das partes.
+Remessa ao tribunal superior. Arquive-se com as cautelas de praxe.
+Remessa ao tribunal superior. O prazo recursal inicia-se amanhã.
+Sentença de mérito publicada no portal eletrônico e-SAJ. O processo segue tramitação normal.
+Sentença de mérito publicada. Remetam-se os autos ao arquivo.
+Sentença proferida na 2ª Vara do Trabalho.
+Sentença proferida na 2ª Vara do Trabalho. Notifique-se o cliente da decisão.
+Sentença proferida.
+Sentença proferida. Aguardando manifestação das partes.
+Status do processo: Apelação interposta na comarca de origem. Arquive-se com as cautelas de praxe.
+Status do processo: Apelação interposta no Juizado Especial. Verifique o andamento no tribunal.
+Status do processo: Apelação interposta no Superior Tribunal de Justiça. Consulte a íntegra no e-Proc.
+Status do processo: Ato ordinatório praticado no Juizado Especial. Aguardando manifestação das partes.
+Status do processo: Ato ordinatório praticado.
+Status do processo: Autos remetidos à conclusão no processo de execução. Confira o teor no sistema.
+Status do processo: Autos remetidos à conclusão pela contadoria judicial. Prazo comum aberto.
+Status do processo: Baixa definitiva dos autos pelo relator. Arquive-se com as cautelas de praxe.
+Status do processo: Baixa definitiva dos autos. Aguardando a intimação do réu.
+Status do processo: Baixa definitiva dos autos. Vista às partes por 5 dias.
+Status do processo: Carta precatória expedida no portal eletrônico e-SAJ. Aguardando manifestação das partes.
+Status do processo: Carta precatória expedida pelo Tribunal de Justiça. Remetam-se os autos ao arquivo.
+Status do processo: Carta precatória expedida. Confira o teor no sistema.
+Status do processo: Carta precatória expedida. Cumpra-se com urgência.
+Status do processo: Certidão de decurso de prazo expedida pela contadoria judicial. Cumpra-se com urgência.
+Status do processo: Certidão de decurso de prazo expedida. O prazo recursal inicia-se amanhã.
+Status do processo: Conclusos para julgamento no Juizado Especial.
+Status do processo: Conclusos para julgamento. Arquive-se com as cautelas de praxe.
+Status do processo: Conclusos para julgamento. O prazo recursal inicia-se amanhã.
+Status do processo: Conclusos para julgamento. Vista às partes por 5 dias.
+Status do processo: Decisão interlocutória proferida na 2ª Vara do Trabalho. Confira o teor no sistema.
+Status do processo: Decisão interlocutória proferida na Vara da Fazenda Pública.
+Status do processo: Decisão interlocutória proferida no Diário da Justiça Eletrônico.
+Status do processo: Decisão interlocutória proferida no portal eletrônico e-SAJ. O prazo recursal inicia-se amanhã.
+Status do processo: Decisão interlocutória proferida no processo de execução. Prazo comum aberto.
+Status do processo: Decisão interlocutória proferida no processo de execução. Vista às partes por 5 dias.
+Status do processo: Decisão interlocutória proferida no sistema e-Proc. Certifique-se o decurso do prazo.
+Status do processo: Decisão interlocutória proferida. Verifique o andamento no tribunal.
+Status do processo: Deferida a tutela de urgência na 1ª Vara Cível. Consulte a íntegra no e-Proc.
+Status do processo: Deferida a tutela de urgência na 3ª Vara Criminal. Remetam-se os autos ao arquivo.
+Status do processo: Deferida a tutela de urgência na Vara da Fazenda Pública. Cumpra-se com urgência.
+Status do processo: Deferida a tutela de urgência no Juizado Especial. O prazo recursal inicia-se amanhã.
+Status do processo: Deferida a tutela de urgência.
+Status do processo: Deferida a tutela de urgência. Aguardando manifestação das partes.
+Status do processo: Deferida a tutela de urgência. Aguardando pagamento de custas.
+Status do processo: Deferida a tutela de urgência. Notifique-se o cliente da decisão.
+Status do processo: Deferida a tutela de urgência. O prazo recursal inicia-se amanhã.
+Status do processo: Determinada a penhora online. Aguardando pagamento de custas.
+Status do processo: Determinada a penhora online. Confira o teor no sistema.
+Status do processo: Embargos de declaração rejeitados pelo juízo deprecante.
+Status do processo: Embargos de declaração rejeitados. Aguardando manifestação das partes.
+Status do processo: Expedido mandado de citação no Diário da Justiça Eletrônico. Aguardando decurso de prazo.
+Status do processo: Expedido mandado de citação no cartório da vara. Notifique-se o cliente da decisão.
+Status do processo: Expedido mandado de citação no sistema PJe. Confira o teor no sistema.
+Status do processo: Expedido mandado de citação.
+Status do processo: Expedido mandado de citação. Aguardando decurso de prazo.
+Status do processo: Expedido mandado de citação. Aguardando pagamento de custas.
+Status do processo: Homologado o acordo na comarca de origem. Aguardando manifestação das partes.
+Status do processo: Juntada de petição na 1ª Vara Cível. Prazo comum aberto.
+Status do processo: Juntada de petição na 3ª Vara Criminal. Aguardando decurso de prazo.
+Status do processo: Juntada de petição na 3ª Vara Criminal. O prazo recursal inicia-se amanhã.
+Status do processo: Juntada de petição na Vara de Família. Prazo comum aberto.
+Status do processo: Juntada de petição pelo juízo deprecante.
+Status do processo: Juntada de petição. Remetam-se os autos ao arquivo.
+Status do processo: Mandado devolvido cumprido na Vara de Família. Aguardando manifestação das partes.
+Status do processo: Mandado devolvido cumprido no cartório da vara.
+Status do processo: Mandado devolvido cumprido no portal eletrônico e-SAJ.
+Status do processo: Mandado devolvido sem cumprimento no Juizado Especial. Certifique-se o decurso do prazo.
+Status do processo: Mandado devolvido sem cumprimento.
+Status do processo: Mandado devolvido sem cumprimento. Aguardando a intimação do réu.
+Status do processo: Manifestação pericial anexada no sistema PJe.
+Status do processo: Manifestação pericial anexada.
+Status do processo: Manifestação pericial anexada. O prazo recursal inicia-se amanhã.
+Status do processo: Manifestação pericial anexada. Verifique o andamento no tribunal.
+Status do processo: Novo despacho proferido.
+Status do processo: Novo despacho proferido. Confira o teor no sistema.
+Status do processo: Ofício expedido no processo de execução. Notifique-se o cliente da decisão.
+Status do processo: Ofício expedido pela secretaria da vara. Prazo comum aberto.
+Status do processo: Ofício expedido. Aguardando pagamento de custas.
+Status do processo: Ofício expedido. Notifique-se o cliente da decisão.
+Status do processo: Ofício expedido. O prazo recursal inicia-se amanhã.
+Status do processo: Petição de juntada recebida nos autos da ação. Arquive-se com as cautelas de praxe.
+Status do processo: Petição de juntada recebida. Cumpra-se com urgência.
+Status do processo: Petição de juntada recebida. O prazo recursal inicia-se amanhã.
+Status do processo: Recebidos os autos na 1ª Vara Cível. O prazo recursal inicia-se amanhã.
+Status do processo: Recebidos os autos na Vara de Família. Prazo comum aberto.
+Status do processo: Recebidos os autos no processo de execução. Aguardando manifestação das partes.
+Status do processo: Redistribuição do processo na comarca de origem. O processo segue tramitação normal.
+Status do processo: Redistribuição do processo pela secretaria da vara. Aguardando a intimação do réu.
+Status do processo: Redistribuição do processo.
+Status do processo: Redistribuição do processo. Confira o teor no sistema.
+Status do processo: Redistribuição do processo. Notifique-se o cliente da decisão.
+Status do processo: Redistribuição do processo. Prazo comum aberto.
+Status do processo: Remessa ao tribunal superior pelo juízo deprecante. O prazo recursal inicia-se amanhã.
+Status do processo: Sentença de mérito publicada no Juizado Especial. O prazo recursal inicia-se amanhã.
+Status do processo: Sentença de mérito publicada pelo juízo deprecante. Aguardando decurso de prazo.
+Status do processo: Sentença de mérito publicada.
+Status do processo: Sentença de mérito publicada. O processo segue tramitação normal.
+Status do processo: Sentença de mérito publicada. Vista às partes por 5 dias.
+Status do processo: Sentença proferida na 3ª Vara Criminal. Aguardando pagamento de custas.
+Status do processo: Sentença proferida no processo de execução. O prazo recursal inicia-se amanhã.
+Status do processo: Sentença proferida pela contadoria judicial. Aguardando decurso de prazo.
+Status do processo: Sentença proferida pela secretaria da vara.
+Status do processo: Sentença proferida pela secretaria da vara. Aguardando manifestação das partes.
+Status do processo: Sentença proferida. Notifique-se o cliente da decisão.
+Status do processo: Suspensão do processo decretada no portal eletrônico e-SAJ. Cumpra-se com urgência.
+Status do processo: Trânsito em julgado certificado na 3ª Vara Criminal. Remetam-se os autos ao arquivo.
+Status do processo: Trânsito em julgado certificado no cartório da vara. Verifique o andamento no tribunal.
+Status do processo: Trânsito em julgado certificado. Arquive-se com as cautelas de praxe.
+Status do processo: Vista ao Ministério Público. Confira o teor no sistema.
+Suspensão do processo decretada na 1ª Vara Cível. Cumpra-se com urgência.
+Suspensão do processo decretada na Vara da Fazenda Pública.
+Suspensão do processo decretada no processo de execução. Vista às partes por 5 dias.
+Suspensão do processo decretada no sistema e-Proc. Verifique o andamento no tribunal.
+Suspensão do processo decretada. Aguardando a intimação do réu.
+Trânsito em julgado certificado na 2ª Vara do Trabalho. Consulte a íntegra no e-Proc.
+Urgente: Acórdão publicado no Diário da Justiça Eletrônico. O processo segue tramitação normal.
+Urgente: Acórdão publicado no processo de execução. Verifique o andamento no tribunal.
+Urgente: Acórdão publicado pelo Tribunal de Justiça. Aguardando decurso de prazo.
+Urgente: Acórdão publicado.
+Urgente: Acórdão publicado. Aguardando a intimação do réu.
+Urgente: Acórdão publicado. Cumpra-se com urgência.
+Urgente: Agravo de instrumento recebido no sistema PJe. Notifique-se o cliente da decisão.
+Urgente: Apelação interposta na Vara da Fazenda Pública. Aguardando pagamento de custas.
+Urgente: Apelação interposta na Vara de Família.
+Urgente: Apelação interposta. Confira o teor no sistema.
+Urgente: Apelação interposta. Prazo comum aberto.
+Urgente: Ato ordinatório praticado. Aguardando a intimação do réu.
+Urgente: Ato ordinatório praticado. Aguardando manifestação das partes.
+Urgente: Ato ordinatório praticado. Prazo comum aberto.
+Urgente: Ato ordinatório praticado. Vista às partes por 5 dias.
+Urgente: Autos remetidos à conclusão no Juizado Especial. Certifique-se o decurso do prazo.
+Urgente: Autos remetidos à conclusão no Juizado Especial. Notifique-se o cliente da decisão.
+Urgente: Autos remetidos à conclusão no cartório da vara.
+Urgente: Autos remetidos à conclusão no cartório da vara. Confira o teor no sistema.
+Urgente: Autos remetidos à conclusão pela secretaria da vara. Notifique-se o cliente da decisão.
+Urgente: Autos remetidos à conclusão pelo juízo deprecante.
+Urgente: Autos remetidos à conclusão. Aguardando a intimação do réu.
+Urgente: Baixa definitiva dos autos na 3ª Vara Criminal. Confira o teor no sistema.
+Urgente: Baixa definitiva dos autos na 3ª Vara Criminal. O prazo recursal inicia-se amanhã.
+Urgente: Baixa definitiva dos autos no Diário da Justiça Eletrônico. Cumpra-se com urgência.
+Urgente: Baixa definitiva dos autos no sistema e-Proc. O processo segue tramitação normal.
+Urgente: Baixa definitiva dos autos nos autos da ação. Arquive-se com as cautelas de praxe.
+Urgente: Baixa definitiva dos autos pelo juízo deprecante. Prazo comum aberto.
+Urgente: Baixa definitiva dos autos. Confira o teor no sistema.
+Urgente: Baixa definitiva dos autos. Remetam-se os autos ao arquivo.
+Urgente: Carta precatória expedida no processo de execução. Notifique-se o cliente da decisão.
+Urgente: Carta precatória expedida. Cumpra-se com urgência.
+Urgente: Certidão de decurso de prazo expedida na 3ª Vara Criminal.
+Urgente: Certidão de decurso de prazo expedida no sistema PJe.
+Urgente: Certidão de decurso de prazo expedida. Cumpra-se com urgência.
+Urgente: Conclusos para julgamento. Consulte a íntegra no e-Proc.
+Urgente: Conclusos para julgamento. Vista às partes por 5 dias.
+Urgente: Decisão interlocutória proferida. Aguardando pagamento de custas.
+Urgente: Decisão interlocutória proferida. Verifique o andamento no tribunal.
+Urgente: Deferida a tutela de urgência no portal eletrônico e-SAJ. O processo segue tramitação normal.
+Urgente: Deferida a tutela de urgência pela secretaria da vara. Aguardando a intimação do réu.
+Urgente: Determinada a penhora online no Diário da Justiça Eletrônico. Remetam-se os autos ao arquivo.
+Urgente: Determinada a penhora online no portal eletrônico e-SAJ. Cumpra-se com urgência.
+Urgente: Determinada a penhora online.
+Urgente: Embargos de declaração rejeitados na 3ª Vara Criminal.
+Urgente: Embargos de declaração rejeitados. Prazo comum aberto.
+Urgente: Expedido mandado de citação no sistema e-Proc.
+Urgente: Expedido mandado de citação. Arquive-se com as cautelas de praxe.
+Urgente: Expedido mandado de citação. Vista às partes por 5 dias.
+Urgente: Homologado o acordo no Diário da Justiça Eletrônico. Cumpra-se com urgência.
+Urgente: Homologado o acordo. Arquive-se com as cautelas de praxe.
+Urgente: Indeferida a liminar na 1ª Vara Cível.
+Urgente: Indeferida a liminar. Cumpra-se com urgência.
+Urgente: Indeferida a liminar. Remetam-se os autos ao arquivo.
+Urgente: Mandado devolvido cumprido.
+Urgente: Mandado devolvido cumprido. Aguardando pagamento de custas.
+Urgente: Mandado devolvido sem cumprimento pela contadoria judicial. Verifique o andamento no tribunal.
+Urgente: Mandado devolvido sem cumprimento pelo Tribunal de Justiça.
+Urgente: Mandado devolvido sem cumprimento. Aguardando pagamento de custas.
+Urgente: Manifestação pericial anexada no Juizado Especial.
+Urgente: Manifestação pericial anexada pelo juízo deprecante. Notifique-se o cliente da decisão.
+Urgente: Manifestação pericial anexada.
+Urgente: Novo despacho proferido na Vara de Família.
+Urgente: Novo despacho proferido na comarca de origem. Certifique-se o decurso do prazo.
+Urgente: Novo despacho proferido no Juizado Especial. Aguardando pagamento de custas.
+Urgente: Ofício expedido no Superior Tribunal de Justiça. Prazo comum aberto.
+Urgente: Ofício expedido no processo de execução.
+Urgente: Ofício expedido. Aguardando a intimação do réu.
+Urgente: Ofício expedido. Confira o teor no sistema.
+Urgente: Ofício expedido. Consulte a íntegra no e-Proc.
+Urgente: Ofício expedido. Notifique-se o cliente da decisão.
+Urgente: Petição de juntada recebida nos autos da ação. Notifique-se o cliente da decisão.
+Urgente: Petição de juntada recebida.
+Urgente: Petição de juntada recebida. Confira o teor no sistema.
+Urgente: Recebidos os autos no processo de execução.
+Urgente: Recebidos os autos. Certifique-se o decurso do prazo.
+Urgente: Redistribuição do processo no Diário da Justiça Eletrônico. Verifique o andamento no tribunal.
+Urgente: Redistribuição do processo no portal eletrônico e-SAJ. Arquive-se com as cautelas de praxe.
+Urgente: Redistribuição do processo. Remetam-se os autos ao arquivo.
+Urgente: Remessa ao tribunal superior no portal eletrônico e-SAJ.
+Urgente: Remessa ao tribunal superior.
+Urgente: Sentença de mérito publicada na Vara de Família. Consulte a íntegra no e-Proc.
+Urgente: Sentença de mérito publicada no Superior Tribunal de Justiça. Aguardando manifestação das partes.
+Urgente: Sentença de mérito publicada pelo juízo deprecante.
+Urgente: Sentença de mérito publicada. Aguardando a intimação do réu.
+Urgente: Sentença de mérito publicada. Aguardando manifestação das partes.
+Urgente: Sentença de mérito publicada. Remetam-se os autos ao arquivo.
+Urgente: Sentença proferida pela secretaria da vara.
+Urgente: Sentença proferida pela secretaria da vara. Prazo comum aberto.
+Urgente: Sentença proferida pela secretaria da vara. Verifique o andamento no tribunal.
+Urgente: Sentença proferida pelo Tribunal de Justiça. Aguardando pagamento de custas.
+Urgente: Sentença proferida pelo relator. Arquive-se com as cautelas de praxe.
+Urgente: Suspensão do processo decretada no sistema PJe. Verifique o andamento no tribunal.
+Urgente: Suspensão do processo decretada no sistema e-Proc. Aguardando a intimação do réu.
+Urgente: Trânsito em julgado certificado pelo juízo deprecante. Confira o teor no sistema.
+Urgente: Trânsito em julgado certificado.
+Urgente: Trânsito em julgado certificado. Notifique-se o cliente da decisão.
+Urgente: Vista ao Ministério Público na 2ª Vara do Trabalho. Aguardando manifestação das partes.
+Urgente: Vista ao Ministério Público na 2ª Vara do Trabalho. O prazo recursal inicia-se amanhã.
+Urgente: Vista ao Ministério Público pela contadoria judicial.
+Urgente: Vista ao Ministério Público.
+Urgente: Vista ao Ministério Público. Arquive-se com as cautelas de praxe.
+Urgente: Vista ao Ministério Público. Vista às partes por 5 dias.
+Vista ao Ministério Público nos autos da ação. O prazo recursal inicia-se amanhã.
+Vista ao Ministério Público pela secretaria da vara.
+Vista ao Ministério Público pelo Tribunal de Justiça. O processo segue tramitação normal.
+Vista ao Ministério Público.
+Vista ao Ministério Público. Remetam-se os autos ao arquivo.

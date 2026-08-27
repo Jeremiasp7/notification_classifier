@@ -998,3 +998,1003 @@ Comprovante de residência revisado e pronto para envio ao cliente.
 Faltam RG e CPF atualizados na pasta digital do cliente.
 Status interno: O contrato de locação foi salvo na pasta digital pelo sócio responsável.
 Aviso: O contrato de locação foi encaminhado ao setor paralegal para instrução probatória.
+A CNH do cliente está pendente de assinatura digital pelo assistente jurídico.
+A CNH do cliente excedeu o limite de tamanho do PJe antes da audiência.
+A CNH do cliente foi anexada ao sistema na nuvem corporativa.
+A CNH do cliente foi anexada ao sistema no portal do escritório.
+A CNH do cliente foi corrompida no upload para conferência.
+A CNH do cliente foi salva na pasta do cliente e aguarda arquivamento físico.
+A CNH do cliente foi validada pelo advogado pleno no portal do escritório.
+A CNH do cliente passou por OCR e está pesquisável e aguarda arquivamento físico.
+A CNH do cliente precisa ser digitalizada novamente na nuvem corporativa.
+A CNH do cliente precisa ser digitalizada novamente.
+A ata notarial está pendente de assinatura digital na subpasta de litígios.
+A ata notarial excedeu o limite de tamanho do PJe no dossiê previdenciário.
+A ata notarial excedeu o limite de tamanho do PJe para conferência.
+A ata notarial excedeu o limite de tamanho do PJe.
+A ata notarial foi anexada ao sistema no dossiê previdenciário.
+A ata notarial foi corrompida no upload na nuvem corporativa.
+A ata notarial foi fragmentada em múltiplas partes para cumprimento de prazo.
+A ata notarial foi protocolada internamente no dossiê previdenciário.
+A ata notarial foi protocolada internamente.
+A ata notarial foi validada pelo advogado pleno no portal do escritório.
+A ata notarial foi validada pelo advogado pleno via sistema ERP.
+A ata notarial passou por OCR e está pesquisável antes da audiência.
+A ata notarial passou por OCR e está pesquisável para cumprimento de prazo.
+A carta de preposição aguarda validação do gestor para conferência.
+A carta de preposição está pendente de assinatura digital e aguarda arquivamento físico.
+A carta de preposição foi assinada via DocuSign.
+A carta de preposição foi encaminhada ao setor paralegal antes da audiência.
+A carta de preposição foi protocolada internamente pelo assistente jurídico.
+A carta de preposição foi rejeitada pelo tribunal para instrução do processo.
+A carteira de trabalho aguarda validação do gestor para conferência.
+A carteira de trabalho está disponível para download conforme solicitado pelo sócio.
+A carteira de trabalho foi anexada ao sistema pelo assistente jurídico.
+A carteira de trabalho foi corrompida no upload e o cliente foi notificado.
+A carteira de trabalho foi encaminhada ao setor paralegal via sistema ERP.
+A carteira de trabalho foi fragmentada em múltiplas partes para conferência.
+A carteira de trabalho foi indexada corretamente para conferência.
+A carteira de trabalho foi rejeitada pelo tribunal antes da audiência.
+A carteira de trabalho foi rejeitada pelo tribunal no dossiê previdenciário.
+A carteira de trabalho passou por OCR e está pesquisável e aguarda arquivamento físico.
+A carteira de trabalho passou por OCR e está pesquisável na subpasta de litígios.
+A certidão de trânsito em julgado está pendente de assinatura digital e o cliente foi notificado.
+A certidão de trânsito em julgado está pendente de assinatura digital na subpasta de litígios.
+A certidão de trânsito em julgado está pendente de assinatura digital para conferência.
+A certidão de trânsito em julgado excedeu o limite de tamanho do PJe para instrução do processo.
+A certidão de trânsito em julgado excedeu o limite de tamanho do PJe.
+A certidão de trânsito em julgado foi assinada via DocuSign para conferência.
+A certidão de trânsito em julgado foi fragmentada em múltiplas partes via sistema ERP.
+A certidão de trânsito em julgado foi salva na pasta do cliente para instrução do processo.
+A certidão de trânsito em julgado passou por OCR e está pesquisável no dossiê previdenciário.
+A certidão de trânsito em julgado precisa ser digitalizada novamente para conferência.
+A certidão negativa de débitos está disponível para download na nuvem corporativa.
+A certidão negativa de débitos está disponível para download no dossiê previdenciário.
+A certidão negativa de débitos está disponível para download pelo assistente jurídico.
+A certidão negativa de débitos está disponível para download via sistema ERP.
+A certidão negativa de débitos excedeu o limite de tamanho do PJe conforme solicitado pelo sócio.
+A certidão negativa de débitos excedeu o limite de tamanho do PJe no portal do escritório.
+A certidão negativa de débitos foi assinada via DocuSign.
+A certidão negativa de débitos foi corrompida no upload na subpasta de litígios.
+A certidão negativa de débitos foi encaminhada ao setor paralegal conforme solicitado pelo sócio.
+A certidão negativa de débitos foi enviada por e-mail.
+A certidão negativa de débitos foi indexada corretamente.
+A certidão negativa de débitos foi protocolada internamente para instrução do processo.
+A certidão negativa de débitos foi salva na pasta do cliente pelo assistente jurídico.
+A certidão negativa de débitos foi salva na pasta do cliente via sistema ERP.
+A certidão negativa de débitos foi validada pelo advogado pleno no dossiê previdenciário.
+A declaração de hipossuficiência está disponível para download via sistema ERP.
+A declaração de hipossuficiência foi corrompida no upload pelo assistente jurídico.
+A declaração de hipossuficiência foi enviada por e-mail no dossiê previdenciário.
+A declaração de hipossuficiência foi indexada corretamente no portal do escritório.
+A declaração de hipossuficiência foi indexada corretamente.
+A declaração de hipossuficiência foi protocolada internamente antes da audiência.
+A declaração de hipossuficiência foi protocolada internamente na subpasta de litígios.
+A declaração de hipossuficiência foi protocolada internamente para cumprimento de prazo.
+A declaração de hipossuficiência foi rejeitada pelo tribunal e o cliente foi notificado.
+A declaração de hipossuficiência foi salva na pasta do cliente para instrução do processo.
+A declaração de hipossuficiência foi validada pelo advogado pleno e o cliente foi notificado.
+A declaração de hipossuficiência foi validada pelo advogado pleno.
+A escritura do imóvel está disponível para download antes da audiência.
+A escritura do imóvel foi assinada via DocuSign para instrução do processo.
+A escritura do imóvel foi corrompida no upload antes da audiência.
+A escritura do imóvel foi enviada por e-mail na nuvem corporativa.
+A escritura do imóvel foi fragmentada em múltiplas partes para cumprimento de prazo.
+A escritura do imóvel foi protocolada internamente.
+A escritura do imóvel foi rejeitada pelo tribunal no portal do escritório.
+A ficha de cadastro aguarda validação do gestor.
+A ficha de cadastro está pendente de assinatura digital para instrução do processo.
+A ficha de cadastro excedeu o limite de tamanho do PJe e o cliente foi notificado.
+A ficha de cadastro excedeu o limite de tamanho do PJe para cumprimento de prazo.
+A ficha de cadastro excedeu o limite de tamanho do PJe via sistema ERP.
+A ficha de cadastro foi anexada ao sistema na nuvem corporativa.
+A ficha de cadastro foi corrompida no upload na nuvem corporativa.
+A ficha de cadastro foi encaminhada ao setor paralegal.
+A ficha de cadastro foi fragmentada em múltiplas partes e aguarda arquivamento físico.
+A ficha de cadastro foi fragmentada em múltiplas partes e o cliente foi notificado.
+A ficha de cadastro foi indexada corretamente antes da audiência.
+A ficha de cadastro foi protocolada internamente e aguarda arquivamento físico.
+A ficha de cadastro foi salva na pasta do cliente e aguarda arquivamento físico.
+A ficha de cadastro foi salva na pasta do cliente para cumprimento de prazo.
+A guia de custas aguarda validação do gestor no portal do escritório.
+A guia de custas aguarda validação do gestor para cumprimento de prazo.
+A guia de custas está disponível para download.
+A guia de custas está pendente de assinatura digital no dossiê previdenciário.
+A guia de custas foi encaminhada ao setor paralegal no dossiê previdenciário.
+A guia de custas foi encaminhada ao setor paralegal para conferência.
+A guia de custas foi validada pelo advogado pleno pelo assistente jurídico.
+A guia de custas passou por OCR e está pesquisável para cumprimento de prazo.
+A guia de custas precisa ser digitalizada novamente na subpasta de litígios.
+A minuta da contestação aguarda validação do gestor para cumprimento de prazo.
+A minuta da contestação está disponível para download para conferência.
+A minuta da contestação está pendente de assinatura digital na subpasta de litígios.
+A minuta da contestação foi assinada via DocuSign para cumprimento de prazo.
+A minuta da contestação foi encaminhada ao setor paralegal para instrução do processo.
+A minuta da contestação foi indexada corretamente na nuvem corporativa.
+A minuta da contestação foi indexada corretamente no dossiê previdenciário.
+A minuta da contestação foi salva na pasta do cliente para conferência.
+A petição inicial aguarda validação do gestor na nuvem corporativa.
+A petição inicial está disponível para download para cumprimento de prazo.
+A petição inicial foi encaminhada ao setor paralegal e o cliente foi notificado.
+A petição inicial foi encaminhada ao setor paralegal na subpasta de litígios.
+A petição inicial foi enviada por e-mail e aguarda arquivamento físico.
+A petição inicial foi enviada por e-mail no dossiê previdenciário.
+A petição inicial foi enviada por e-mail via sistema ERP.
+A petição inicial foi enviada por e-mail.
+A petição inicial foi indexada corretamente no portal do escritório.
+A petição inicial foi protocolada internamente pelo assistente jurídico.
+A petição inicial foi protocolada internamente via sistema ERP.
+A petição inicial foi validada pelo advogado pleno na nuvem corporativa.
+A petição inicial passou por OCR e está pesquisável para cumprimento de prazo.
+A petição inicial precisa ser digitalizada novamente na subpasta de litígios.
+A procuração ad judicia excedeu o limite de tamanho do PJe para instrução do processo.
+A procuração ad judicia foi assinada via DocuSign conforme solicitado pelo sócio.
+A procuração ad judicia foi corrompida no upload antes da audiência.
+A procuração ad judicia foi encaminhada ao setor paralegal via sistema ERP.
+A procuração ad judicia foi indexada corretamente para conferência.
+A procuração ad judicia foi protocolada internamente e o cliente foi notificado.
+A procuração ad judicia foi salva na pasta do cliente antes da audiência.
+A procuração ad judicia foi salva na pasta do cliente.
+A procuração ad judicia foi validada pelo advogado pleno conforme solicitado pelo sócio.
+A procuração pública está disponível para download no dossiê previdenciário.
+A procuração pública está disponível para download no portal do escritório.
+A procuração pública está disponível para download para cumprimento de prazo.
+A procuração pública excedeu o limite de tamanho do PJe e o cliente foi notificado.
+A procuração pública excedeu o limite de tamanho do PJe pelo assistente jurídico.
+A procuração pública foi anexada ao sistema.
+A procuração pública foi assinada via DocuSign antes da audiência.
+A procuração pública foi assinada via DocuSign na nuvem corporativa.
+A procuração pública foi corrompida no upload.
+A procuração pública foi indexada corretamente para conferência.
+A procuração pública foi rejeitada pelo tribunal antes da audiência.
+A procuração pública foi rejeitada pelo tribunal via sistema ERP.
+A procuração pública foi salva na pasta do cliente na subpasta de litígios.
+A procuração pública passou por OCR e está pesquisável na subpasta de litígios.
+A réplica aguarda validação do gestor conforme solicitado pelo sócio.
+A réplica aguarda validação do gestor.
+A réplica foi corrompida no upload para instrução do processo.
+A réplica foi enviada por e-mail.
+A réplica foi fragmentada em múltiplas partes.
+A réplica foi indexada corretamente conforme solicitado pelo sócio.
+A réplica foi rejeitada pelo tribunal no dossiê previdenciário.
+A réplica foi salva na pasta do cliente.
+A réplica foi validada pelo advogado pleno antes da audiência.
+A réplica precisa ser digitalizada novamente via sistema ERP.
+Alerta: A CNH do cliente foi anexada ao sistema.
+Alerta: A CNH do cliente foi corrompida no upload conforme solicitado pelo sócio.
+Alerta: A CNH do cliente foi encaminhada ao setor paralegal para conferência.
+Alerta: A CNH do cliente foi fragmentada em múltiplas partes.
+Alerta: A CNH do cliente foi rejeitada pelo tribunal e aguarda arquivamento físico.
+Alerta: A ata notarial foi assinada via DocuSign na subpasta de litígios.
+Alerta: A ata notarial foi rejeitada pelo tribunal para instrução do processo.
+Alerta: A ata notarial foi salva na pasta do cliente para instrução do processo.
+Alerta: A ata notarial foi validada pelo advogado pleno para cumprimento de prazo.
+Alerta: A ata notarial precisa ser digitalizada novamente para conferência.
+Alerta: A carta de preposição excedeu o limite de tamanho do PJe.
+Alerta: A carta de preposição foi assinada via DocuSign para cumprimento de prazo.
+Alerta: A carta de preposição foi encaminhada ao setor paralegal conforme solicitado pelo sócio.
+Alerta: A carta de preposição foi validada pelo advogado pleno.
+Alerta: A carta de preposição precisa ser digitalizada novamente.
+Alerta: A carteira de trabalho foi rejeitada pelo tribunal e o cliente foi notificado.
+Alerta: A carteira de trabalho foi rejeitada pelo tribunal via sistema ERP.
+Alerta: A certidão de trânsito em julgado foi assinada via DocuSign e aguarda arquivamento físico.
+Alerta: A certidão de trânsito em julgado foi encaminhada ao setor paralegal e o cliente foi notificado.
+Alerta: A certidão de trânsito em julgado foi encaminhada ao setor paralegal.
+Alerta: A certidão de trânsito em julgado foi rejeitada pelo tribunal antes da audiência.
+Alerta: A certidão de trânsito em julgado passou por OCR e está pesquisável e aguarda arquivamento físico.
+Alerta: A certidão negativa de débitos aguarda validação do gestor via sistema ERP.
+Alerta: A certidão negativa de débitos está disponível para download.
+Alerta: A certidão negativa de débitos foi anexada ao sistema e aguarda arquivamento físico.
+Alerta: A certidão negativa de débitos foi protocolada internamente pelo assistente jurídico.
+Alerta: A certidão negativa de débitos foi salva na pasta do cliente.
+Alerta: A declaração de hipossuficiência está disponível para download antes da audiência.
+Alerta: A declaração de hipossuficiência foi enviada por e-mail no portal do escritório.
+Alerta: A declaração de hipossuficiência foi rejeitada pelo tribunal.
+Alerta: A declaração de hipossuficiência foi validada pelo advogado pleno.
+Alerta: A declaração de hipossuficiência passou por OCR e está pesquisável no portal do escritório.
+Alerta: A escritura do imóvel foi assinada via DocuSign e o cliente foi notificado.
+Alerta: A escritura do imóvel foi corrompida no upload no portal do escritório.
+Alerta: A escritura do imóvel foi enviada por e-mail.
+Alerta: A ficha de cadastro foi salva na pasta do cliente na subpasta de litígios.
+Alerta: A guia de custas está pendente de assinatura digital no dossiê previdenciário.
+Alerta: A guia de custas foi encaminhada ao setor paralegal conforme solicitado pelo sócio.
+Alerta: A guia de custas foi protocolada internamente na subpasta de litígios.
+Alerta: A guia de custas passou por OCR e está pesquisável.
+Alerta: A minuta da contestação está disponível para download.
+Alerta: A minuta da contestação está pendente de assinatura digital para cumprimento de prazo.
+Alerta: A minuta da contestação foi anexada ao sistema na nuvem corporativa.
+Alerta: A minuta da contestação foi assinada via DocuSign.
+Alerta: A minuta da contestação foi salva na pasta do cliente no dossiê previdenciário.
+Alerta: A minuta da contestação passou por OCR e está pesquisável e aguarda arquivamento físico.
+Alerta: A petição inicial está disponível para download para cumprimento de prazo.
+Alerta: A petição inicial foi assinada via DocuSign.
+Alerta: A petição inicial foi encaminhada ao setor paralegal.
+Alerta: A procuração ad judicia excedeu o limite de tamanho do PJe pelo assistente jurídico.
+Alerta: A procuração ad judicia foi corrompida no upload.
+Alerta: A procuração ad judicia foi encaminhada ao setor paralegal na nuvem corporativa.
+Alerta: A procuração ad judicia foi fragmentada em múltiplas partes.
+Alerta: A procuração pública está disponível para download.
+Alerta: A procuração pública foi assinada via DocuSign.
+Alerta: A réplica aguarda validação do gestor.
+Alerta: A réplica foi fragmentada em múltiplas partes e aguarda arquivamento físico.
+Alerta: A réplica foi indexada corretamente e aguarda arquivamento físico.
+Alerta: O CPF do réu foi enviado por e-mail.
+Alerta: O CPF do réu foi protocolado internamente antes da audiência.
+Alerta: O CPF do réu foi validado pelo advogado pleno para conferência.
+Alerta: O CPF do réu foi validado pelo advogado pleno para cumprimento de prazo.
+Alerta: O RG do cliente foi encaminhado ao setor paralegal.
+Alerta: O RG do cliente foi fragmentado em múltiplas partes.
+Alerta: O alvará expedido foi enviado por e-mail.
+Alerta: O arquivo PDF está pendente de assinatura digital na nuvem corporativa.
+Alerta: O arquivo PDF foi corrompido no upload.
+Alerta: O arquivo PDF foi protocolado internamente na nuvem corporativa.
+Alerta: O arquivo PDF precisa ser digitalizado novamente no dossiê previdenciário.
+Alerta: O atestado médico aguarda validação do gestor antes da audiência.
+Alerta: O atestado médico está pendente de assinatura digital.
+Alerta: O atestado médico foi anexado ao sistema e o cliente foi notificado.
+Alerta: O comprovante de pagamento foi enviado por e-mail para instrução do processo.
+Alerta: O comprovante de pagamento foi rejeitado pelo tribunal via sistema ERP.
+Alerta: O comprovante de pagamento foi validado pelo advogado pleno.
+Alerta: O comprovante de pagamento passou por OCR e está pesquisável.
+Alerta: O comprovante de residência foi corrompido no upload.
+Alerta: O comprovante de residência foi protocolado internamente via sistema ERP.
+Alerta: O contrato de honorários está pendente de assinatura digital.
+Alerta: O contrato de honorários foi anexado ao sistema para conferência.
+Alerta: O contrato de honorários foi enviado por e-mail pelo assistente jurídico.
+Alerta: O contrato de honorários foi enviado por e-mail via sistema ERP.
+Alerta: O contrato de honorários precisa ser digitalizado novamente no dossiê previdenciário.
+Alerta: O contrato de locação excedeu o limite de tamanho do PJe.
+Alerta: O contrato de locação foi assinado via DocuSign e o cliente foi notificado.
+Alerta: O contrato de locação foi corrompido no upload.
+Alerta: O contrato de locação foi encaminhado ao setor paralegal.
+Alerta: O contrato de locação foi protocolado internamente para conferência.
+Alerta: O contrato de locação foi salvo na pasta do cliente conforme solicitado pelo sócio.
+Alerta: O contrato social foi corrompido no upload pelo assistente jurídico.
+Alerta: O contrato social foi encaminhado ao setor paralegal no dossiê previdenciário.
+Alerta: O contrato social foi salvo na pasta do cliente e o cliente foi notificado.
+Alerta: O contrato social passou por OCR e está pesquisável pelo assistente jurídico.
+Alerta: O dossiê trabalhista foi encaminhado ao setor paralegal e aguarda arquivamento físico.
+Alerta: O dossiê trabalhista foi salvo na pasta do cliente.
+Alerta: O laudo pericial foi indexado corretamente pelo assistente jurídico.
+Alerta: O laudo pericial precisa ser digitalizado novamente no portal do escritório.
+Alerta: O parecer técnico foi corrompido no upload.
+Alerta: O relatório médico aguarda validação do gestor.
+Alerta: O relatório médico está disponível para download para instrução do processo.
+Alerta: O relatório médico está pendente de assinatura digital antes da audiência.
+Alerta: O relatório médico está pendente de assinatura digital via sistema ERP.
+Alerta: O relatório médico foi corrompido no upload para instrução do processo.
+Alerta: O relatório médico foi fragmentado em múltiplas partes.
+Alerta: O relatório médico foi protocolado internamente.
+Alerta: O substabelecimento está disponível para download para conferência.
+Alerta: O substabelecimento foi rejeitado pelo tribunal.
+Alerta: O termo de acordo está disponível para download.
+Alerta: O termo de acordo excedeu o limite de tamanho do PJe pelo assistente jurídico.
+Alerta: O termo de acordo foi assinado via DocuSign.
+Alerta: O termo de acordo foi salvo na pasta do cliente para conferência.
+Alerta: O termo de acordo foi validado pelo advogado pleno no dossiê previdenciário.
+Alerta: O termo de acordo foi validado pelo advogado pleno.
+Aviso: A CNH do cliente aguarda validação do gestor.
+Aviso: A CNH do cliente foi assinada via DocuSign para cumprimento de prazo.
+Aviso: A CNH do cliente foi corrompida no upload.
+Aviso: A ata notarial aguarda validação do gestor antes da audiência.
+Aviso: A ata notarial excedeu o limite de tamanho do PJe e aguarda arquivamento físico.
+Aviso: A ata notarial foi fragmentada em múltiplas partes via sistema ERP.
+Aviso: A ata notarial foi salva na pasta do cliente.
+Aviso: A carta de preposição aguarda validação do gestor antes da audiência.
+Aviso: A carta de preposição aguarda validação do gestor no portal do escritório.
+Aviso: A carteira de trabalho aguarda validação do gestor.
+Aviso: A carteira de trabalho está disponível para download e o cliente foi notificado.
+Aviso: A carteira de trabalho foi assinada via DocuSign via sistema ERP.
+Aviso: A carteira de trabalho foi encaminhada ao setor paralegal via sistema ERP.
+Aviso: A carteira de trabalho precisa ser digitalizada novamente.
+Aviso: A certidão de trânsito em julgado está disponível para download no dossiê previdenciário.
+Aviso: A certidão de trânsito em julgado excedeu o limite de tamanho do PJe.
+Aviso: A certidão de trânsito em julgado foi protocolada internamente.
+Aviso: A certidão de trânsito em julgado precisa ser digitalizada novamente e aguarda arquivamento físico.
+Aviso: A certidão negativa de débitos foi enviada por e-mail.
+Aviso: A certidão negativa de débitos passou por OCR e está pesquisável.
+Aviso: A declaração de hipossuficiência foi rejeitada pelo tribunal para cumprimento de prazo.
+Aviso: A escritura do imóvel está pendente de assinatura digital e aguarda arquivamento físico.
+Aviso: A ficha de cadastro foi assinada via DocuSign para conferência.
+Aviso: A ficha de cadastro foi enviada por e-mail pelo assistente jurídico.
+Aviso: A ficha de cadastro foi validada pelo advogado pleno antes da audiência.
+Aviso: A guia de custas foi assinada via DocuSign e o cliente foi notificado.
+Aviso: A guia de custas foi protocolada internamente.
+Aviso: A minuta da contestação excedeu o limite de tamanho do PJe.
+Aviso: A minuta da contestação foi enviada por e-mail.
+Aviso: A minuta da contestação foi protocolada internamente para cumprimento de prazo.
+Aviso: A minuta da contestação passou por OCR e está pesquisável antes da audiência.
+Aviso: A minuta da contestação passou por OCR e está pesquisável no portal do escritório.
+Aviso: A petição inicial foi assinada via DocuSign na nuvem corporativa.
+Aviso: A petição inicial foi indexada corretamente.
+Aviso: A petição inicial foi validada pelo advogado pleno conforme solicitado pelo sócio.
+Aviso: A procuração ad judicia excedeu o limite de tamanho do PJe e aguarda arquivamento físico.
+Aviso: A procuração ad judicia foi salva na pasta do cliente no portal do escritório.
+Aviso: A procuração ad judicia passou por OCR e está pesquisável conforme solicitado pelo sócio.
+Aviso: A procuração pública está pendente de assinatura digital pelo assistente jurídico.
+Aviso: A procuração pública foi anexada ao sistema para instrução do processo.
+Aviso: A procuração pública foi assinada via DocuSign no dossiê previdenciário.
+Aviso: A procuração pública foi corrompida no upload na subpasta de litígios.
+Aviso: A procuração pública foi enviada por e-mail via sistema ERP.
+Aviso: A procuração pública foi fragmentada em múltiplas partes para instrução do processo.
+Aviso: A procuração pública foi indexada corretamente na nuvem corporativa.
+Aviso: O CPF do réu excedeu o limite de tamanho do PJe no portal do escritório.
+Aviso: O CPF do réu foi corrompido no upload antes da audiência.
+Aviso: O CPF do réu foi protocolado internamente e aguarda arquivamento físico.
+Aviso: O CPF do réu foi rejeitado pelo tribunal.
+Aviso: O RG do cliente aguarda validação do gestor.
+Aviso: O RG do cliente foi anexado ao sistema no portal do escritório.
+Aviso: O RG do cliente foi enviado por e-mail no portal do escritório.
+Aviso: O alvará expedido foi assinado via DocuSign.
+Aviso: O alvará expedido foi corrompido no upload.
+Aviso: O alvará expedido foi rejeitado pelo tribunal para instrução do processo.
+Aviso: O alvará expedido foi salvo na pasta do cliente para cumprimento de prazo.
+Aviso: O arquivo PDF aguarda validação do gestor.
+Aviso: O arquivo PDF está pendente de assinatura digital.
+Aviso: O arquivo PDF foi anexado ao sistema no dossiê previdenciário.
+Aviso: O arquivo PDF foi protocolado internamente no dossiê previdenciário.
+Aviso: O atestado médico excedeu o limite de tamanho do PJe via sistema ERP.
+Aviso: O atestado médico foi fragmentado em múltiplas partes para cumprimento de prazo.
+Aviso: O atestado médico foi rejeitado pelo tribunal antes da audiência.
+Aviso: O atestado médico foi rejeitado pelo tribunal.
+Aviso: O atestado médico foi validado pelo advogado pleno.
+Aviso: O atestado médico precisa ser digitalizado novamente e o cliente foi notificado.
+Aviso: O atestado médico precisa ser digitalizado novamente pelo assistente jurídico.
+Aviso: O comprovante de pagamento aguarda validação do gestor na nuvem corporativa.
+Aviso: O comprovante de pagamento está pendente de assinatura digital.
+Aviso: O comprovante de pagamento excedeu o limite de tamanho do PJe no portal do escritório.
+Aviso: O comprovante de pagamento foi assinado via DocuSign na nuvem corporativa.
+Aviso: O comprovante de pagamento foi fragmentado em múltiplas partes para instrução do processo.
+Aviso: O comprovante de pagamento foi protocolado internamente para conferência.
+Aviso: O comprovante de residência foi protocolado internamente e o cliente foi notificado.
+Aviso: O comprovante de residência foi rejeitado pelo tribunal e o cliente foi notificado.
+Aviso: O contrato de honorários foi corrompido no upload para instrução do processo.
+Aviso: O contrato de honorários foi protocolado internamente.
+Aviso: O contrato de honorários foi salvo na pasta do cliente via sistema ERP.
+Aviso: O contrato de honorários foi salvo na pasta do cliente.
+Aviso: O contrato de honorários passou por OCR e está pesquisável.
+Aviso: O contrato de locação está disponível para download para cumprimento de prazo.
+Aviso: O contrato social está pendente de assinatura digital.
+Aviso: O dossiê trabalhista está disponível para download e o cliente foi notificado.
+Aviso: O dossiê trabalhista foi enviado por e-mail.
+Aviso: O dossiê trabalhista foi validado pelo advogado pleno via sistema ERP.
+Aviso: O laudo pericial foi assinado via DocuSign.
+Aviso: O laudo pericial foi encaminhado ao setor paralegal e aguarda arquivamento físico.
+Aviso: O parecer técnico excedeu o limite de tamanho do PJe.
+Aviso: O parecer técnico foi indexado corretamente e aguarda arquivamento físico.
+Aviso: O parecer técnico passou por OCR e está pesquisável via sistema ERP.
+Aviso: O relatório médico aguarda validação do gestor.
+Aviso: O relatório médico foi protocolado internamente no portal do escritório.
+Aviso: O substabelecimento aguarda validação do gestor.
+Aviso: O substabelecimento excedeu o limite de tamanho do PJe para cumprimento de prazo.
+Aviso: O substabelecimento excedeu o limite de tamanho do PJe.
+Aviso: O substabelecimento foi protocolado internamente.
+Aviso: O substabelecimento precisa ser digitalizado novamente.
+Aviso: O termo de acordo foi anexado ao sistema.
+Aviso: O termo de acordo foi encaminhado ao setor paralegal via sistema ERP.
+Aviso: O termo de acordo foi protocolado internamente para cumprimento de prazo.
+Aviso: O termo de acordo foi salvo na pasta do cliente conforme solicitado pelo sócio.
+Aviso: O termo de acordo passou por OCR e está pesquisável para instrução do processo.
+Documentação: A CNH do cliente está pendente de assinatura digital na subpasta de litígios.
+Documentação: A CNH do cliente excedeu o limite de tamanho do PJe no dossiê previdenciário.
+Documentação: A CNH do cliente foi anexada ao sistema.
+Documentação: A CNH do cliente foi assinada via DocuSign.
+Documentação: A CNH do cliente foi fragmentada em múltiplas partes para instrução do processo.
+Documentação: A CNH do cliente foi fragmentada em múltiplas partes.
+Documentação: A CNH do cliente foi protocolada internamente.
+Documentação: A CNH do cliente foi validada pelo advogado pleno conforme solicitado pelo sócio.
+Documentação: A ata notarial passou por OCR e está pesquisável.
+Documentação: A carta de preposição está disponível para download na nuvem corporativa.
+Documentação: A carta de preposição excedeu o limite de tamanho do PJe.
+Documentação: A carta de preposição foi fragmentada em múltiplas partes.
+Documentação: A carta de preposição foi protocolada internamente na subpasta de litígios.
+Documentação: A carta de preposição passou por OCR e está pesquisável para instrução do processo.
+Documentação: A carteira de trabalho excedeu o limite de tamanho do PJe.
+Documentação: A carteira de trabalho foi corrompida no upload antes da audiência.
+Documentação: A carteira de trabalho foi validada pelo advogado pleno para cumprimento de prazo.
+Documentação: A carteira de trabalho passou por OCR e está pesquisável pelo assistente jurídico.
+Documentação: A carteira de trabalho passou por OCR e está pesquisável.
+Documentação: A carteira de trabalho precisa ser digitalizada novamente.
+Documentação: A certidão de trânsito em julgado está disponível para download.
+Documentação: A certidão de trânsito em julgado foi anexada ao sistema no portal do escritório.
+Documentação: A certidão de trânsito em julgado foi encaminhada ao setor paralegal.
+Documentação: A certidão de trânsito em julgado foi enviada por e-mail.
+Documentação: A certidão de trânsito em julgado precisa ser digitalizada novamente e aguarda arquivamento físico.
+Documentação: A certidão negativa de débitos foi anexada ao sistema via sistema ERP.
+Documentação: A certidão negativa de débitos foi enviada por e-mail.
+Documentação: A certidão negativa de débitos foi indexada corretamente.
+Documentação: A certidão negativa de débitos foi protocolada internamente no dossiê previdenciário.
+Documentação: A certidão negativa de débitos foi protocolada internamente.
+Documentação: A certidão negativa de débitos foi validada pelo advogado pleno.
+Documentação: A declaração de hipossuficiência foi anexada ao sistema para instrução do processo.
+Documentação: A declaração de hipossuficiência foi assinada via DocuSign no dossiê previdenciário.
+Documentação: A declaração de hipossuficiência foi corrompida no upload antes da audiência.
+Documentação: A declaração de hipossuficiência foi indexada corretamente na subpasta de litígios.
+Documentação: A escritura do imóvel aguarda validação do gestor.
+Documentação: A escritura do imóvel foi assinada via DocuSign.
+Documentação: A escritura do imóvel foi validada pelo advogado pleno para conferência.
+Documentação: A ficha de cadastro excedeu o limite de tamanho do PJe no portal do escritório.
+Documentação: A ficha de cadastro foi anexada ao sistema.
+Documentação: A ficha de cadastro foi corrompida no upload pelo assistente jurídico.
+Documentação: A ficha de cadastro foi enviada por e-mail no dossiê previdenciário.
+Documentação: A ficha de cadastro foi fragmentada em múltiplas partes antes da audiência.
+Documentação: A ficha de cadastro precisa ser digitalizada novamente conforme solicitado pelo sócio.
+Documentação: A guia de custas foi fragmentada em múltiplas partes e aguarda arquivamento físico.
+Documentação: A guia de custas foi validada pelo advogado pleno.
+Documentação: A guia de custas precisa ser digitalizada novamente antes da audiência.
+Documentação: A minuta da contestação está pendente de assinatura digital e aguarda arquivamento físico.
+Documentação: A minuta da contestação está pendente de assinatura digital.
+Documentação: A minuta da contestação foi rejeitada pelo tribunal.
+Documentação: A minuta da contestação foi salva na pasta do cliente conforme solicitado pelo sócio.
+Documentação: A minuta da contestação foi validada pelo advogado pleno antes da audiência.
+Documentação: A minuta da contestação passou por OCR e está pesquisável.
+Documentação: A minuta da contestação precisa ser digitalizada novamente na subpasta de litígios.
+Documentação: A petição inicial está disponível para download pelo assistente jurídico.
+Documentação: A petição inicial foi assinada via DocuSign.
+Documentação: A petição inicial foi validada pelo advogado pleno no dossiê previdenciário.
+Documentação: A procuração pública excedeu o limite de tamanho do PJe.
+Documentação: A procuração pública foi salva na pasta do cliente para conferência.
+Documentação: A réplica foi salva na pasta do cliente conforme solicitado pelo sócio.
+Documentação: A réplica precisa ser digitalizada novamente para cumprimento de prazo.
+Documentação: O CPF do réu excedeu o limite de tamanho do PJe via sistema ERP.
+Documentação: O CPF do réu foi corrompido no upload na subpasta de litígios.
+Documentação: O CPF do réu foi fragmentado em múltiplas partes na subpasta de litígios.
+Documentação: O CPF do réu foi indexado corretamente na subpasta de litígios.
+Documentação: O CPF do réu foi rejeitado pelo tribunal antes da audiência.
+Documentação: O RG do cliente está disponível para download.
+Documentação: O RG do cliente foi encaminhado ao setor paralegal.
+Documentação: O alvará expedido está disponível para download no dossiê previdenciário.
+Documentação: O alvará expedido está pendente de assinatura digital para instrução do processo.
+Documentação: O alvará expedido excedeu o limite de tamanho do PJe.
+Documentação: O alvará expedido foi anexado ao sistema e aguarda arquivamento físico.
+Documentação: O alvará expedido foi assinado via DocuSign para cumprimento de prazo.
+Documentação: O alvará expedido foi encaminhado ao setor paralegal para conferência.
+Documentação: O alvará expedido foi encaminhado ao setor paralegal para cumprimento de prazo.
+Documentação: O alvará expedido foi enviado por e-mail para instrução do processo.
+Documentação: O alvará expedido foi indexado corretamente para cumprimento de prazo.
+Documentação: O alvará expedido foi validado pelo advogado pleno.
+Documentação: O atestado médico está pendente de assinatura digital.
+Documentação: O atestado médico foi anexado ao sistema na nuvem corporativa.
+Documentação: O atestado médico foi assinado via DocuSign.
+Documentação: O atestado médico passou por OCR e está pesquisável.
+Documentação: O comprovante de pagamento aguarda validação do gestor para cumprimento de prazo.
+Documentação: O comprovante de pagamento foi anexado ao sistema.
+Documentação: O comprovante de pagamento foi validado pelo advogado pleno para instrução do processo.
+Documentação: O comprovante de residência foi corrompido no upload no dossiê previdenciário.
+Documentação: O comprovante de residência foi fragmentado em múltiplas partes no portal do escritório.
+Documentação: O comprovante de residência foi fragmentado em múltiplas partes.
+Documentação: O comprovante de residência foi salvo na pasta do cliente.
+Documentação: O comprovante de residência precisa ser digitalizado novamente.
+Documentação: O contrato de honorários aguarda validação do gestor.
+Documentação: O contrato de honorários está disponível para download via sistema ERP.
+Documentação: O contrato de honorários foi assinado via DocuSign na subpasta de litígios.
+Documentação: O contrato de honorários foi fragmentado em múltiplas partes.
+Documentação: O contrato de honorários foi indexado corretamente na subpasta de litígios.
+Documentação: O contrato de honorários foi salvo na pasta do cliente para conferência.
+Documentação: O contrato de honorários foi validado pelo advogado pleno.
+Documentação: O contrato de honorários passou por OCR e está pesquisável para instrução do processo.
+Documentação: O contrato de locação está disponível para download e aguarda arquivamento físico.
+Documentação: O contrato de locação foi assinado via DocuSign.
+Documentação: O contrato de locação foi rejeitado pelo tribunal via sistema ERP.
+Documentação: O contrato de locação foi validado pelo advogado pleno para cumprimento de prazo.
+Documentação: O contrato social está pendente de assinatura digital na nuvem corporativa.
+Documentação: O contrato social foi assinado via DocuSign.
+Documentação: O contrato social passou por OCR e está pesquisável.
+Documentação: O dossiê trabalhista foi encaminhado ao setor paralegal para conferência.
+Documentação: O dossiê trabalhista precisa ser digitalizado novamente e o cliente foi notificado.
+Documentação: O laudo pericial foi fragmentado em múltiplas partes.
+Documentação: O laudo pericial foi indexado corretamente para instrução do processo.
+Documentação: O laudo pericial foi validado pelo advogado pleno conforme solicitado pelo sócio.
+Documentação: O parecer técnico excedeu o limite de tamanho do PJe pelo assistente jurídico.
+Documentação: O parecer técnico foi enviado por e-mail para cumprimento de prazo.
+Documentação: O parecer técnico passou por OCR e está pesquisável para conferência.
+Documentação: O relatório médico foi anexado ao sistema.
+Documentação: O relatório médico foi fragmentado em múltiplas partes na nuvem corporativa.
+Documentação: O relatório médico foi fragmentado em múltiplas partes no dossiê previdenciário.
+Documentação: O substabelecimento foi enviado por e-mail para conferência.
+Documentação: O substabelecimento foi rejeitado pelo tribunal via sistema ERP.
+Documentação: O substabelecimento foi salvo na pasta do cliente e o cliente foi notificado.
+Documentação: O termo de acordo excedeu o limite de tamanho do PJe para instrução do processo.
+Documentação: O termo de acordo foi anexado ao sistema.
+Documentação: O termo de acordo foi fragmentado em múltiplas partes.
+Documentação: O termo de acordo foi protocolado internamente.
+Documentação: O termo de acordo precisa ser digitalizado novamente na nuvem corporativa.
+Gestão: A CNH do cliente está pendente de assinatura digital e aguarda arquivamento físico.
+Gestão: A CNH do cliente foi encaminhada ao setor paralegal.
+Gestão: A CNH do cliente foi enviada por e-mail.
+Gestão: A ata notarial foi corrompida no upload para conferência.
+Gestão: A carta de preposição excedeu o limite de tamanho do PJe e aguarda arquivamento físico.
+Gestão: A carta de preposição foi protocolada internamente para cumprimento de prazo.
+Gestão: A carteira de trabalho aguarda validação do gestor no dossiê previdenciário.
+Gestão: A carteira de trabalho está pendente de assinatura digital via sistema ERP.
+Gestão: A carteira de trabalho foi fragmentada em múltiplas partes e aguarda arquivamento físico.
+Gestão: A carteira de trabalho foi indexada corretamente para conferência.
+Gestão: A carteira de trabalho foi salva na pasta do cliente.
+Gestão: A certidão de trânsito em julgado está disponível para download para cumprimento de prazo.
+Gestão: A certidão de trânsito em julgado foi fragmentada em múltiplas partes.
+Gestão: A certidão de trânsito em julgado foi indexada corretamente conforme solicitado pelo sócio.
+Gestão: A certidão de trânsito em julgado foi indexada corretamente e o cliente foi notificado.
+Gestão: A declaração de hipossuficiência aguarda validação do gestor para conferência.
+Gestão: A declaração de hipossuficiência foi fragmentada em múltiplas partes conforme solicitado pelo sócio.
+Gestão: A escritura do imóvel foi anexada ao sistema.
+Gestão: A escritura do imóvel foi rejeitada pelo tribunal via sistema ERP.
+Gestão: A escritura do imóvel foi salva na pasta do cliente no dossiê previdenciário.
+Gestão: A ficha de cadastro foi encaminhada ao setor paralegal para cumprimento de prazo.
+Gestão: A guia de custas foi indexada corretamente.
+Gestão: A minuta da contestação foi enviada por e-mail na nuvem corporativa.
+Gestão: A minuta da contestação foi salva na pasta do cliente no portal do escritório.
+Gestão: A minuta da contestação precisa ser digitalizada novamente no dossiê previdenciário.
+Gestão: A petição inicial aguarda validação do gestor.
+Gestão: A procuração ad judicia aguarda validação do gestor pelo assistente jurídico.
+Gestão: A procuração ad judicia está pendente de assinatura digital na subpasta de litígios.
+Gestão: A procuração ad judicia foi indexada corretamente.
+Gestão: A procuração ad judicia foi rejeitada pelo tribunal.
+Gestão: A procuração pública está disponível para download.
+Gestão: A procuração pública está pendente de assinatura digital.
+Gestão: A procuração pública foi fragmentada em múltiplas partes.
+Gestão: A procuração pública passou por OCR e está pesquisável.
+Gestão: A réplica foi corrompida no upload.
+Gestão: A réplica foi rejeitada pelo tribunal e o cliente foi notificado.
+Gestão: A réplica passou por OCR e está pesquisável.
+Gestão: O CPF do réu excedeu o limite de tamanho do PJe e aguarda arquivamento físico.
+Gestão: O CPF do réu foi anexado ao sistema conforme solicitado pelo sócio.
+Gestão: O CPF do réu passou por OCR e está pesquisável.
+Gestão: O RG do cliente aguarda validação do gestor pelo assistente jurídico.
+Gestão: O RG do cliente foi enviado por e-mail.
+Gestão: O RG do cliente foi protocolado internamente.
+Gestão: O RG do cliente foi salvo na pasta do cliente.
+Gestão: O alvará expedido está disponível para download.
+Gestão: O alvará expedido excedeu o limite de tamanho do PJe.
+Gestão: O alvará expedido foi indexado corretamente para conferência.
+Gestão: O arquivo PDF está pendente de assinatura digital na subpasta de litígios.
+Gestão: O arquivo PDF foi assinado via DocuSign.
+Gestão: O atestado médico foi encaminhado ao setor paralegal.
+Gestão: O atestado médico foi indexado corretamente para cumprimento de prazo.
+Gestão: O atestado médico foi protocolado internamente antes da audiência.
+Gestão: O atestado médico foi rejeitado pelo tribunal.
+Gestão: O comprovante de pagamento foi validado pelo advogado pleno para instrução do processo.
+Gestão: O comprovante de residência foi assinado via DocuSign no portal do escritório.
+Gestão: O comprovante de residência foi corrompido no upload conforme solicitado pelo sócio.
+Gestão: O comprovante de residência foi validado pelo advogado pleno.
+Gestão: O comprovante de residência passou por OCR e está pesquisável.
+Gestão: O contrato de honorários está disponível para download.
+Gestão: O contrato de honorários foi anexado ao sistema para cumprimento de prazo.
+Gestão: O contrato de honorários foi assinado via DocuSign para instrução do processo.
+Gestão: O contrato de honorários foi enviado por e-mail no portal do escritório.
+Gestão: O contrato de honorários foi fragmentado em múltiplas partes para instrução do processo.
+Gestão: O contrato de locação foi encaminhado ao setor paralegal e aguarda arquivamento físico.
+Gestão: O contrato de locação foi fragmentado em múltiplas partes para cumprimento de prazo.
+Gestão: O contrato de locação foi salvo na pasta do cliente e o cliente foi notificado.
+Gestão: O contrato de locação foi salvo na pasta do cliente pelo assistente jurídico.
+Gestão: O contrato social está disponível para download.
+Gestão: O contrato social está pendente de assinatura digital e aguarda arquivamento físico.
+Gestão: O contrato social foi enviado por e-mail no portal do escritório.
+Gestão: O contrato social foi fragmentado em múltiplas partes antes da audiência.
+Gestão: O contrato social foi indexado corretamente na subpasta de litígios.
+Gestão: O contrato social foi indexado corretamente.
+Gestão: O contrato social passou por OCR e está pesquisável para instrução do processo.
+Gestão: O dossiê trabalhista foi encaminhado ao setor paralegal para conferência.
+Gestão: O dossiê trabalhista foi fragmentado em múltiplas partes para cumprimento de prazo.
+Gestão: O dossiê trabalhista foi protocolado internamente no portal do escritório.
+Gestão: O dossiê trabalhista passou por OCR e está pesquisável e aguarda arquivamento físico.
+Gestão: O laudo pericial está pendente de assinatura digital.
+Gestão: O laudo pericial foi anexado ao sistema pelo assistente jurídico.
+Gestão: O laudo pericial foi fragmentado em múltiplas partes antes da audiência.
+Gestão: O laudo pericial foi indexado corretamente na nuvem corporativa.
+Gestão: O laudo pericial passou por OCR e está pesquisável para conferência.
+Gestão: O laudo pericial passou por OCR e está pesquisável.
+Gestão: O relatório médico está pendente de assinatura digital no dossiê previdenciário.
+Gestão: O relatório médico está pendente de assinatura digital para cumprimento de prazo.
+Gestão: O relatório médico foi anexado ao sistema na subpasta de litígios.
+Gestão: O relatório médico foi corrompido no upload para instrução do processo.
+Gestão: O relatório médico foi corrompido no upload.
+Gestão: O relatório médico foi protocolado internamente pelo assistente jurídico.
+Gestão: O substabelecimento está disponível para download para conferência.
+Gestão: O substabelecimento foi fragmentado em múltiplas partes no dossiê previdenciário.
+Gestão: O termo de acordo excedeu o limite de tamanho do PJe na nuvem corporativa.
+Gestão: O termo de acordo foi encaminhado ao setor paralegal.
+Gestão: O termo de acordo foi enviado por e-mail conforme solicitado pelo sócio.
+Gestão: O termo de acordo foi enviado por e-mail.
+Gestão: O termo de acordo foi salvo na pasta do cliente.
+Gestão: O termo de acordo precisa ser digitalizado novamente.
+O CPF do réu está pendente de assinatura digital na nuvem corporativa.
+O CPF do réu foi anexado ao sistema na nuvem corporativa.
+O CPF do réu foi encaminhado ao setor paralegal e aguarda arquivamento físico.
+O CPF do réu foi enviado por e-mail para cumprimento de prazo.
+O CPF do réu foi enviado por e-mail via sistema ERP.
+O CPF do réu foi fragmentado em múltiplas partes para conferência.
+O CPF do réu foi indexado corretamente para instrução do processo.
+O CPF do réu foi indexado corretamente.
+O CPF do réu foi validado pelo advogado pleno pelo assistente jurídico.
+O RG do cliente está pendente de assinatura digital no dossiê previdenciário.
+O RG do cliente excedeu o limite de tamanho do PJe via sistema ERP.
+O RG do cliente foi enviado por e-mail no dossiê previdenciário.
+O RG do cliente foi fragmentado em múltiplas partes via sistema ERP.
+O RG do cliente foi protocolado internamente conforme solicitado pelo sócio.
+O RG do cliente foi rejeitado pelo tribunal pelo assistente jurídico.
+O RG do cliente foi validado pelo advogado pleno e o cliente foi notificado.
+O RG do cliente foi validado pelo advogado pleno pelo assistente jurídico.
+O RG do cliente precisa ser digitalizado novamente e o cliente foi notificado.
+O RG do cliente precisa ser digitalizado novamente para conferência.
+O RG do cliente precisa ser digitalizado novamente.
+O alvará expedido está disponível para download antes da audiência.
+O alvará expedido está disponível para download na subpasta de litígios.
+O alvará expedido está disponível para download pelo assistente jurídico.
+O alvará expedido excedeu o limite de tamanho do PJe na nuvem corporativa.
+O alvará expedido foi anexado ao sistema na nuvem corporativa.
+O alvará expedido foi anexado ao sistema no portal do escritório.
+O alvará expedido foi assinado via DocuSign e aguarda arquivamento físico.
+O alvará expedido foi assinado via DocuSign na nuvem corporativa.
+O alvará expedido foi assinado via DocuSign para cumprimento de prazo.
+O alvará expedido foi encaminhado ao setor paralegal e aguarda arquivamento físico.
+O alvará expedido foi indexado corretamente e aguarda arquivamento físico.
+O alvará expedido foi indexado corretamente no portal do escritório.
+O alvará expedido foi protocolado internamente via sistema ERP.
+O alvará expedido foi salvo na pasta do cliente e aguarda arquivamento físico.
+O arquivo PDF aguarda validação do gestor.
+O arquivo PDF está pendente de assinatura digital conforme solicitado pelo sócio.
+O arquivo PDF está pendente de assinatura digital para conferência.
+O arquivo PDF foi assinado via DocuSign via sistema ERP.
+O arquivo PDF foi encaminhado ao setor paralegal para instrução do processo.
+O arquivo PDF foi protocolado internamente no dossiê previdenciário.
+O arquivo PDF foi salvo na pasta do cliente conforme solicitado pelo sócio.
+O arquivo PDF foi salvo na pasta do cliente na nuvem corporativa.
+O arquivo PDF passou por OCR e está pesquisável na subpasta de litígios.
+O arquivo PDF precisa ser digitalizado novamente pelo assistente jurídico.
+O atestado médico aguarda validação do gestor para cumprimento de prazo.
+O atestado médico está disponível para download na nuvem corporativa.
+O atestado médico foi anexado ao sistema na nuvem corporativa.
+O atestado médico foi assinado via DocuSign pelo assistente jurídico.
+O atestado médico foi corrompido no upload no portal do escritório.
+O atestado médico foi fragmentado em múltiplas partes via sistema ERP.
+O atestado médico foi rejeitado pelo tribunal na subpasta de litígios.
+O atestado médico foi rejeitado pelo tribunal para instrução do processo.
+O atestado médico foi salvo na pasta do cliente.
+O atestado médico foi validado pelo advogado pleno conforme solicitado pelo sócio.
+O atestado médico passou por OCR e está pesquisável via sistema ERP.
+O comprovante de pagamento está pendente de assinatura digital para cumprimento de prazo.
+O comprovante de pagamento foi corrompido no upload antes da audiência.
+O comprovante de pagamento foi enviado por e-mail para conferência.
+O comprovante de pagamento foi fragmentado em múltiplas partes.
+O comprovante de pagamento foi salvo na pasta do cliente via sistema ERP.
+O comprovante de residência aguarda validação do gestor pelo assistente jurídico.
+O comprovante de residência aguarda validação do gestor.
+O comprovante de residência está disponível para download e o cliente foi notificado.
+O comprovante de residência está pendente de assinatura digital conforme solicitado pelo sócio.
+O comprovante de residência foi corrompido no upload para instrução do processo.
+O comprovante de residência foi encaminhado ao setor paralegal no portal do escritório.
+O comprovante de residência foi encaminhado ao setor paralegal para conferência.
+O comprovante de residência foi enviado por e-mail pelo assistente jurídico.
+O comprovante de residência foi fragmentado em múltiplas partes na subpasta de litígios.
+O comprovante de residência foi indexado corretamente antes da audiência.
+O comprovante de residência foi salvo na pasta do cliente via sistema ERP.
+O comprovante de residência foi salvo na pasta do cliente.
+O comprovante de residência foi validado pelo advogado pleno para cumprimento de prazo.
+O contrato de honorários está disponível para download via sistema ERP.
+O contrato de honorários está pendente de assinatura digital via sistema ERP.
+O contrato de honorários foi anexado ao sistema na subpasta de litígios.
+O contrato de honorários foi corrompido no upload e aguarda arquivamento físico.
+O contrato de honorários foi corrompido no upload no dossiê previdenciário.
+O contrato de honorários foi indexado corretamente para cumprimento de prazo.
+O contrato de honorários foi protocolado internamente conforme solicitado pelo sócio.
+O contrato de honorários foi protocolado internamente no portal do escritório.
+O contrato de honorários foi protocolado internamente para conferência.
+O contrato de honorários foi validado pelo advogado pleno via sistema ERP.
+O contrato de locação aguarda validação do gestor conforme solicitado pelo sócio.
+O contrato de locação aguarda validação do gestor.
+O contrato de locação excedeu o limite de tamanho do PJe.
+O contrato de locação foi assinado via DocuSign na subpasta de litígios.
+O contrato de locação foi assinado via DocuSign.
+O contrato de locação foi encaminhado ao setor paralegal no portal do escritório.
+O contrato de locação foi encaminhado ao setor paralegal para cumprimento de prazo.
+O contrato de locação foi encaminhado ao setor paralegal via sistema ERP.
+O contrato de locação foi fragmentado em múltiplas partes no portal do escritório.
+O contrato de locação foi indexado corretamente no dossiê previdenciário.
+O contrato de locação foi protocolado internamente na subpasta de litígios.
+O contrato de locação foi protocolado internamente pelo assistente jurídico.
+O contrato de locação foi protocolado internamente.
+O contrato de locação foi salvo na pasta do cliente para conferência.
+O contrato de locação foi validado pelo advogado pleno antes da audiência.
+O contrato de locação precisa ser digitalizado novamente no portal do escritório.
+O contrato social foi assinado via DocuSign antes da audiência.
+O contrato social foi corrompido no upload antes da audiência.
+O contrato social foi corrompido no upload no portal do escritório.
+O contrato social foi indexado corretamente e o cliente foi notificado.
+O contrato social foi indexado corretamente na subpasta de litígios.
+O contrato social foi indexado corretamente.
+O contrato social foi rejeitado pelo tribunal no dossiê previdenciário.
+O contrato social foi salvo na pasta do cliente conforme solicitado pelo sócio.
+O contrato social foi salvo na pasta do cliente via sistema ERP.
+O contrato social precisa ser digitalizado novamente conforme solicitado pelo sócio.
+O dossiê trabalhista está pendente de assinatura digital no dossiê previdenciário.
+O dossiê trabalhista excedeu o limite de tamanho do PJe na subpasta de litígios.
+O dossiê trabalhista foi assinado via DocuSign na subpasta de litígios.
+O dossiê trabalhista foi corrompido no upload.
+O dossiê trabalhista foi protocolado internamente e o cliente foi notificado.
+O dossiê trabalhista foi rejeitado pelo tribunal antes da audiência.
+O dossiê trabalhista foi salvo na pasta do cliente no portal do escritório.
+O dossiê trabalhista foi validado pelo advogado pleno antes da audiência.
+O dossiê trabalhista passou por OCR e está pesquisável para instrução do processo.
+O dossiê trabalhista passou por OCR e está pesquisável via sistema ERP.
+O laudo pericial está pendente de assinatura digital no portal do escritório.
+O laudo pericial excedeu o limite de tamanho do PJe antes da audiência.
+O laudo pericial foi assinado via DocuSign e o cliente foi notificado.
+O laudo pericial foi assinado via DocuSign no portal do escritório.
+O laudo pericial foi fragmentado em múltiplas partes conforme solicitado pelo sócio.
+O laudo pericial foi indexado corretamente e o cliente foi notificado.
+O laudo pericial foi indexado corretamente para instrução do processo.
+O laudo pericial foi rejeitado pelo tribunal na subpasta de litígios.
+O laudo pericial foi validado pelo advogado pleno para conferência.
+O parecer técnico aguarda validação do gestor antes da audiência.
+O parecer técnico está disponível para download no dossiê previdenciário.
+O parecer técnico está disponível para download.
+O parecer técnico excedeu o limite de tamanho do PJe na subpasta de litígios.
+O parecer técnico foi assinado via DocuSign e o cliente foi notificado.
+O parecer técnico foi corrompido no upload e aguarda arquivamento físico.
+O parecer técnico foi corrompido no upload via sistema ERP.
+O parecer técnico foi corrompido no upload.
+O parecer técnico foi indexado corretamente e aguarda arquivamento físico.
+O parecer técnico foi rejeitado pelo tribunal no portal do escritório.
+O parecer técnico foi salvo na pasta do cliente e aguarda arquivamento físico.
+O parecer técnico foi validado pelo advogado pleno conforme solicitado pelo sócio.
+O parecer técnico passou por OCR e está pesquisável na nuvem corporativa.
+O relatório médico está disponível para download.
+O relatório médico está pendente de assinatura digital no dossiê previdenciário.
+O relatório médico foi anexado ao sistema para cumprimento de prazo.
+O relatório médico foi assinado via DocuSign via sistema ERP.
+O relatório médico foi corrompido no upload no portal do escritório.
+O relatório médico foi encaminhado ao setor paralegal antes da audiência.
+O relatório médico foi protocolado internamente no dossiê previdenciário.
+O relatório médico foi salvo na pasta do cliente.
+O relatório médico foi validado pelo advogado pleno conforme solicitado pelo sócio.
+O relatório médico foi validado pelo advogado pleno e o cliente foi notificado.
+O relatório médico precisa ser digitalizado novamente pelo assistente jurídico.
+O substabelecimento aguarda validação do gestor na subpasta de litígios.
+O substabelecimento está pendente de assinatura digital e aguarda arquivamento físico.
+O substabelecimento está pendente de assinatura digital via sistema ERP.
+O substabelecimento foi anexado ao sistema.
+O substabelecimento foi assinado via DocuSign no portal do escritório.
+O substabelecimento foi corrompido no upload antes da audiência.
+O substabelecimento foi corrompido no upload na nuvem corporativa.
+O substabelecimento foi fragmentado em múltiplas partes na nuvem corporativa.
+O substabelecimento foi salvo na pasta do cliente no portal do escritório.
+O substabelecimento foi validado pelo advogado pleno na subpasta de litígios.
+O substabelecimento passou por OCR e está pesquisável na nuvem corporativa.
+O substabelecimento passou por OCR e está pesquisável para instrução do processo.
+O substabelecimento passou por OCR e está pesquisável pelo assistente jurídico.
+O substabelecimento precisa ser digitalizado novamente conforme solicitado pelo sócio.
+O substabelecimento precisa ser digitalizado novamente via sistema ERP.
+O termo de acordo aguarda validação do gestor.
+O termo de acordo está disponível para download para instrução do processo.
+O termo de acordo está pendente de assinatura digital para conferência.
+O termo de acordo excedeu o limite de tamanho do PJe antes da audiência.
+O termo de acordo excedeu o limite de tamanho do PJe no dossiê previdenciário.
+O termo de acordo excedeu o limite de tamanho do PJe.
+O termo de acordo foi anexado ao sistema.
+O termo de acordo foi fragmentado em múltiplas partes no dossiê previdenciário.
+O termo de acordo foi rejeitado pelo tribunal conforme solicitado pelo sócio.
+O termo de acordo foi validado pelo advogado pleno para cumprimento de prazo.
+Status: A CNH do cliente foi assinada via DocuSign para instrução do processo.
+Status: A CNH do cliente foi protocolada internamente e aguarda arquivamento físico.
+Status: A ata notarial está pendente de assinatura digital via sistema ERP.
+Status: A carta de preposição está pendente de assinatura digital para conferência.
+Status: A carta de preposição foi anexada ao sistema.
+Status: A carteira de trabalho está disponível para download.
+Status: A carteira de trabalho está pendente de assinatura digital.
+Status: A carteira de trabalho foi anexada ao sistema antes da audiência.
+Status: A carteira de trabalho foi enviada por e-mail e aguarda arquivamento físico.
+Status: A carteira de trabalho foi indexada corretamente na subpasta de litígios.
+Status: A carteira de trabalho foi rejeitada pelo tribunal para instrução do processo.
+Status: A carteira de trabalho foi salva na pasta do cliente no portal do escritório.
+Status: A certidão de trânsito em julgado está pendente de assinatura digital via sistema ERP.
+Status: A certidão de trânsito em julgado foi anexada ao sistema na nuvem corporativa.
+Status: A certidão de trânsito em julgado foi salva na pasta do cliente na subpasta de litígios.
+Status: A certidão de trânsito em julgado foi salva na pasta do cliente para cumprimento de prazo.
+Status: A certidão negativa de débitos excedeu o limite de tamanho do PJe para conferência.
+Status: A certidão negativa de débitos foi anexada ao sistema.
+Status: A certidão negativa de débitos foi assinada via DocuSign pelo assistente jurídico.
+Status: A certidão negativa de débitos foi fragmentada em múltiplas partes na subpasta de litígios.
+Status: A declaração de hipossuficiência foi corrompida no upload.
+Status: A declaração de hipossuficiência precisa ser digitalizada novamente para cumprimento de prazo.
+Status: A escritura do imóvel está pendente de assinatura digital via sistema ERP.
+Status: A escritura do imóvel foi corrompida no upload.
+Status: A escritura do imóvel foi validada pelo advogado pleno.
+Status: A ficha de cadastro foi corrompida no upload conforme solicitado pelo sócio.
+Status: A ficha de cadastro foi protocolada internamente e aguarda arquivamento físico.
+Status: A guia de custas está disponível para download pelo assistente jurídico.
+Status: A guia de custas está pendente de assinatura digital.
+Status: A guia de custas excedeu o limite de tamanho do PJe no dossiê previdenciário.
+Status: A guia de custas foi validada pelo advogado pleno para instrução do processo.
+Status: A guia de custas precisa ser digitalizada novamente no dossiê previdenciário.
+Status: A minuta da contestação foi assinada via DocuSign pelo assistente jurídico.
+Status: A minuta da contestação foi assinada via DocuSign.
+Status: A petição inicial aguarda validação do gestor na subpasta de litígios.
+Status: A petição inicial está pendente de assinatura digital conforme solicitado pelo sócio.
+Status: A petição inicial foi anexada ao sistema via sistema ERP.
+Status: A petição inicial foi encaminhada ao setor paralegal.
+Status: A procuração ad judicia excedeu o limite de tamanho do PJe para conferência.
+Status: A procuração ad judicia foi protocolada internamente conforme solicitado pelo sócio.
+Status: A procuração ad judicia foi salva na pasta do cliente na nuvem corporativa.
+Status: A procuração ad judicia foi salva na pasta do cliente para conferência.
+Status: A procuração ad judicia foi salva na pasta do cliente.
+Status: A procuração ad judicia passou por OCR e está pesquisável para cumprimento de prazo.
+Status: A procuração pública foi rejeitada pelo tribunal.
+Status: A réplica está pendente de assinatura digital.
+Status: A réplica foi assinada via DocuSign.
+Status: A réplica foi corrompida no upload para instrução do processo.
+Status: A réplica foi salva na pasta do cliente e o cliente foi notificado.
+Status: A réplica foi salva na pasta do cliente via sistema ERP.
+Status: A réplica precisa ser digitalizada novamente para cumprimento de prazo.
+Status: O CPF do réu foi corrompido no upload no portal do escritório.
+Status: O CPF do réu foi fragmentado em múltiplas partes e aguarda arquivamento físico.
+Status: O CPF do réu foi protocolado internamente na nuvem corporativa.
+Status: O CPF do réu foi salvo na pasta do cliente via sistema ERP.
+Status: O RG do cliente passou por OCR e está pesquisável no dossiê previdenciário.
+Status: O RG do cliente passou por OCR e está pesquisável.
+Status: O RG do cliente precisa ser digitalizado novamente na subpasta de litígios.
+Status: O alvará expedido foi indexado corretamente no portal do escritório.
+Status: O alvará expedido passou por OCR e está pesquisável e aguarda arquivamento físico.
+Status: O alvará expedido precisa ser digitalizado novamente no portal do escritório.
+Status: O arquivo PDF foi assinado via DocuSign e aguarda arquivamento físico.
+Status: O arquivo PDF foi fragmentado em múltiplas partes para instrução do processo.
+Status: O arquivo PDF foi indexado corretamente e aguarda arquivamento físico.
+Status: O atestado médico excedeu o limite de tamanho do PJe pelo assistente jurídico.
+Status: O atestado médico foi rejeitado pelo tribunal pelo assistente jurídico.
+Status: O atestado médico passou por OCR e está pesquisável na subpasta de litígios.
+Status: O comprovante de pagamento está pendente de assinatura digital.
+Status: O comprovante de pagamento foi fragmentado em múltiplas partes.
+Status: O comprovante de residência foi anexado ao sistema.
+Status: O comprovante de residência foi indexado corretamente.
+Status: O comprovante de residência foi rejeitado pelo tribunal.
+Status: O comprovante de residência foi salvo na pasta do cliente.
+Status: O comprovante de residência foi validado pelo advogado pleno na subpasta de litígios.
+Status: O contrato de honorários aguarda validação do gestor.
+Status: O contrato de honorários foi anexado ao sistema.
+Status: O contrato de honorários foi encaminhado ao setor paralegal e o cliente foi notificado.
+Status: O contrato de honorários foi enviado por e-mail.
+Status: O contrato de locação aguarda validação do gestor para conferência.
+Status: O contrato de locação foi encaminhado ao setor paralegal no portal do escritório.
+Status: O contrato de locação foi salvo na pasta do cliente.
+Status: O contrato social foi indexado corretamente para cumprimento de prazo.
+Status: O contrato social foi salvo na pasta do cliente para cumprimento de prazo.
+Status: O dossiê trabalhista está disponível para download.
+Status: O dossiê trabalhista foi validado pelo advogado pleno.
+Status: O dossiê trabalhista precisa ser digitalizado novamente e aguarda arquivamento físico.
+Status: O laudo pericial está pendente de assinatura digital para instrução do processo.
+Status: O laudo pericial foi anexado ao sistema no dossiê previdenciário.
+Status: O laudo pericial foi enviado por e-mail.
+Status: O laudo pericial foi rejeitado pelo tribunal.
+Status: O parecer técnico foi anexado ao sistema.
+Status: O parecer técnico foi corrompido no upload e o cliente foi notificado.
+Status: O parecer técnico foi encaminhado ao setor paralegal pelo assistente jurídico.
+Status: O parecer técnico foi fragmentado em múltiplas partes via sistema ERP.
+Status: O parecer técnico foi fragmentado em múltiplas partes.
+Status: O parecer técnico foi rejeitado pelo tribunal na nuvem corporativa.
+Status: O parecer técnico passou por OCR e está pesquisável na subpasta de litígios.
+Status: O substabelecimento aguarda validação do gestor no dossiê previdenciário.
+Status: O substabelecimento foi assinado via DocuSign.
+Status: O substabelecimento foi encaminhado ao setor paralegal no dossiê previdenciário.
+Status: O substabelecimento foi fragmentado em múltiplas partes via sistema ERP.
+Status: O substabelecimento foi fragmentado em múltiplas partes.
+Status: O substabelecimento foi indexado corretamente para instrução do processo.
+Status: O substabelecimento foi salvo na pasta do cliente antes da audiência.
+Status: O termo de acordo aguarda validação do gestor para conferência.
+Status: O termo de acordo excedeu o limite de tamanho do PJe antes da audiência.
+Status: O termo de acordo foi corrompido no upload antes da audiência.
+Status: O termo de acordo foi enviado por e-mail e aguarda arquivamento físico.
+Status: O termo de acordo foi enviado por e-mail.
+Status: O termo de acordo foi indexado corretamente na subpasta de litígios.
+Status: O termo de acordo foi indexado corretamente.
+Status: O termo de acordo foi protocolado internamente.
+Status: O termo de acordo foi validado pelo advogado pleno para conferência.
+Status: O termo de acordo precisa ser digitalizado novamente no dossiê previdenciário.
+Upload falhou: A CNH do cliente está disponível para download.
+Upload falhou: A CNH do cliente excedeu o limite de tamanho do PJe para conferência.
+Upload falhou: A CNH do cliente foi anexada ao sistema pelo assistente jurídico.
+Upload falhou: A CNH do cliente foi anexada ao sistema.
+Upload falhou: A CNH do cliente foi indexada corretamente via sistema ERP.
+Upload falhou: A ata notarial está disponível para download para cumprimento de prazo.
+Upload falhou: A ata notarial está pendente de assinatura digital.
+Upload falhou: A ata notarial passou por OCR e está pesquisável na nuvem corporativa.
+Upload falhou: A carta de preposição foi corrompida no upload para cumprimento de prazo.
+Upload falhou: A carta de preposição foi protocolada internamente para conferência.
+Upload falhou: A carta de preposição foi salva na pasta do cliente antes da audiência.
+Upload falhou: A carteira de trabalho aguarda validação do gestor.
+Upload falhou: A carteira de trabalho está disponível para download.
+Upload falhou: A carteira de trabalho foi anexada ao sistema.
+Upload falhou: A carteira de trabalho foi corrompida no upload.
+Upload falhou: A carteira de trabalho foi indexada corretamente no dossiê previdenciário.
+Upload falhou: A carteira de trabalho foi rejeitada pelo tribunal.
+Upload falhou: A carteira de trabalho passou por OCR e está pesquisável no dossiê previdenciário.
+Upload falhou: A carteira de trabalho precisa ser digitalizada novamente e o cliente foi notificado.
+Upload falhou: A certidão de trânsito em julgado foi encaminhada ao setor paralegal.
+Upload falhou: A certidão de trânsito em julgado foi enviada por e-mail.
+Upload falhou: A certidão de trânsito em julgado passou por OCR e está pesquisável via sistema ERP.
+Upload falhou: A certidão negativa de débitos está pendente de assinatura digital.
+Upload falhou: A declaração de hipossuficiência aguarda validação do gestor.
+Upload falhou: A declaração de hipossuficiência foi corrompida no upload.
+Upload falhou: A declaração de hipossuficiência foi protocolada internamente.
+Upload falhou: A declaração de hipossuficiência foi salva na pasta do cliente via sistema ERP.
+Upload falhou: A escritura do imóvel excedeu o limite de tamanho do PJe.
+Upload falhou: A escritura do imóvel foi assinada via DocuSign e o cliente foi notificado.
+Upload falhou: A escritura do imóvel foi protocolada internamente e aguarda arquivamento físico.
+Upload falhou: A escritura do imóvel foi rejeitada pelo tribunal na nuvem corporativa.
+Upload falhou: A escritura do imóvel foi rejeitada pelo tribunal para instrução do processo.
+Upload falhou: A ficha de cadastro foi anexada ao sistema para instrução do processo.
+Upload falhou: A ficha de cadastro foi indexada corretamente.
+Upload falhou: A guia de custas foi enviada por e-mail.
+Upload falhou: A guia de custas foi fragmentada em múltiplas partes.
+Upload falhou: A minuta da contestação foi indexada corretamente.
+Upload falhou: A petição inicial foi corrompida no upload no portal do escritório.
+Upload falhou: A petição inicial foi enviada por e-mail.
+Upload falhou: A petição inicial foi rejeitada pelo tribunal antes da audiência.
+Upload falhou: A procuração ad judicia aguarda validação do gestor para instrução do processo.
+Upload falhou: A procuração ad judicia está pendente de assinatura digital para cumprimento de prazo.
+Upload falhou: A procuração pública aguarda validação do gestor para cumprimento de prazo.
+Upload falhou: A procuração pública está disponível para download.
+Upload falhou: A procuração pública está pendente de assinatura digital via sistema ERP.
+Upload falhou: A procuração pública excedeu o limite de tamanho do PJe no dossiê previdenciário.
+Upload falhou: A procuração pública foi fragmentada em múltiplas partes para instrução do processo.
+Upload falhou: A procuração pública foi fragmentada em múltiplas partes.
+Upload falhou: A procuração pública foi protocolada internamente.
+Upload falhou: A procuração pública foi rejeitada pelo tribunal para instrução do processo.
+Upload falhou: A procuração pública passou por OCR e está pesquisável na nuvem corporativa.
+Upload falhou: A procuração pública passou por OCR e está pesquisável.
+Upload falhou: A réplica está pendente de assinatura digital e o cliente foi notificado.
+Upload falhou: A réplica está pendente de assinatura digital para cumprimento de prazo.
+Upload falhou: A réplica passou por OCR e está pesquisável.
+Upload falhou: O CPF do réu aguarda validação do gestor.
+Upload falhou: O CPF do réu está pendente de assinatura digital.
+Upload falhou: O CPF do réu foi assinado via DocuSign pelo assistente jurídico.
+Upload falhou: O CPF do réu foi corrompido no upload conforme solicitado pelo sócio.
+Upload falhou: O CPF do réu foi salvo na pasta do cliente.
+Upload falhou: O CPF do réu precisa ser digitalizado novamente no dossiê previdenciário.
+Upload falhou: O RG do cliente foi enviado por e-mail na nuvem corporativa.
+Upload falhou: O alvará expedido foi assinado via DocuSign para cumprimento de prazo.
+Upload falhou: O alvará expedido precisa ser digitalizado novamente.
+Upload falhou: O arquivo PDF foi anexado ao sistema.
+Upload falhou: O arquivo PDF foi fragmentado em múltiplas partes.
+Upload falhou: O arquivo PDF foi indexado corretamente no portal do escritório.
+Upload falhou: O arquivo PDF passou por OCR e está pesquisável conforme solicitado pelo sócio.
+Upload falhou: O arquivo PDF passou por OCR e está pesquisável.
+Upload falhou: O atestado médico está pendente de assinatura digital pelo assistente jurídico.
+Upload falhou: O atestado médico foi corrompido no upload.
+Upload falhou: O atestado médico foi enviado por e-mail.
+Upload falhou: O comprovante de pagamento está disponível para download na nuvem corporativa.
+Upload falhou: O comprovante de pagamento foi protocolado internamente na nuvem corporativa.
+Upload falhou: O comprovante de pagamento foi protocolado internamente.
+Upload falhou: O comprovante de residência foi assinado via DocuSign pelo assistente jurídico.
+Upload falhou: O comprovante de residência foi validado pelo advogado pleno via sistema ERP.
+Upload falhou: O contrato de honorários está pendente de assinatura digital no dossiê previdenciário.
+Upload falhou: O contrato de honorários excedeu o limite de tamanho do PJe via sistema ERP.
+Upload falhou: O contrato de honorários foi corrompido no upload.
+Upload falhou: O contrato de honorários foi encaminhado ao setor paralegal.
+Upload falhou: O contrato de honorários foi indexado corretamente.
+Upload falhou: O contrato de honorários foi rejeitado pelo tribunal antes da audiência.
+Upload falhou: O contrato de honorários passou por OCR e está pesquisável via sistema ERP.
+Upload falhou: O contrato de honorários passou por OCR e está pesquisável.
+Upload falhou: O contrato de locação foi anexado ao sistema antes da audiência.
+Upload falhou: O contrato de locação precisa ser digitalizado novamente via sistema ERP.
+Upload falhou: O contrato social foi protocolado internamente via sistema ERP.
+Upload falhou: O contrato social foi rejeitado pelo tribunal conforme solicitado pelo sócio.
+Upload falhou: O contrato social foi salvo na pasta do cliente no dossiê previdenciário.
+Upload falhou: O dossiê trabalhista aguarda validação do gestor.
+Upload falhou: O laudo pericial está pendente de assinatura digital e aguarda arquivamento físico.
+Upload falhou: O laudo pericial foi anexado ao sistema na nuvem corporativa.
+Upload falhou: O laudo pericial foi fragmentado em múltiplas partes na subpasta de litígios.
+Upload falhou: O laudo pericial foi protocolado internamente e o cliente foi notificado.
+Upload falhou: O laudo pericial passou por OCR e está pesquisável conforme solicitado pelo sócio.
+Upload falhou: O parecer técnico está pendente de assinatura digital.
+Upload falhou: O parecer técnico foi indexado corretamente.
+Upload falhou: O relatório médico foi indexado corretamente.
+Upload falhou: O relatório médico foi rejeitado pelo tribunal.
+Upload falhou: O relatório médico foi salvo na pasta do cliente e o cliente foi notificado.
+Upload falhou: O relatório médico precisa ser digitalizado novamente na subpasta de litígios.
+Upload falhou: O substabelecimento está pendente de assinatura digital.
+Upload falhou: O substabelecimento foi salvo na pasta do cliente.
+Upload falhou: O termo de acordo aguarda validação do gestor conforme solicitado pelo sócio.
+Upload falhou: O termo de acordo está disponível para download no portal do escritório.
+Upload falhou: O termo de acordo foi assinado via DocuSign no dossiê previdenciário.
+Upload falhou: O termo de acordo foi corrompido no upload pelo assistente jurídico.
+Upload falhou: O termo de acordo foi enviado por e-mail antes da audiência.
+Upload falhou: O termo de acordo foi enviado por e-mail.

@@ -998,3 +998,1003 @@ Alerta de prazo: O prazo comum às partes termina em 48 horas. Revise os memoria
 Prazo comum de 10 dias úteis aberto para ambas as partes.
 O prazo para impugnação termina em 5 dias úteis. Atenção ao calendário interno.
 Audiência de custódia remarcada para o dia 20.
+A audiência admonitória acontecerá na sala 2. Notifique o cliente.
+A audiência admonitória está confirmada para hoje. Evite a preclusão.
+A audiência admonitória está confirmada para hoje. Prepare a documentação.
+A audiência admonitória foi adiada para o próximo mês. Verifique o link do Teams.
+A audiência admonitória foi cancelada pelo juízo. Prepare a documentação.
+A audiência admonitória foi confirmada para amanhã.
+A audiência admonitória foi confirmada para amanhã. Aguarde novas orientações.
+A audiência admonitória foi confirmada para amanhã. O estagiário já incluiu na agenda.
+A audiência admonitória foi confirmada para amanhã. Verifique no PJe.
+A audiência admonitória foi transferida para o dia 20. Não perca o horário estabelecido.
+A audiência admonitória foi transferida para o dia 20. Verifique no PJe.
+A audiência admonitória será presencial no fórum. Avise o coordenador.
+A audiência de conciliação acontecerá na sala 2.
+A audiência de conciliação acontecerá na sala 2. Não perca o horário estabelecido.
+A audiência de conciliação acontecerá na sala 2. O estagiário já incluiu na agenda.
+A audiência de conciliação está aguardando o link.
+A audiência de conciliação está confirmada para hoje. O sistema já foi atualizado.
+A audiência de conciliação foi adiada para o próximo mês. O estagiário já incluiu na agenda.
+A audiência de conciliação foi cancelada pelo juízo.
+A audiência de conciliação foi cancelada pelo juízo. O sistema já foi atualizado.
+A audiência de conciliação foi confirmada para amanhã. Avise o coordenador.
+A audiência de conciliação foi confirmada para amanhã. Revise os memoriais.
+A audiência de conciliação foi designada para hoje às 14h.
+A audiência de conciliação teve o horário antecipado.
+A audiência de custódia acontecerá na sala 2.
+A audiência de custódia acontecerá na sala 2. Revise os memoriais.
+A audiência de custódia está aguardando o link. Não perca o horário estabelecido.
+A audiência de custódia está aguardando o link. Verifique o link do Teams.
+A audiência de custódia está confirmada para hoje. Não perca o horário estabelecido.
+A audiência de custódia foi confirmada para amanhã. Atenção ao calendário interno.
+A audiência de custódia foi transferida para o dia 20.
+A audiência de custódia ocorrerá de forma 100% virtual. Evite a preclusão.
+A audiência de custódia será presencial no fórum. Não perca o horário estabelecido.
+A audiência de custódia teve o horário antecipado. O sistema já foi atualizado.
+A audiência de custódia teve o horário antecipado. Prepare a documentação.
+A audiência de instrução está aguardando o link. Revise os memoriais.
+A audiência de instrução está confirmada para hoje. Revise os memoriais.
+A audiência de instrução foi cancelada pelo juízo. O estagiário já incluiu na agenda.
+A audiência de instrução foi designada para hoje às 14h. Avise o coordenador.
+A audiência de instrução foi designada para hoje às 14h. O estagiário já incluiu na agenda.
+A audiência de instrução foi designada para hoje às 14h. Prepare a documentação.
+A audiência de instrução foi remarcada para sexta-feira. A parte contrária já foi intimada.
+A audiência de instrução foi transferida para o dia 20. Verifique no PJe.
+A audiência de instrução ocorrerá de forma 100% virtual. Aguarde novas orientações.
+A audiência de instrução teve o horário antecipado. O estagiário já incluiu na agenda.
+A audiência de justificação está aguardando o link. Não perca o horário estabelecido.
+A audiência de justificação está confirmada para hoje. O estagiário já incluiu na agenda.
+A audiência de justificação está confirmada para hoje. Prepare a documentação.
+A audiência de justificação foi adiada para o próximo mês.
+A audiência de justificação foi cancelada pelo juízo. Verifique no PJe.
+A audiência de justificação foi designada para hoje às 14h. A parte contrária já foi intimada.
+A audiência de justificação foi designada para hoje às 14h. Aguarde novas orientações.
+A audiência de justificação foi designada para hoje às 14h. O estagiário já incluiu na agenda.
+A audiência de justificação foi designada para hoje às 14h. Prepare a documentação.
+A audiência de justificação foi transferida para o dia 20. Aguarde novas orientações.
+A audiência de justificação foi transferida para o dia 20. Revise os memoriais.
+A audiência de justificação será presencial no fórum. A parte contrária já foi intimada.
+A audiência de justificação teve o horário antecipado. Evite a preclusão.
+A audiência de oitiva de testemunhas está aguardando o link. O estagiário já incluiu na agenda.
+A audiência de oitiva de testemunhas foi adiada para o próximo mês.
+A audiência de oitiva de testemunhas foi cancelada pelo juízo. Avise o coordenador.
+A audiência de oitiva de testemunhas foi cancelada pelo juízo. Verifique no PJe.
+A audiência de oitiva de testemunhas foi designada para hoje às 14h. Prepare a documentação.
+A audiência de oitiva de testemunhas foi transferida para o dia 20. Avise o coordenador.
+A audiência de oitiva de testemunhas ocorrerá de forma 100% virtual. O sistema já foi atualizado.
+A audiência de oitiva de testemunhas ocorrerá de forma 100% virtual. Revise os memoriais.
+A audiência de oitiva de testemunhas ocorrerá de forma 100% virtual. Verifique o link do Teams.
+A audiência de oitiva de testemunhas teve o horário antecipado. Revise os memoriais.
+A audiência de tentativa de acordo está confirmada para hoje. Evite a preclusão.
+A audiência de tentativa de acordo está confirmada para hoje. Notifique o cliente.
+A audiência de tentativa de acordo foi adiada para o próximo mês. Revise os memoriais.
+A audiência de tentativa de acordo foi confirmada para amanhã. A parte contrária já foi intimada.
+A audiência de tentativa de acordo foi confirmada para amanhã. Atenção ao calendário interno.
+A audiência de tentativa de acordo foi confirmada para amanhã. Avise o coordenador.
+A audiência de tentativa de acordo foi designada para hoje às 14h. Aguarde novas orientações.
+A audiência de tentativa de acordo foi designada para hoje às 14h. Não perca o horário estabelecido.
+A audiência de tentativa de acordo foi remarcada para sexta-feira. Aguarde novas orientações.
+A audiência de tentativa de acordo foi transferida para o dia 20.
+A audiência de tentativa de acordo ocorrerá de forma 100% virtual. Atenção ao calendário interno.
+A audiência de tentativa de acordo ocorrerá de forma 100% virtual. Não perca o horário estabelecido.
+A audiência trabalhista acontecerá na sala 2. Aguarde novas orientações.
+A audiência trabalhista acontecerá na sala 2. Evite a preclusão.
+A audiência trabalhista acontecerá na sala 2. Notifique o cliente.
+A audiência trabalhista foi adiada para o próximo mês. O sistema já foi atualizado.
+A audiência trabalhista foi adiada para o próximo mês. Verifique no PJe.
+A audiência trabalhista foi cancelada pelo juízo. Não perca o horário estabelecido.
+A audiência trabalhista foi cancelada pelo juízo. O estagiário já incluiu na agenda.
+A audiência trabalhista foi cancelada pelo juízo. O sistema já foi atualizado.
+A audiência trabalhista foi cancelada pelo juízo. Verifique no PJe.
+A audiência trabalhista foi cancelada pelo juízo. Verifique o link do Teams.
+A audiência trabalhista foi transferida para o dia 20. Prepare a documentação.
+A audiência trabalhista ocorrerá de forma 100% virtual. Verifique o link do Teams.
+A audiência trabalhista será presencial no fórum. Evite a preclusão.
+A audiência trabalhista será presencial no fórum. Notifique o cliente.
+A audiência trabalhista será presencial no fórum. Prepare a documentação.
+A audiência trabalhista teve o horário antecipado. Atenção ao calendário interno.
+A audiência trabalhista teve o horário antecipado. Avise o coordenador.
+A audiência trabalhista teve o horário antecipado. Evite a preclusão.
+A audiência trabalhista teve o horário antecipado. O sistema já foi atualizado.
+A oitiva do perito acontecerá na sala 2. Avise o coordenador.
+A oitiva do perito está confirmada para hoje. Não perca o horário estabelecido.
+A oitiva do perito foi adiada para o próximo mês. Avise o coordenador.
+A oitiva do perito foi cancelada pelo juízo. A parte contrária já foi intimada.
+A oitiva do perito foi cancelada pelo juízo. O sistema já foi atualizado.
+A oitiva do perito foi remarcada para sexta-feira. A parte contrária já foi intimada.
+A oitiva do perito foi remarcada para sexta-feira. Evite a preclusão.
+A oitiva do perito foi remarcada para sexta-feira. Verifique no PJe.
+A oitiva do perito foi transferida para o dia 20. Avise o coordenador.
+A oitiva do perito ocorrerá de forma 100% virtual. Atenção ao calendário interno.
+A oitiva do perito ocorrerá de forma 100% virtual. Notifique o cliente.
+A oitiva do perito ocorrerá de forma 100% virtual. O estagiário já incluiu na agenda.
+A oitiva do perito será presencial no fórum. Aguarde novas orientações.
+A reunião pré-audiência acontecerá na sala 2. A parte contrária já foi intimada.
+A reunião pré-audiência acontecerá na sala 2. Evite a preclusão.
+A reunião pré-audiência acontecerá na sala 2. Prepare a documentação.
+A reunião pré-audiência está aguardando o link. Evite a preclusão.
+A reunião pré-audiência está confirmada para hoje. A parte contrária já foi intimada.
+A reunião pré-audiência está confirmada para hoje. Avise o coordenador.
+A reunião pré-audiência está confirmada para hoje. Verifique no PJe.
+A reunião pré-audiência foi adiada para o próximo mês. A parte contrária já foi intimada.
+A reunião pré-audiência foi cancelada pelo juízo.
+A reunião pré-audiência foi confirmada para amanhã. Não perca o horário estabelecido.
+A reunião pré-audiência foi remarcada para sexta-feira. A parte contrária já foi intimada.
+A reunião pré-audiência foi transferida para o dia 20. O estagiário já incluiu na agenda.
+A reunião pré-audiência foi transferida para o dia 20. O sistema já foi atualizado.
+A reunião pré-audiência será presencial no fórum. Avise o coordenador.
+A reunião pré-audiência teve o horário antecipado. O estagiário já incluiu na agenda.
+A reunião pré-audiência teve o horário antecipado. Revise os memoriais.
+A sessão de julgamento acontecerá na sala 2. Notifique o cliente.
+A sessão de julgamento acontecerá na sala 2. O sistema já foi atualizado.
+A sessão de julgamento está aguardando o link. O estagiário já incluiu na agenda.
+A sessão de julgamento está aguardando o link. Revise os memoriais.
+A sessão de julgamento está confirmada para hoje. O sistema já foi atualizado.
+A sessão de julgamento está confirmada para hoje. Verifique o link do Teams.
+A sessão de julgamento foi adiada para o próximo mês. Avise o coordenador.
+A sessão de julgamento foi adiada para o próximo mês. Não perca o horário estabelecido.
+A sessão de julgamento foi confirmada para amanhã. Aguarde novas orientações.
+A sessão de julgamento foi confirmada para amanhã. Atenção ao calendário interno.
+A sessão de julgamento foi confirmada para amanhã. Notifique o cliente.
+A sessão de julgamento foi confirmada para amanhã. Não perca o horário estabelecido.
+A sessão de julgamento foi remarcada para sexta-feira. Evite a preclusão.
+A sessão de julgamento foi remarcada para sexta-feira. Não perca o horário estabelecido.
+A sessão de julgamento foi transferida para o dia 20. A parte contrária já foi intimada.
+A sessão de julgamento ocorrerá de forma 100% virtual. O estagiário já incluiu na agenda.
+A sessão de julgamento ocorrerá de forma 100% virtual. Revise os memoriais.
+A sessão de julgamento será presencial no fórum.
+A sessão de julgamento será presencial no fórum. Prepare a documentação.
+A sessão de julgamento teve o horário antecipado.
+A sessão de julgamento teve o horário antecipado. A parte contrária já foi intimada.
+A sessão de julgamento teve o horário antecipado. Aguarde novas orientações.
+A sessão de julgamento teve o horário antecipado. Não perca o horário estabelecido.
+A sessão de mediação está aguardando o link. Avise o coordenador.
+A sessão de mediação está aguardando o link. Verifique o link do Teams.
+A sessão de mediação está confirmada para hoje.
+A sessão de mediação foi adiada para o próximo mês. Não perca o horário estabelecido.
+A sessão de mediação foi confirmada para amanhã. Verifique o link do Teams.
+A sessão de mediação foi remarcada para sexta-feira. Avise o coordenador.
+A sessão de mediação foi remarcada para sexta-feira. O sistema já foi atualizado.
+A sessão de mediação ocorrerá de forma 100% virtual. A parte contrária já foi intimada.
+A sessão de mediação ocorrerá de forma 100% virtual. Atenção ao calendário interno.
+A sessão de mediação será presencial no fórum. Aguarde novas orientações.
+A sessão de mediação será presencial no fórum. Atenção ao calendário interno.
+A sessão de mediação teve o horário antecipado.
+A sessão do tribunal do júri acontecerá na sala 2. A parte contrária já foi intimada.
+A sessão do tribunal do júri acontecerá na sala 2. Notifique o cliente.
+A sessão do tribunal do júri acontecerá na sala 2. Verifique no PJe.
+A sessão do tribunal do júri está aguardando o link. Notifique o cliente.
+A sessão do tribunal do júri foi adiada para o próximo mês. Prepare a documentação.
+A sessão do tribunal do júri foi remarcada para sexta-feira. Aguarde novas orientações.
+A sessão do tribunal do júri ocorrerá de forma 100% virtual. Aguarde novas orientações.
+A sessão do tribunal do júri ocorrerá de forma 100% virtual. Verifique no PJe.
+A sessão do tribunal do júri será presencial no fórum. O sistema já foi atualizado.
+A sessão virtual do STJ acontecerá na sala 2. Aguarde novas orientações.
+A sessão virtual do STJ foi adiada para o próximo mês.
+A sessão virtual do STJ foi adiada para o próximo mês. Verifique no PJe.
+A sessão virtual do STJ foi adiada para o próximo mês. Verifique o link do Teams.
+A sessão virtual do STJ foi confirmada para amanhã. Evite a preclusão.
+A sessão virtual do STJ foi confirmada para amanhã. Verifique no PJe.
+A sessão virtual do STJ ocorrerá de forma 100% virtual. Verifique o link do Teams.
+A sessão virtual do STJ será presencial no fórum. O sistema já foi atualizado.
+A sessão virtual do STJ teve o horário antecipado. Atenção ao calendário interno.
+A sessão virtual do STJ teve o horário antecipado. Não perca o horário estabelecido.
+A sessão virtual do STJ teve o horário antecipado. O sistema já foi atualizado.
+Agendamento: A audiência admonitória está aguardando o link. A parte contrária já foi intimada.
+Agendamento: A audiência de conciliação está confirmada para hoje. Aguarde novas orientações.
+Agendamento: A audiência de conciliação foi cancelada pelo juízo.
+Agendamento: A audiência de conciliação ocorrerá de forma 100% virtual. Atenção ao calendário interno.
+Agendamento: A audiência de custódia foi confirmada para amanhã. O estagiário já incluiu na agenda.
+Agendamento: A audiência de instrução acontecerá na sala 2. Revise os memoriais.
+Agendamento: A audiência de instrução está confirmada para hoje.
+Agendamento: A audiência de justificação está aguardando o link. Revise os memoriais.
+Agendamento: A audiência de justificação foi adiada para o próximo mês. Não perca o horário estabelecido.
+Agendamento: A audiência de oitiva de testemunhas foi cancelada pelo juízo.
+Agendamento: A audiência de tentativa de acordo acontecerá na sala 2.
+Agendamento: A audiência trabalhista está aguardando o link.
+Agendamento: A audiência trabalhista foi transferida para o dia 20. Avise o coordenador.
+Agendamento: A audiência trabalhista será presencial no fórum.
+Agendamento: A audiência trabalhista teve o horário antecipado.
+Agendamento: A oitiva do perito acontecerá na sala 2. A parte contrária já foi intimada.
+Agendamento: A oitiva do perito está confirmada para hoje. O sistema já foi atualizado.
+Agendamento: A oitiva do perito foi designada para hoje às 14h.
+Agendamento: A reunião pré-audiência foi transferida para o dia 20. Notifique o cliente.
+Agendamento: A reunião pré-audiência ocorrerá de forma 100% virtual. Notifique o cliente.
+Agendamento: A sessão de julgamento foi cancelada pelo juízo. A parte contrária já foi intimada.
+Agendamento: A sessão de mediação acontecerá na sala 2. O sistema já foi atualizado.
+Agendamento: A sessão do tribunal do júri foi remarcada para sexta-feira.
+Agendamento: A sessão do tribunal do júri foi transferida para o dia 20.
+Agendamento: A sessão do tribunal do júri ocorrerá de forma 100% virtual. Revise os memoriais.
+Agendamento: A sessão virtual do STJ está aguardando o link. Não perca o horário estabelecido.
+Agendamento: A sessão virtual do STJ foi adiada para o próximo mês.
+Agendamento: A sessão virtual do STJ foi remarcada para sexta-feira. O estagiário já incluiu na agenda.
+Agendamento: O prazo comum às partes inicia-se amanhã. Aguarde novas orientações.
+Agendamento: O prazo de 15 dias úteis vence nesta sexta-feira.
+Agendamento: O prazo de embargos de declaração encerra-se na próxima semana.
+Agendamento: O prazo de embargos de declaração foi devolvido por 10 dias. Evite a preclusão.
+Agendamento: O prazo de embargos de declaração foi devolvido por 10 dias. Notifique o cliente.
+Agendamento: O prazo em dobro para a Fazenda expira amanhã às 18h.
+Agendamento: O prazo em dobro para a Fazenda termina em 48 horas. Evite a preclusão.
+Agendamento: O prazo em dobro para a Fazenda vence hoje. Prepare a documentação.
+Agendamento: O prazo para alegações finais encerra-se na próxima semana. Evite a preclusão.
+Agendamento: O prazo para alegações finais expira amanhã às 18h.
+Agendamento: O prazo para apelação não comporta mais dilação. Prepare a documentação.
+Agendamento: O prazo para contestação foi prorrogado por 5 dias.
+Agendamento: O prazo para contestação inicia-se amanhã. Atenção ao calendário interno.
+Agendamento: O prazo para contestação termina amanhã.
+Agendamento: O prazo para contrarrazões foi devolvido por 10 dias. Notifique o cliente.
+Agendamento: O prazo para contrarrazões foi devolvido por 10 dias. Verifique no PJe.
+Agendamento: O prazo para contrarrazões foi prorrogado por 5 dias. Revise os memoriais.
+Agendamento: O prazo para contrarrazões não comporta mais dilação. A parte contrária já foi intimada.
+Agendamento: O prazo para contrarrazões vence hoje.
+Agendamento: O prazo para cálculos foi devolvido por 10 dias. Evite a preclusão.
+Agendamento: O prazo para cálculos inicia-se amanhã. Revise os memoriais.
+Agendamento: O prazo para cálculos termina em 48 horas.
+Agendamento: O prazo para cálculos vence hoje.
+Agendamento: O prazo para emenda à inicial acaba em 3 dias. Aguarde novas orientações.
+Agendamento: O prazo para manifestação vence hoje. Não perca o horário estabelecido.
+Agendamento: O prazo para preparo acaba em 3 dias. Avise o coordenador.
+Agendamento: O prazo para preparo iniciou hoje. Atenção ao calendário interno.
+Agendamento: O prazo para preparo não comporta mais dilação. Evite a preclusão.
+Agendamento: O prazo para preparo vence hoje. A parte contrária já foi intimada.
+Agendamento: O prazo para rol de testemunhas expira amanhã às 18h.
+Agendamento: O prazo para rol de testemunhas vence nesta sexta-feira.
+Agendamento: O prazo para réplica não comporta mais dilação.
+Agendamento: O prazo para réplica termina em 48 horas. Revise os memoriais.
+Agendamento: O prazo para réplica vence nesta sexta-feira. Prepare a documentação.
+Agendamento: O prazo peremptório foi devolvido por 10 dias. Não perca o horário estabelecido.
+Agendamento: O prazo prescricional expira amanhã às 18h. Aguarde novas orientações.
+Agendamento: O prazo prescricional foi devolvido por 10 dias. Revise os memoriais.
+Agendamento: O prazo prescricional iniciou hoje.
+Agendamento: O prazo prescricional iniciou hoje. Revise os memoriais.
+Agendamento: O prazo prescricional termina amanhã.
+Alerta de prazo: A audiência admonitória foi adiada para o próximo mês. Verifique o link do Teams.
+Alerta de prazo: A audiência de conciliação será presencial no fórum.
+Alerta de prazo: A audiência de custódia está aguardando o link.
+Alerta de prazo: A audiência de custódia será presencial no fórum.
+Alerta de prazo: A audiência de instrução está confirmada para hoje.
+Alerta de prazo: A audiência de instrução foi transferida para o dia 20. Verifique o link do Teams.
+Alerta de prazo: A audiência de justificação foi confirmada para amanhã. Atenção ao calendário interno.
+Alerta de prazo: A audiência de justificação foi remarcada para sexta-feira.
+Alerta de prazo: A audiência de oitiva de testemunhas foi confirmada para amanhã. Aguarde novas orientações.
+Alerta de prazo: A audiência de oitiva de testemunhas foi remarcada para sexta-feira. O estagiário já incluiu na agenda.
+Alerta de prazo: A audiência de tentativa de acordo foi cancelada pelo juízo.
+Alerta de prazo: A audiência de tentativa de acordo foi remarcada para sexta-feira. Verifique o link do Teams.
+Alerta de prazo: A audiência de tentativa de acordo será presencial no fórum.
+Alerta de prazo: A audiência trabalhista foi cancelada pelo juízo. O estagiário já incluiu na agenda.
+Alerta de prazo: A audiência trabalhista foi designada para hoje às 14h. Verifique o link do Teams.
+Alerta de prazo: A audiência trabalhista foi transferida para o dia 20. A parte contrária já foi intimada.
+Alerta de prazo: A audiência trabalhista ocorrerá de forma 100% virtual.
+Alerta de prazo: A oitiva do perito acontecerá na sala 2. Aguarde novas orientações.
+Alerta de prazo: A oitiva do perito foi remarcada para sexta-feira. Avise o coordenador.
+Alerta de prazo: A oitiva do perito foi remarcada para sexta-feira. Verifique o link do Teams.
+Alerta de prazo: A oitiva do perito ocorrerá de forma 100% virtual. O sistema já foi atualizado.
+Alerta de prazo: A oitiva do perito teve o horário antecipado.
+Alerta de prazo: A reunião pré-audiência foi adiada para o próximo mês. Atenção ao calendário interno.
+Alerta de prazo: A reunião pré-audiência foi remarcada para sexta-feira.
+Alerta de prazo: A sessão de mediação foi adiada para o próximo mês. Evite a preclusão.
+Alerta de prazo: A sessão de mediação será presencial no fórum.
+Alerta de prazo: A sessão do tribunal do júri foi designada para hoje às 14h. Revise os memoriais.
+Alerta de prazo: A sessão do tribunal do júri ocorrerá de forma 100% virtual.
+Alerta de prazo: A sessão do tribunal do júri ocorrerá de forma 100% virtual. Aguarde novas orientações.
+Alerta de prazo: A sessão do tribunal do júri ocorrerá de forma 100% virtual. Notifique o cliente.
+Alerta de prazo: A sessão virtual do STJ está confirmada para hoje. A parte contrária já foi intimada.
+Alerta de prazo: A sessão virtual do STJ foi designada para hoje às 14h. Prepare a documentação.
+Alerta de prazo: O prazo comum às partes acaba em 3 dias.
+Alerta de prazo: O prazo comum às partes termina amanhã. Revise os memoriais.
+Alerta de prazo: O prazo de 15 dias úteis foi prorrogado por 5 dias. O sistema já foi atualizado.
+Alerta de prazo: O prazo de 15 dias úteis foi prorrogado por 5 dias. Revise os memoriais.
+Alerta de prazo: O prazo de 15 dias úteis não comporta mais dilação.
+Alerta de prazo: O prazo de embargos de declaração foi devolvido por 10 dias. Atenção ao calendário interno.
+Alerta de prazo: O prazo em dobro para a Fazenda acaba em 3 dias.
+Alerta de prazo: O prazo em dobro para a Fazenda acaba em 3 dias. A parte contrária já foi intimada.
+Alerta de prazo: O prazo para alegações finais encerra-se na próxima semana. Atenção ao calendário interno.
+Alerta de prazo: O prazo para alegações finais termina em 48 horas. Prepare a documentação.
+Alerta de prazo: O prazo para apelação foi prorrogado por 5 dias. Evite a preclusão.
+Alerta de prazo: O prazo para apelação foi prorrogado por 5 dias. O estagiário já incluiu na agenda.
+Alerta de prazo: O prazo para contestação foi devolvido por 10 dias. O sistema já foi atualizado.
+Alerta de prazo: O prazo para contestação vence nesta sexta-feira. Revise os memoriais.
+Alerta de prazo: O prazo para contrarrazões expira amanhã às 18h.
+Alerta de prazo: O prazo para contrarrazões foi devolvido por 10 dias.
+Alerta de prazo: O prazo para contrarrazões foi devolvido por 10 dias. Avise o coordenador.
+Alerta de prazo: O prazo para contrarrazões foi prorrogado por 5 dias. Atenção ao calendário interno.
+Alerta de prazo: O prazo para contrarrazões foi prorrogado por 5 dias. Revise os memoriais.
+Alerta de prazo: O prazo para emenda à inicial expira amanhã às 18h. Avise o coordenador.
+Alerta de prazo: O prazo para emenda à inicial iniciou hoje.
+Alerta de prazo: O prazo para emenda à inicial iniciou hoje. Notifique o cliente.
+Alerta de prazo: O prazo para emenda à inicial termina em 48 horas. Não perca o horário estabelecido.
+Alerta de prazo: O prazo para juntada de documentos encerra-se na próxima semana. Notifique o cliente.
+Alerta de prazo: O prazo para juntada de documentos foi devolvido por 10 dias. Evite a preclusão.
+Alerta de prazo: O prazo para juntada de documentos iniciou hoje.
+Alerta de prazo: O prazo para manifestação expira amanhã às 18h.
+Alerta de prazo: O prazo para manifestação foi devolvido por 10 dias. O sistema já foi atualizado.
+Alerta de prazo: O prazo para recurso inominado encerra-se na próxima semana.
+Alerta de prazo: O prazo para recurso inominado encerra-se na próxima semana. Aguarde novas orientações.
+Alerta de prazo: O prazo para recurso inominado termina amanhã. Verifique o link do Teams.
+Alerta de prazo: O prazo para rol de testemunhas foi prorrogado por 5 dias. O estagiário já incluiu na agenda.
+Alerta de prazo: O prazo para rol de testemunhas termina amanhã.
+Alerta de prazo: O prazo para rol de testemunhas termina amanhã. Aguarde novas orientações.
+Alerta de prazo: O prazo para rol de testemunhas vence hoje. A parte contrária já foi intimada.
+Alerta de prazo: O prazo para réplica iniciou hoje. Atenção ao calendário interno.
+Alerta de prazo: O prazo para réplica termina em 48 horas. Não perca o horário estabelecido.
+Alerta de prazo: O prazo peremptório termina amanhã.
+Alerta de prazo: O prazo prescricional foi prorrogado pelo juiz. Notifique o cliente.
+Alerta de prazo: O prazo recursal acaba em 3 dias. Revise os memoriais.
+Alerta de prazo: O prazo recursal iniciou hoje.
+Atenção: A audiência admonitória foi cancelada pelo juízo. Aguarde novas orientações.
+Atenção: A audiência admonitória foi confirmada para amanhã. Verifique o link do Teams.
+Atenção: A audiência de custódia acontecerá na sala 2. Revise os memoriais.
+Atenção: A audiência de custódia foi cancelada pelo juízo. Atenção ao calendário interno.
+Atenção: A audiência de custódia foi cancelada pelo juízo. Evite a preclusão.
+Atenção: A audiência de custódia foi confirmada para amanhã.
+Atenção: A audiência de custódia teve o horário antecipado. O sistema já foi atualizado.
+Atenção: A audiência de instrução acontecerá na sala 2. Atenção ao calendário interno.
+Atenção: A audiência de instrução foi adiada para o próximo mês.
+Atenção: A audiência de justificação foi remarcada para sexta-feira. Verifique o link do Teams.
+Atenção: A audiência de justificação ocorrerá de forma 100% virtual. Atenção ao calendário interno.
+Atenção: A audiência de justificação será presencial no fórum. Não perca o horário estabelecido.
+Atenção: A audiência de oitiva de testemunhas foi confirmada para amanhã.
+Atenção: A audiência de oitiva de testemunhas foi remarcada para sexta-feira.
+Atenção: A audiência de tentativa de acordo acontecerá na sala 2. O estagiário já incluiu na agenda.
+Atenção: A audiência de tentativa de acordo foi adiada para o próximo mês.
+Atenção: A audiência de tentativa de acordo ocorrerá de forma 100% virtual. Evite a preclusão.
+Atenção: A audiência trabalhista foi cancelada pelo juízo. Prepare a documentação.
+Atenção: A audiência trabalhista foi confirmada para amanhã. Evite a preclusão.
+Atenção: A audiência trabalhista foi transferida para o dia 20.
+Atenção: A audiência trabalhista teve o horário antecipado. Verifique no PJe.
+Atenção: A oitiva do perito ocorrerá de forma 100% virtual. Aguarde novas orientações.
+Atenção: A reunião pré-audiência acontecerá na sala 2. Aguarde novas orientações.
+Atenção: A reunião pré-audiência está confirmada para hoje.
+Atenção: A reunião pré-audiência foi adiada para o próximo mês. Atenção ao calendário interno.
+Atenção: A sessão de julgamento acontecerá na sala 2. Não perca o horário estabelecido.
+Atenção: A sessão de julgamento foi cancelada pelo juízo. Atenção ao calendário interno.
+Atenção: A sessão de julgamento foi transferida para o dia 20. Evite a preclusão.
+Atenção: A sessão de julgamento foi transferida para o dia 20. Verifique no PJe.
+Atenção: A sessão de julgamento ocorrerá de forma 100% virtual.
+Atenção: A sessão de julgamento será presencial no fórum. Prepare a documentação.
+Atenção: A sessão de julgamento será presencial no fórum. Revise os memoriais.
+Atenção: A sessão de julgamento teve o horário antecipado. Verifique no PJe.
+Atenção: A sessão de mediação acontecerá na sala 2. O sistema já foi atualizado.
+Atenção: A sessão de mediação foi cancelada pelo juízo. Verifique o link do Teams.
+Atenção: A sessão do tribunal do júri foi designada para hoje às 14h.
+Atenção: A sessão virtual do STJ está aguardando o link.
+Atenção: A sessão virtual do STJ ocorrerá de forma 100% virtual. Prepare a documentação.
+Atenção: O prazo comum às partes expira amanhã às 18h. Verifique no PJe.
+Atenção: O prazo comum às partes foi devolvido por 10 dias. A parte contrária já foi intimada.
+Atenção: O prazo comum às partes vence hoje.
+Atenção: O prazo de 15 dias úteis acaba em 3 dias. Prepare a documentação.
+Atenção: O prazo de 15 dias úteis está suspenso. Notifique o cliente.
+Atenção: O prazo de 15 dias úteis iniciou hoje. Atenção ao calendário interno.
+Atenção: O prazo de 15 dias úteis vence hoje. O sistema já foi atualizado.
+Atenção: O prazo de embargos de declaração encerra-se na próxima semana.
+Atenção: O prazo de embargos de declaração está suspenso. A parte contrária já foi intimada.
+Atenção: O prazo de embargos de declaração inicia-se amanhã.
+Atenção: O prazo para apelação encerra-se na próxima semana. Prepare a documentação.
+Atenção: O prazo para apelação vence hoje.
+Atenção: O prazo para contestação termina amanhã.
+Atenção: O prazo para cálculos encerra-se na próxima semana. Não perca o horário estabelecido.
+Atenção: O prazo para cálculos termina em 48 horas.
+Atenção: O prazo para cálculos termina em 48 horas. Evite a preclusão.
+Atenção: O prazo para emenda à inicial inicia-se amanhã. O estagiário já incluiu na agenda.
+Atenção: O prazo para juntada de documentos vence nesta sexta-feira. O sistema já foi atualizado.
+Atenção: O prazo para preparo acaba em 3 dias.
+Atenção: O prazo para preparo encerra-se na próxima semana. Verifique no PJe.
+Atenção: O prazo para preparo foi prorrogado por 5 dias.
+Atenção: O prazo para preparo vence nesta sexta-feira. Evite a preclusão.
+Atenção: O prazo para rol de testemunhas termina em 48 horas.
+Atenção: O prazo para rol de testemunhas vence nesta sexta-feira. Revise os memoriais.
+Atenção: O prazo para réplica foi prorrogado pelo juiz. Evite a preclusão.
+Atenção: O prazo para réplica inicia-se amanhã.
+Atenção: O prazo para réplica inicia-se amanhã. Verifique o link do Teams.
+Atenção: O prazo peremptório expira amanhã às 18h. Avise o coordenador.
+Atenção: O prazo peremptório termina em 48 horas.
+Atenção: O prazo prescricional foi prorrogado por 5 dias. Atenção ao calendário interno.
+Atenção: O prazo prescricional termina amanhã. Aguarde novas orientações.
+Atenção: O prazo prescricional termina em 48 horas. A parte contrária já foi intimada.
+Atenção: O prazo prescricional vence nesta sexta-feira. Avise o coordenador.
+Atenção: O prazo recursal acaba em 3 dias.
+Atenção: O prazo recursal foi devolvido por 10 dias. Atenção ao calendário interno.
+Atenção: O prazo recursal foi prorrogado pelo juiz. Notifique o cliente.
+Atenção: O prazo recursal iniciou hoje.
+Atenção: O prazo recursal não comporta mais dilação. O estagiário já incluiu na agenda.
+Atenção: O prazo recursal não comporta mais dilação. Revise os memoriais.
+Aviso de pauta: A audiência admonitória acontecerá na sala 2.
+Aviso de pauta: A audiência admonitória foi confirmada para amanhã. Verifique no PJe.
+Aviso de pauta: A audiência admonitória ocorrerá de forma 100% virtual. O estagiário já incluiu na agenda.
+Aviso de pauta: A audiência de conciliação acontecerá na sala 2. Notifique o cliente.
+Aviso de pauta: A audiência de conciliação ocorrerá de forma 100% virtual. O sistema já foi atualizado.
+Aviso de pauta: A audiência de custódia está aguardando o link.
+Aviso de pauta: A audiência de custódia foi remarcada para sexta-feira. Não perca o horário estabelecido.
+Aviso de pauta: A audiência de custódia foi transferida para o dia 20.
+Aviso de pauta: A audiência de instrução foi adiada para o próximo mês.
+Aviso de pauta: A audiência de instrução foi cancelada pelo juízo.
+Aviso de pauta: A audiência de instrução foi transferida para o dia 20. Verifique no PJe.
+Aviso de pauta: A audiência de justificação foi confirmada para amanhã. A parte contrária já foi intimada.
+Aviso de pauta: A audiência de justificação foi confirmada para amanhã. Verifique o link do Teams.
+Aviso de pauta: A audiência de justificação foi designada para hoje às 14h. Evite a preclusão.
+Aviso de pauta: A audiência de justificação foi remarcada para sexta-feira.
+Aviso de pauta: A audiência de justificação foi transferida para o dia 20. Prepare a documentação.
+Aviso de pauta: A audiência de oitiva de testemunhas acontecerá na sala 2.
+Aviso de pauta: A audiência de oitiva de testemunhas está aguardando o link.
+Aviso de pauta: A audiência de oitiva de testemunhas foi cancelada pelo juízo. Não perca o horário estabelecido.
+Aviso de pauta: A audiência de oitiva de testemunhas foi remarcada para sexta-feira. Verifique no PJe.
+Aviso de pauta: A audiência de oitiva de testemunhas teve o horário antecipado.
+Aviso de pauta: A audiência de oitiva de testemunhas teve o horário antecipado. O estagiário já incluiu na agenda.
+Aviso de pauta: A audiência de tentativa de acordo ocorrerá de forma 100% virtual. Verifique o link do Teams.
+Aviso de pauta: A audiência de tentativa de acordo teve o horário antecipado. Não perca o horário estabelecido.
+Aviso de pauta: A audiência trabalhista acontecerá na sala 2. Verifique o link do Teams.
+Aviso de pauta: A audiência trabalhista está confirmada para hoje. Avise o coordenador.
+Aviso de pauta: A audiência trabalhista foi cancelada pelo juízo. Atenção ao calendário interno.
+Aviso de pauta: A audiência trabalhista foi confirmada para amanhã. Avise o coordenador.
+Aviso de pauta: A oitiva do perito acontecerá na sala 2. Notifique o cliente.
+Aviso de pauta: A reunião pré-audiência está aguardando o link. Não perca o horário estabelecido.
+Aviso de pauta: A reunião pré-audiência foi designada para hoje às 14h. O sistema já foi atualizado.
+Aviso de pauta: A reunião pré-audiência foi remarcada para sexta-feira.
+Aviso de pauta: A sessão de julgamento foi confirmada para amanhã.
+Aviso de pauta: A sessão de julgamento foi confirmada para amanhã. Aguarde novas orientações.
+Aviso de pauta: A sessão de mediação está confirmada para hoje.
+Aviso de pauta: A sessão de mediação foi cancelada pelo juízo.
+Aviso de pauta: A sessão de mediação foi transferida para o dia 20.
+Aviso de pauta: A sessão do tribunal do júri ocorrerá de forma 100% virtual.
+Aviso de pauta: A sessão virtual do STJ foi remarcada para sexta-feira. Notifique o cliente.
+Aviso de pauta: A sessão virtual do STJ teve o horário antecipado. Prepare a documentação.
+Aviso de pauta: O prazo comum às partes acaba em 3 dias.
+Aviso de pauta: O prazo comum às partes foi prorrogado pelo juiz. O sistema já foi atualizado.
+Aviso de pauta: O prazo de embargos de declaração está suspenso. Não perca o horário estabelecido.
+Aviso de pauta: O prazo de embargos de declaração expira amanhã às 18h. Notifique o cliente.
+Aviso de pauta: O prazo de embargos de declaração expira amanhã às 18h. Prepare a documentação.
+Aviso de pauta: O prazo para apelação está suspenso.
+Aviso de pauta: O prazo para apelação foi prorrogado por 5 dias. A parte contrária já foi intimada.
+Aviso de pauta: O prazo para contrarrazões termina amanhã. Avise o coordenador.
+Aviso de pauta: O prazo para cálculos encerra-se na próxima semana. Prepare a documentação.
+Aviso de pauta: O prazo para cálculos inicia-se amanhã. Verifique no PJe.
+Aviso de pauta: O prazo para cálculos vence hoje. Prepare a documentação.
+Aviso de pauta: O prazo para cálculos vence nesta sexta-feira.
+Aviso de pauta: O prazo para emenda à inicial vence nesta sexta-feira. O estagiário já incluiu na agenda.
+Aviso de pauta: O prazo para juntada de documentos expira amanhã às 18h. Não perca o horário estabelecido.
+Aviso de pauta: O prazo para manifestação encerra-se na próxima semana.
+Aviso de pauta: O prazo para manifestação encerra-se na próxima semana. A parte contrária já foi intimada.
+Aviso de pauta: O prazo para manifestação está suspenso.
+Aviso de pauta: O prazo para manifestação expira amanhã às 18h. A parte contrária já foi intimada.
+Aviso de pauta: O prazo para recurso inominado acaba em 3 dias. A parte contrária já foi intimada.
+Aviso de pauta: O prazo para recurso inominado foi prorrogado pelo juiz. Aguarde novas orientações.
+Aviso de pauta: O prazo para recurso inominado não comporta mais dilação. Evite a preclusão.
+Aviso de pauta: O prazo para rol de testemunhas encerra-se na próxima semana. Revise os memoriais.
+Aviso de pauta: O prazo para réplica termina em 48 horas. Revise os memoriais.
+Aviso de pauta: O prazo peremptório foi devolvido por 10 dias. Avise o coordenador.
+Aviso de pauta: O prazo peremptório foi prorrogado por 5 dias.
+Aviso de pauta: O prazo peremptório inicia-se amanhã. Prepare a documentação.
+Aviso de pauta: O prazo prescricional acaba em 3 dias.
+Aviso de pauta: O prazo prescricional não comporta mais dilação.
+Aviso de pauta: O prazo prescricional não comporta mais dilação. Revise os memoriais.
+Aviso de pauta: O prazo recursal encerra-se na próxima semana.
+Aviso: A audiência admonitória está confirmada para hoje. Prepare a documentação.
+Aviso: A audiência admonitória foi adiada para o próximo mês. Atenção ao calendário interno.
+Aviso: A audiência admonitória foi confirmada para amanhã. A parte contrária já foi intimada.
+Aviso: A audiência de conciliação está aguardando o link.
+Aviso: A audiência de conciliação está aguardando o link. Avise o coordenador.
+Aviso: A audiência de conciliação foi designada para hoje às 14h. Não perca o horário estabelecido.
+Aviso: A audiência de conciliação foi transferida para o dia 20. Avise o coordenador.
+Aviso: A audiência de conciliação ocorrerá de forma 100% virtual.
+Aviso: A audiência de custódia está confirmada para hoje. Notifique o cliente.
+Aviso: A audiência de custódia foi cancelada pelo juízo. Evite a preclusão.
+Aviso: A audiência de custódia foi designada para hoje às 14h.
+Aviso: A audiência de custódia ocorrerá de forma 100% virtual. Revise os memoriais.
+Aviso: A audiência de custódia será presencial no fórum. A parte contrária já foi intimada.
+Aviso: A audiência de custódia teve o horário antecipado. Atenção ao calendário interno.
+Aviso: A audiência de instrução foi cancelada pelo juízo. Verifique o link do Teams.
+Aviso: A audiência de justificação foi confirmada para amanhã. Revise os memoriais.
+Aviso: A audiência de oitiva de testemunhas teve o horário antecipado. Notifique o cliente.
+Aviso: A audiência de tentativa de acordo acontecerá na sala 2. Revise os memoriais.
+Aviso: A audiência de tentativa de acordo foi cancelada pelo juízo. Prepare a documentação.
+Aviso: A audiência de tentativa de acordo foi cancelada pelo juízo. Verifique o link do Teams.
+Aviso: A audiência trabalhista foi cancelada pelo juízo. O estagiário já incluiu na agenda.
+Aviso: A oitiva do perito está confirmada para hoje. O sistema já foi atualizado.
+Aviso: A oitiva do perito ocorrerá de forma 100% virtual. Revise os memoriais.
+Aviso: A reunião pré-audiência acontecerá na sala 2. Aguarde novas orientações.
+Aviso: A reunião pré-audiência foi confirmada para amanhã.
+Aviso: A reunião pré-audiência foi designada para hoje às 14h. Não perca o horário estabelecido.
+Aviso: A sessão de julgamento está aguardando o link. Aguarde novas orientações.
+Aviso: A sessão de mediação foi remarcada para sexta-feira.
+Aviso: A sessão de mediação foi transferida para o dia 20. A parte contrária já foi intimada.
+Aviso: A sessão do tribunal do júri foi transferida para o dia 20. Revise os memoriais.
+Aviso: A sessão virtual do STJ está aguardando o link. O estagiário já incluiu na agenda.
+Aviso: A sessão virtual do STJ está confirmada para hoje.
+Aviso: A sessão virtual do STJ foi cancelada pelo juízo. Atenção ao calendário interno.
+Aviso: O prazo comum às partes não comporta mais dilação. A parte contrária já foi intimada.
+Aviso: O prazo comum às partes vence nesta sexta-feira. Atenção ao calendário interno.
+Aviso: O prazo de 15 dias úteis termina em 48 horas.
+Aviso: O prazo de embargos de declaração encerra-se na próxima semana. Revise os memoriais.
+Aviso: O prazo de embargos de declaração vence nesta sexta-feira.
+Aviso: O prazo em dobro para a Fazenda acaba em 3 dias. O sistema já foi atualizado.
+Aviso: O prazo em dobro para a Fazenda foi prorrogado por 5 dias. Verifique no PJe.
+Aviso: O prazo em dobro para a Fazenda inicia-se amanhã. Avise o coordenador.
+Aviso: O prazo em dobro para a Fazenda termina amanhã. Verifique o link do Teams.
+Aviso: O prazo para alegações finais foi prorrogado pelo juiz.
+Aviso: O prazo para alegações finais foi prorrogado pelo juiz. Avise o coordenador.
+Aviso: O prazo para alegações finais termina amanhã. Revise os memoriais.
+Aviso: O prazo para apelação termina em 48 horas.
+Aviso: O prazo para apelação vence nesta sexta-feira.
+Aviso: O prazo para contestação termina amanhã. Verifique no PJe.
+Aviso: O prazo para cálculos vence nesta sexta-feira. Atenção ao calendário interno.
+Aviso: O prazo para cálculos vence nesta sexta-feira. Verifique no PJe.
+Aviso: O prazo para juntada de documentos foi prorrogado por 5 dias. Prepare a documentação.
+Aviso: O prazo para preparo acaba em 3 dias. O sistema já foi atualizado.
+Aviso: O prazo para preparo inicia-se amanhã.
+Aviso: O prazo para preparo vence hoje. O estagiário já incluiu na agenda.
+Aviso: O prazo para preparo vence nesta sexta-feira.
+Aviso: O prazo para recurso inominado inicia-se amanhã. Verifique no PJe.
+Aviso: O prazo para recurso inominado termina amanhã. Avise o coordenador.
+Aviso: O prazo para rol de testemunhas foi prorrogado pelo juiz.
+Aviso: O prazo para rol de testemunhas inicia-se amanhã. Verifique no PJe.
+Aviso: O prazo para réplica está suspenso.
+Aviso: O prazo para réplica iniciou hoje. Verifique o link do Teams.
+Aviso: O prazo para réplica vence hoje. O estagiário já incluiu na agenda.
+Aviso: O prazo peremptório inicia-se amanhã. Verifique o link do Teams.
+Aviso: O prazo peremptório iniciou hoje. Aguarde novas orientações.
+Aviso: O prazo prescricional foi prorrogado por 5 dias. Aguarde novas orientações.
+Aviso: O prazo prescricional termina amanhã. Não perca o horário estabelecido.
+Aviso: O prazo recursal foi devolvido por 10 dias. Não perca o horário estabelecido.
+Aviso: O prazo recursal foi prorrogado pelo juiz. Prepare a documentação.
+Importante: A audiência admonitória foi cancelada pelo juízo. Prepare a documentação.
+Importante: A audiência admonitória foi transferida para o dia 20. Notifique o cliente.
+Importante: A audiência de conciliação foi transferida para o dia 20.
+Importante: A audiência de custódia está confirmada para hoje. O estagiário já incluiu na agenda.
+Importante: A audiência de custódia foi adiada para o próximo mês. Revise os memoriais.
+Importante: A audiência de custódia foi cancelada pelo juízo. O sistema já foi atualizado.
+Importante: A audiência de custódia foi remarcada para sexta-feira.
+Importante: A audiência de custódia teve o horário antecipado.
+Importante: A audiência de justificação foi cancelada pelo juízo. Notifique o cliente.
+Importante: A audiência de oitiva de testemunhas foi adiada para o próximo mês. Avise o coordenador.
+Importante: A audiência de oitiva de testemunhas foi adiada para o próximo mês. Não perca o horário estabelecido.
+Importante: A audiência de oitiva de testemunhas foi designada para hoje às 14h. Avise o coordenador.
+Importante: A audiência de oitiva de testemunhas foi remarcada para sexta-feira. O estagiário já incluiu na agenda.
+Importante: A audiência de oitiva de testemunhas teve o horário antecipado. O estagiário já incluiu na agenda.
+Importante: A audiência de tentativa de acordo foi remarcada para sexta-feira. Não perca o horário estabelecido.
+Importante: A audiência de tentativa de acordo foi transferida para o dia 20. Aguarde novas orientações.
+Importante: A audiência trabalhista foi transferida para o dia 20. A parte contrária já foi intimada.
+Importante: A audiência trabalhista ocorrerá de forma 100% virtual. A parte contrária já foi intimada.
+Importante: A audiência trabalhista será presencial no fórum. A parte contrária já foi intimada.
+Importante: A oitiva do perito foi designada para hoje às 14h. A parte contrária já foi intimada.
+Importante: A oitiva do perito foi remarcada para sexta-feira. Notifique o cliente.
+Importante: A oitiva do perito foi transferida para o dia 20. Atenção ao calendário interno.
+Importante: A oitiva do perito foi transferida para o dia 20. Verifique no PJe.
+Importante: A sessão de julgamento acontecerá na sala 2.
+Importante: A sessão de julgamento foi adiada para o próximo mês. Aguarde novas orientações.
+Importante: A sessão de julgamento foi cancelada pelo juízo. Verifique no PJe.
+Importante: A sessão de julgamento será presencial no fórum. Aguarde novas orientações.
+Importante: A sessão de mediação acontecerá na sala 2. Revise os memoriais.
+Importante: A sessão de mediação está confirmada para hoje. Aguarde novas orientações.
+Importante: A sessão de mediação foi remarcada para sexta-feira. Verifique o link do Teams.
+Importante: A sessão de mediação ocorrerá de forma 100% virtual. O estagiário já incluiu na agenda.
+Importante: A sessão do tribunal do júri foi remarcada para sexta-feira. O estagiário já incluiu na agenda.
+Importante: A sessão do tribunal do júri foi remarcada para sexta-feira. O sistema já foi atualizado.
+Importante: A sessão do tribunal do júri ocorrerá de forma 100% virtual. Não perca o horário estabelecido.
+Importante: A sessão virtual do STJ foi adiada para o próximo mês. Revise os memoriais.
+Importante: A sessão virtual do STJ foi designada para hoje às 14h. A parte contrária já foi intimada.
+Importante: A sessão virtual do STJ foi remarcada para sexta-feira. Prepare a documentação.
+Importante: A sessão virtual do STJ foi transferida para o dia 20. Prepare a documentação.
+Importante: O prazo comum às partes encerra-se na próxima semana. Evite a preclusão.
+Importante: O prazo comum às partes termina em 48 horas. Não perca o horário estabelecido.
+Importante: O prazo comum às partes termina em 48 horas. O estagiário já incluiu na agenda.
+Importante: O prazo de 15 dias úteis foi prorrogado pelo juiz.
+Importante: O prazo de embargos de declaração acaba em 3 dias. Avise o coordenador.
+Importante: O prazo de embargos de declaração está suspenso.
+Importante: O prazo de embargos de declaração está suspenso. Atenção ao calendário interno.
+Importante: O prazo em dobro para a Fazenda foi prorrogado pelo juiz. Evite a preclusão.
+Importante: O prazo em dobro para a Fazenda foi prorrogado pelo juiz. O estagiário já incluiu na agenda.
+Importante: O prazo em dobro para a Fazenda iniciou hoje. Prepare a documentação.
+Importante: O prazo em dobro para a Fazenda termina amanhã. Atenção ao calendário interno.
+Importante: O prazo em dobro para a Fazenda termina amanhã. Não perca o horário estabelecido.
+Importante: O prazo para apelação foi devolvido por 10 dias. Avise o coordenador.
+Importante: O prazo para apelação foi prorrogado por 5 dias.
+Importante: O prazo para contestação encerra-se na próxima semana. Avise o coordenador.
+Importante: O prazo para contestação está suspenso.
+Importante: O prazo para contestação iniciou hoje.
+Importante: O prazo para cálculos expira amanhã às 18h. Prepare a documentação.
+Importante: O prazo para cálculos inicia-se amanhã. Atenção ao calendário interno.
+Importante: O prazo para emenda à inicial expira amanhã às 18h. Prepare a documentação.
+Importante: O prazo para juntada de documentos acaba em 3 dias. Revise os memoriais.
+Importante: O prazo para manifestação foi devolvido por 10 dias. O sistema já foi atualizado.
+Importante: O prazo para manifestação termina em 48 horas.
+Importante: O prazo para preparo não comporta mais dilação. Aguarde novas orientações.
+Importante: O prazo para preparo vence nesta sexta-feira. Não perca o horário estabelecido.
+Importante: O prazo para rol de testemunhas inicia-se amanhã.
+Importante: O prazo para rol de testemunhas iniciou hoje.
+Importante: O prazo para réplica acaba em 3 dias.
+Importante: O prazo para réplica inicia-se amanhã. Aguarde novas orientações.
+Importante: O prazo para réplica termina amanhã.
+Importante: O prazo peremptório foi prorrogado pelo juiz. Evite a preclusão.
+Importante: O prazo peremptório termina em 48 horas.
+Importante: O prazo prescricional vence nesta sexta-feira.
+Importante: O prazo recursal termina em 48 horas.
+Lembrete: A audiência admonitória foi remarcada para sexta-feira. Atenção ao calendário interno.
+Lembrete: A audiência admonitória teve o horário antecipado.
+Lembrete: A audiência de conciliação está aguardando o link. Não perca o horário estabelecido.
+Lembrete: A audiência de conciliação foi remarcada para sexta-feira.
+Lembrete: A audiência de conciliação ocorrerá de forma 100% virtual. A parte contrária já foi intimada.
+Lembrete: A audiência de conciliação será presencial no fórum. O estagiário já incluiu na agenda.
+Lembrete: A audiência de custódia foi designada para hoje às 14h. Verifique o link do Teams.
+Lembrete: A audiência de instrução está aguardando o link.
+Lembrete: A audiência de instrução foi designada para hoje às 14h. Verifique o link do Teams.
+Lembrete: A audiência de justificação foi adiada para o próximo mês. Avise o coordenador.
+Lembrete: A audiência de oitiva de testemunhas está confirmada para hoje.
+Lembrete: A audiência de oitiva de testemunhas ocorrerá de forma 100% virtual. Aguarde novas orientações.
+Lembrete: A audiência de tentativa de acordo está confirmada para hoje. Verifique o link do Teams.
+Lembrete: A audiência de tentativa de acordo será presencial no fórum.
+Lembrete: A audiência trabalhista foi adiada para o próximo mês. O sistema já foi atualizado.
+Lembrete: A oitiva do perito foi designada para hoje às 14h. Não perca o horário estabelecido.
+Lembrete: A oitiva do perito foi remarcada para sexta-feira.
+Lembrete: A oitiva do perito foi transferida para o dia 20. Revise os memoriais.
+Lembrete: A oitiva do perito ocorrerá de forma 100% virtual. Aguarde novas orientações.
+Lembrete: A reunião pré-audiência acontecerá na sala 2.
+Lembrete: A reunião pré-audiência está confirmada para hoje. Revise os memoriais.
+Lembrete: A reunião pré-audiência foi confirmada para amanhã. Avise o coordenador.
+Lembrete: A sessão de julgamento foi designada para hoje às 14h. O estagiário já incluiu na agenda.
+Lembrete: A sessão de julgamento será presencial no fórum. Aguarde novas orientações.
+Lembrete: A sessão de mediação está aguardando o link.
+Lembrete: A sessão do tribunal do júri foi designada para hoje às 14h. Atenção ao calendário interno.
+Lembrete: A sessão virtual do STJ foi cancelada pelo juízo. Não perca o horário estabelecido.
+Lembrete: A sessão virtual do STJ foi transferida para o dia 20. O estagiário já incluiu na agenda.
+Lembrete: O prazo de 15 dias úteis foi devolvido por 10 dias. Notifique o cliente.
+Lembrete: O prazo de 15 dias úteis foi prorrogado por 5 dias. Evite a preclusão.
+Lembrete: O prazo de 15 dias úteis foi prorrogado por 5 dias. Verifique o link do Teams.
+Lembrete: O prazo de 15 dias úteis não comporta mais dilação. Não perca o horário estabelecido.
+Lembrete: O prazo de 15 dias úteis termina em 48 horas.
+Lembrete: O prazo de embargos de declaração está suspenso.
+Lembrete: O prazo em dobro para a Fazenda expira amanhã às 18h. O estagiário já incluiu na agenda.
+Lembrete: O prazo em dobro para a Fazenda foi devolvido por 10 dias. O estagiário já incluiu na agenda.
+Lembrete: O prazo para apelação encerra-se na próxima semana. Evite a preclusão.
+Lembrete: O prazo para apelação expira amanhã às 18h.
+Lembrete: O prazo para contrarrazões inicia-se amanhã. O sistema já foi atualizado.
+Lembrete: O prazo para contrarrazões termina amanhã.
+Lembrete: O prazo para cálculos encerra-se na próxima semana. O sistema já foi atualizado.
+Lembrete: O prazo para emenda à inicial termina amanhã. O estagiário já incluiu na agenda.
+Lembrete: O prazo para juntada de documentos foi devolvido por 10 dias. O sistema já foi atualizado.
+Lembrete: O prazo para preparo iniciou hoje. Avise o coordenador.
+Lembrete: O prazo para preparo termina amanhã. Prepare a documentação.
+Lembrete: O prazo para recurso inominado inicia-se amanhã.
+Lembrete: O prazo para rol de testemunhas acaba em 3 dias.
+Lembrete: O prazo para rol de testemunhas foi prorrogado por 5 dias. O sistema já foi atualizado.
+Lembrete: O prazo para rol de testemunhas inicia-se amanhã.
+Lembrete: O prazo para rol de testemunhas inicia-se amanhã. Verifique no PJe.
+Lembrete: O prazo para rol de testemunhas iniciou hoje.
+Lembrete: O prazo para réplica vence hoje. Notifique o cliente.
+Lembrete: O prazo peremptório foi devolvido por 10 dias.
+Lembrete: O prazo peremptório termina em 48 horas. Revise os memoriais.
+Lembrete: O prazo prescricional foi prorrogado por 5 dias. Verifique no PJe.
+Lembrete: O prazo prescricional não comporta mais dilação.
+Lembrete: O prazo prescricional termina em 48 horas. Atenção ao calendário interno.
+Lembrete: O prazo recursal encerra-se na próxima semana. Verifique no PJe.
+Lembrete: O prazo recursal foi devolvido por 10 dias.
+Lembrete: O prazo recursal iniciou hoje. Revise os memoriais.
+Lembrete: O prazo recursal termina amanhã. Aguarde novas orientações.
+O prazo comum às partes foi devolvido por 10 dias. Aguarde novas orientações.
+O prazo comum às partes foi devolvido por 10 dias. Evite a preclusão.
+O prazo comum às partes foi prorrogado pelo juiz. Aguarde novas orientações.
+O prazo comum às partes foi prorrogado pelo juiz. Evite a preclusão.
+O prazo comum às partes foi prorrogado por 5 dias. Aguarde novas orientações.
+O prazo comum às partes foi prorrogado por 5 dias. Avise o coordenador.
+O prazo comum às partes inicia-se amanhã. Avise o coordenador.
+O prazo comum às partes iniciou hoje. Verifique no PJe.
+O prazo comum às partes termina em 48 horas. O sistema já foi atualizado.
+O prazo comum às partes vence hoje. Verifique o link do Teams.
+O prazo comum às partes vence nesta sexta-feira. O estagiário já incluiu na agenda.
+O prazo de 15 dias úteis acaba em 3 dias. Aguarde novas orientações.
+O prazo de 15 dias úteis acaba em 3 dias. Evite a preclusão.
+O prazo de 15 dias úteis acaba em 3 dias. Verifique o link do Teams.
+O prazo de 15 dias úteis encerra-se na próxima semana. Notifique o cliente.
+O prazo de 15 dias úteis está suspenso. Evite a preclusão.
+O prazo de 15 dias úteis está suspenso. Notifique o cliente.
+O prazo de 15 dias úteis foi devolvido por 10 dias. Atenção ao calendário interno.
+O prazo de 15 dias úteis foi devolvido por 10 dias. Prepare a documentação.
+O prazo de 15 dias úteis foi devolvido por 10 dias. Verifique o link do Teams.
+O prazo de 15 dias úteis foi prorrogado pelo juiz. A parte contrária já foi intimada.
+O prazo de 15 dias úteis vence nesta sexta-feira. O estagiário já incluiu na agenda.
+O prazo de embargos de declaração está suspenso. Não perca o horário estabelecido.
+O prazo de embargos de declaração expira amanhã às 18h. Revise os memoriais.
+O prazo de embargos de declaração foi devolvido por 10 dias.
+O prazo de embargos de declaração inicia-se amanhã.
+O prazo de embargos de declaração termina amanhã. Verifique no PJe.
+O prazo de embargos de declaração termina em 48 horas. A parte contrária já foi intimada.
+O prazo de embargos de declaração termina em 48 horas. Não perca o horário estabelecido.
+O prazo de embargos de declaração termina em 48 horas. Verifique no PJe.
+O prazo de embargos de declaração vence hoje. Evite a preclusão.
+O prazo em dobro para a Fazenda está suspenso. Atenção ao calendário interno.
+O prazo em dobro para a Fazenda expira amanhã às 18h.
+O prazo em dobro para a Fazenda iniciou hoje. Revise os memoriais.
+O prazo em dobro para a Fazenda não comporta mais dilação. O sistema já foi atualizado.
+O prazo em dobro para a Fazenda termina amanhã. A parte contrária já foi intimada.
+O prazo em dobro para a Fazenda termina amanhã. Evite a preclusão.
+O prazo em dobro para a Fazenda termina amanhã. Verifique no PJe.
+O prazo em dobro para a Fazenda vence hoje. Atenção ao calendário interno.
+O prazo em dobro para a Fazenda vence nesta sexta-feira. Não perca o horário estabelecido.
+O prazo para alegações finais encerra-se na próxima semana. Aguarde novas orientações.
+O prazo para alegações finais expira amanhã às 18h. Atenção ao calendário interno.
+O prazo para alegações finais expira amanhã às 18h. Notifique o cliente.
+O prazo para alegações finais foi devolvido por 10 dias.
+O prazo para alegações finais iniciou hoje. Verifique no PJe.
+O prazo para alegações finais não comporta mais dilação. A parte contrária já foi intimada.
+O prazo para alegações finais termina amanhã. Notifique o cliente.
+O prazo para alegações finais termina amanhã. Não perca o horário estabelecido.
+O prazo para alegações finais termina em 48 horas.
+O prazo para alegações finais termina em 48 horas. Aguarde novas orientações.
+O prazo para alegações finais vence hoje. A parte contrária já foi intimada.
+O prazo para alegações finais vence hoje. Aguarde novas orientações.
+O prazo para alegações finais vence hoje. O sistema já foi atualizado.
+O prazo para alegações finais vence nesta sexta-feira. Verifique o link do Teams.
+O prazo para apelação expira amanhã às 18h. Avise o coordenador.
+O prazo para apelação foi prorrogado pelo juiz. Prepare a documentação.
+O prazo para apelação não comporta mais dilação. Aguarde novas orientações.
+O prazo para apelação termina amanhã. Avise o coordenador.
+O prazo para apelação vence hoje.
+O prazo para apelação vence hoje. Aguarde novas orientações.
+O prazo para apelação vence nesta sexta-feira. Não perca o horário estabelecido.
+O prazo para contestação inicia-se amanhã. A parte contrária já foi intimada.
+O prazo para contestação inicia-se amanhã. Verifique no PJe.
+O prazo para contestação iniciou hoje. Verifique o link do Teams.
+O prazo para contestação termina amanhã. Evite a preclusão.
+O prazo para contestação vence hoje. Notifique o cliente.
+O prazo para contrarrazões acaba em 3 dias. Não perca o horário estabelecido.
+O prazo para contrarrazões acaba em 3 dias. Verifique no PJe.
+O prazo para contrarrazões encerra-se na próxima semana. Atenção ao calendário interno.
+O prazo para contrarrazões expira amanhã às 18h. A parte contrária já foi intimada.
+O prazo para contrarrazões foi prorrogado por 5 dias. A parte contrária já foi intimada.
+O prazo para contrarrazões inicia-se amanhã. Aguarde novas orientações.
+O prazo para contrarrazões inicia-se amanhã. Atenção ao calendário interno.
+O prazo para contrarrazões inicia-se amanhã. Avise o coordenador.
+O prazo para contrarrazões termina em 48 horas. Não perca o horário estabelecido.
+O prazo para cálculos está suspenso. Não perca o horário estabelecido.
+O prazo para cálculos foi prorrogado pelo juiz. O sistema já foi atualizado.
+O prazo para cálculos iniciou hoje. Não perca o horário estabelecido.
+O prazo para cálculos iniciou hoje. Verifique no PJe.
+O prazo para cálculos termina em 48 horas. Avise o coordenador.
+O prazo para emenda à inicial acaba em 3 dias. Aguarde novas orientações.
+O prazo para emenda à inicial expira amanhã às 18h. Avise o coordenador.
+O prazo para emenda à inicial expira amanhã às 18h. O sistema já foi atualizado.
+O prazo para emenda à inicial foi devolvido por 10 dias. Notifique o cliente.
+O prazo para emenda à inicial inicia-se amanhã. Aguarde novas orientações.
+O prazo para emenda à inicial inicia-se amanhã. Revise os memoriais.
+O prazo para emenda à inicial não comporta mais dilação. O sistema já foi atualizado.
+O prazo para emenda à inicial termina amanhã. Não perca o horário estabelecido.
+O prazo para emenda à inicial termina amanhã. O estagiário já incluiu na agenda.
+O prazo para emenda à inicial termina amanhã. O sistema já foi atualizado.
+O prazo para emenda à inicial vence hoje. Aguarde novas orientações.
+O prazo para emenda à inicial vence nesta sexta-feira. O estagiário já incluiu na agenda.
+O prazo para juntada de documentos encerra-se na próxima semana. Não perca o horário estabelecido.
+O prazo para juntada de documentos expira amanhã às 18h. Verifique no PJe.
+O prazo para juntada de documentos foi devolvido por 10 dias. Avise o coordenador.
+O prazo para juntada de documentos foi prorrogado pelo juiz. O sistema já foi atualizado.
+O prazo para juntada de documentos foi prorrogado por 5 dias. Notifique o cliente.
+O prazo para juntada de documentos não comporta mais dilação. Avise o coordenador.
+O prazo para manifestação acaba em 3 dias. Atenção ao calendário interno.
+O prazo para manifestação encerra-se na próxima semana. Aguarde novas orientações.
+O prazo para manifestação encerra-se na próxima semana. Evite a preclusão.
+O prazo para manifestação encerra-se na próxima semana. Prepare a documentação.
+O prazo para manifestação foi prorrogado pelo juiz. Evite a preclusão.
+O prazo para manifestação foi prorrogado pelo juiz. Prepare a documentação.
+O prazo para manifestação inicia-se amanhã. Aguarde novas orientações.
+O prazo para manifestação inicia-se amanhã. Evite a preclusão.
+O prazo para manifestação iniciou hoje. O sistema já foi atualizado.
+O prazo para manifestação não comporta mais dilação. Não perca o horário estabelecido.
+O prazo para manifestação vence nesta sexta-feira. Notifique o cliente.
+O prazo para preparo acaba em 3 dias. Verifique no PJe.
+O prazo para preparo está suspenso.
+O prazo para preparo está suspenso. Não perca o horário estabelecido.
+O prazo para preparo está suspenso. Prepare a documentação.
+O prazo para preparo expira amanhã às 18h. Evite a preclusão.
+O prazo para preparo expira amanhã às 18h. Prepare a documentação.
+O prazo para preparo foi devolvido por 10 dias. Atenção ao calendário interno.
+O prazo para preparo foi devolvido por 10 dias. Notifique o cliente.
+O prazo para preparo foi devolvido por 10 dias. O sistema já foi atualizado.
+O prazo para preparo foi devolvido por 10 dias. Revise os memoriais.
+O prazo para preparo foi prorrogado por 5 dias. A parte contrária já foi intimada.
+O prazo para preparo foi prorrogado por 5 dias. O sistema já foi atualizado.
+O prazo para preparo termina amanhã. A parte contrária já foi intimada.
+O prazo para preparo vence hoje. Avise o coordenador.
+O prazo para preparo vence nesta sexta-feira. Prepare a documentação.
+O prazo para recurso inominado foi devolvido por 10 dias. Avise o coordenador.
+O prazo para recurso inominado foi devolvido por 10 dias. O estagiário já incluiu na agenda.
+O prazo para recurso inominado inicia-se amanhã. Aguarde novas orientações.
+O prazo para recurso inominado inicia-se amanhã. Avise o coordenador.
+O prazo para recurso inominado iniciou hoje.
+O prazo para recurso inominado iniciou hoje. A parte contrária já foi intimada.
+O prazo para recurso inominado iniciou hoje. Verifique o link do Teams.
+O prazo para recurso inominado termina em 48 horas. Verifique no PJe.
+O prazo para recurso inominado vence nesta sexta-feira. Verifique o link do Teams.
+O prazo para rol de testemunhas expira amanhã às 18h. Aguarde novas orientações.
+O prazo para rol de testemunhas foi devolvido por 10 dias. A parte contrária já foi intimada.
+O prazo para rol de testemunhas foi devolvido por 10 dias. O estagiário já incluiu na agenda.
+O prazo para rol de testemunhas foi devolvido por 10 dias. O sistema já foi atualizado.
+O prazo para rol de testemunhas foi prorrogado por 5 dias.
+O prazo para rol de testemunhas iniciou hoje. Avise o coordenador.
+O prazo para rol de testemunhas iniciou hoje. Não perca o horário estabelecido.
+O prazo para rol de testemunhas não comporta mais dilação. Atenção ao calendário interno.
+O prazo para rol de testemunhas termina em 48 horas. Aguarde novas orientações.
+O prazo para rol de testemunhas vence hoje. Não perca o horário estabelecido.
+O prazo para réplica está suspenso. O estagiário já incluiu na agenda.
+O prazo para réplica expira amanhã às 18h. Notifique o cliente.
+O prazo para réplica foi prorrogado pelo juiz. Verifique o link do Teams.
+O prazo para réplica foi prorrogado por 5 dias. Verifique o link do Teams.
+O prazo para réplica inicia-se amanhã. Evite a preclusão.
+O prazo para réplica iniciou hoje. Atenção ao calendário interno.
+O prazo para réplica vence nesta sexta-feira. O sistema já foi atualizado.
+O prazo peremptório acaba em 3 dias. Verifique o link do Teams.
+O prazo peremptório foi prorrogado por 5 dias. Verifique no PJe.
+O prazo peremptório termina amanhã. Verifique no PJe.
+O prazo peremptório vence nesta sexta-feira. O estagiário já incluiu na agenda.
+O prazo peremptório vence nesta sexta-feira. Revise os memoriais.
+O prazo prescricional acaba em 3 dias. Atenção ao calendário interno.
+O prazo prescricional acaba em 3 dias. Evite a preclusão.
+O prazo prescricional encerra-se na próxima semana. Não perca o horário estabelecido.
+O prazo prescricional está suspenso. A parte contrária já foi intimada.
+O prazo prescricional foi devolvido por 10 dias. O estagiário já incluiu na agenda.
+O prazo prescricional foi prorrogado por 5 dias.
+O prazo prescricional vence hoje. A parte contrária já foi intimada.
+O prazo recursal foi devolvido por 10 dias. Notifique o cliente.
+O prazo recursal foi devolvido por 10 dias. Não perca o horário estabelecido.
+O prazo recursal foi prorrogado por 5 dias. Não perca o horário estabelecido.
+O prazo recursal iniciou hoje. Avise o coordenador.
+O prazo recursal iniciou hoje. Verifique o link do Teams.
+O prazo recursal termina em 48 horas. Não perca o horário estabelecido.
+O prazo recursal termina em 48 horas. O sistema já foi atualizado.
+O prazo recursal vence nesta sexta-feira. Evite a preclusão.
+Pauta: A audiência admonitória foi adiada para o próximo mês. Atenção ao calendário interno.
+Pauta: A audiência admonitória foi cancelada pelo juízo.
+Pauta: A audiência admonitória foi remarcada para sexta-feira. Avise o coordenador.
+Pauta: A audiência admonitória teve o horário antecipado. Verifique o link do Teams.
+Pauta: A audiência de conciliação ocorrerá de forma 100% virtual. Revise os memoriais.
+Pauta: A audiência de custódia está aguardando o link. Atenção ao calendário interno.
+Pauta: A audiência de custódia foi designada para hoje às 14h. Evite a preclusão.
+Pauta: A audiência de custódia foi designada para hoje às 14h. Não perca o horário estabelecido.
+Pauta: A audiência de custódia ocorrerá de forma 100% virtual. Atenção ao calendário interno.
+Pauta: A audiência de instrução teve o horário antecipado.
+Pauta: A audiência de justificação acontecerá na sala 2. Aguarde novas orientações.
+Pauta: A audiência de justificação está confirmada para hoje. O sistema já foi atualizado.
+Pauta: A audiência de justificação foi remarcada para sexta-feira. Notifique o cliente.
+Pauta: A audiência de justificação ocorrerá de forma 100% virtual.
+Pauta: A audiência de oitiva de testemunhas está aguardando o link. Atenção ao calendário interno.
+Pauta: A audiência de oitiva de testemunhas foi transferida para o dia 20.
+Pauta: A audiência de oitiva de testemunhas será presencial no fórum. Aguarde novas orientações.
+Pauta: A audiência de tentativa de acordo foi confirmada para amanhã. Revise os memoriais.
+Pauta: A audiência de tentativa de acordo foi remarcada para sexta-feira.
+Pauta: A audiência de tentativa de acordo foi remarcada para sexta-feira. O sistema já foi atualizado.
+Pauta: A audiência de tentativa de acordo foi transferida para o dia 20. Avise o coordenador.
+Pauta: A audiência de tentativa de acordo teve o horário antecipado. O estagiário já incluiu na agenda.
+Pauta: A audiência trabalhista está aguardando o link.
+Pauta: A audiência trabalhista foi cancelada pelo juízo. A parte contrária já foi intimada.
+Pauta: A audiência trabalhista foi designada para hoje às 14h. Não perca o horário estabelecido.
+Pauta: A oitiva do perito está aguardando o link. O estagiário já incluiu na agenda.
+Pauta: A oitiva do perito está confirmada para hoje. Revise os memoriais.
+Pauta: A oitiva do perito foi cancelada pelo juízo. Verifique no PJe.
+Pauta: A reunião pré-audiência está aguardando o link. Verifique no PJe.
+Pauta: A reunião pré-audiência foi confirmada para amanhã. Revise os memoriais.
+Pauta: A reunião pré-audiência ocorrerá de forma 100% virtual.
+Pauta: A reunião pré-audiência será presencial no fórum. Prepare a documentação.
+Pauta: A reunião pré-audiência teve o horário antecipado. Evite a preclusão.
+Pauta: A sessão de julgamento foi cancelada pelo juízo. A parte contrária já foi intimada.
+Pauta: A sessão de julgamento foi confirmada para amanhã. O estagiário já incluiu na agenda.
+Pauta: A sessão de julgamento foi designada para hoje às 14h.
+Pauta: A sessão de julgamento foi transferida para o dia 20.
+Pauta: A sessão de julgamento foi transferida para o dia 20. Verifique o link do Teams.
+Pauta: A sessão de mediação foi adiada para o próximo mês. Revise os memoriais.
+Pauta: A sessão do tribunal do júri acontecerá na sala 2. Notifique o cliente.
+Pauta: A sessão do tribunal do júri está aguardando o link. Verifique o link do Teams.
+Pauta: A sessão do tribunal do júri foi remarcada para sexta-feira.
+Pauta: A sessão do tribunal do júri foi transferida para o dia 20.
+Pauta: A sessão do tribunal do júri ocorrerá de forma 100% virtual. Revise os memoriais.
+Pauta: A sessão virtual do STJ foi cancelada pelo juízo. O estagiário já incluiu na agenda.
+Pauta: A sessão virtual do STJ foi designada para hoje às 14h. Evite a preclusão.
+Pauta: A sessão virtual do STJ foi remarcada para sexta-feira.
+Pauta: A sessão virtual do STJ ocorrerá de forma 100% virtual. O estagiário já incluiu na agenda.
+Pauta: O prazo comum às partes está suspenso.
+Pauta: O prazo comum às partes foi prorrogado por 5 dias. Atenção ao calendário interno.
+Pauta: O prazo de 15 dias úteis foi devolvido por 10 dias. Notifique o cliente.
+Pauta: O prazo de 15 dias úteis foi prorrogado por 5 dias.
+Pauta: O prazo de 15 dias úteis iniciou hoje. A parte contrária já foi intimada.
+Pauta: O prazo de 15 dias úteis não comporta mais dilação.
+Pauta: O prazo de embargos de declaração expira amanhã às 18h. Aguarde novas orientações.
+Pauta: O prazo de embargos de declaração termina em 48 horas. Não perca o horário estabelecido.
+Pauta: O prazo em dobro para a Fazenda acaba em 3 dias. Notifique o cliente.
+Pauta: O prazo em dobro para a Fazenda inicia-se amanhã. Avise o coordenador.
+Pauta: O prazo para alegações finais encerra-se na próxima semana.
+Pauta: O prazo para alegações finais foi prorrogado por 5 dias. Evite a preclusão.
+Pauta: O prazo para apelação acaba em 3 dias. A parte contrária já foi intimada.
+Pauta: O prazo para apelação inicia-se amanhã. O sistema já foi atualizado.
+Pauta: O prazo para contestação encerra-se na próxima semana.
+Pauta: O prazo para contestação foi prorrogado pelo juiz. A parte contrária já foi intimada.
+Pauta: O prazo para contestação não comporta mais dilação. Revise os memoriais.
+Pauta: O prazo para contestação termina amanhã. Revise os memoriais.
+Pauta: O prazo para contrarrazões vence nesta sexta-feira. Notifique o cliente.
+Pauta: O prazo para contrarrazões vence nesta sexta-feira. O sistema já foi atualizado.
+Pauta: O prazo para cálculos está suspenso. Verifique o link do Teams.
+Pauta: O prazo para emenda à inicial expira amanhã às 18h. Avise o coordenador.
+Pauta: O prazo para juntada de documentos termina em 48 horas.
+Pauta: O prazo para juntada de documentos vence nesta sexta-feira. A parte contrária já foi intimada.
+Pauta: O prazo para manifestação acaba em 3 dias. Não perca o horário estabelecido.
+Pauta: O prazo para manifestação está suspenso. Avise o coordenador.
+Pauta: O prazo para manifestação expira amanhã às 18h. Avise o coordenador.
+Pauta: O prazo para manifestação foi prorrogado pelo juiz.
+Pauta: O prazo para manifestação foi prorrogado por 5 dias.
+Pauta: O prazo para manifestação iniciou hoje. Verifique o link do Teams.
+Pauta: O prazo para manifestação vence nesta sexta-feira.
+Pauta: O prazo para preparo acaba em 3 dias. O sistema já foi atualizado.
+Pauta: O prazo para preparo foi prorrogado por 5 dias.
+Pauta: O prazo para recurso inominado foi devolvido por 10 dias. Avise o coordenador.
+Pauta: O prazo para recurso inominado foi prorrogado por 5 dias.
+Pauta: O prazo para recurso inominado não comporta mais dilação. Aguarde novas orientações.
+Pauta: O prazo para rol de testemunhas encerra-se na próxima semana.
+Pauta: O prazo para rol de testemunhas inicia-se amanhã. O estagiário já incluiu na agenda.
+Pauta: O prazo para rol de testemunhas vence hoje. Verifique no PJe.
+Pauta: O prazo para réplica foi prorrogado por 5 dias. Prepare a documentação.
+Pauta: O prazo para réplica não comporta mais dilação.
+Pauta: O prazo peremptório está suspenso. Atenção ao calendário interno.
+Pauta: O prazo peremptório foi devolvido por 10 dias.
+Pauta: O prazo peremptório foi prorrogado pelo juiz.
+Pauta: O prazo peremptório foi prorrogado pelo juiz. Verifique no PJe.
+Pauta: O prazo peremptório não comporta mais dilação. A parte contrária já foi intimada.
+Pauta: O prazo peremptório termina em 48 horas. Evite a preclusão.
+Pauta: O prazo recursal não comporta mais dilação.
+Urgente: A audiência admonitória acontecerá na sala 2. Notifique o cliente.
+Urgente: A audiência admonitória foi confirmada para amanhã. O sistema já foi atualizado.
+Urgente: A audiência admonitória ocorrerá de forma 100% virtual. Avise o coordenador.
+Urgente: A audiência de conciliação está aguardando o link. Avise o coordenador.
+Urgente: A audiência de custódia foi adiada para o próximo mês. Prepare a documentação.
+Urgente: A audiência de custódia foi adiada para o próximo mês. Verifique o link do Teams.
+Urgente: A audiência de custódia foi remarcada para sexta-feira. Evite a preclusão.
+Urgente: A audiência de custódia será presencial no fórum. Verifique o link do Teams.
+Urgente: A audiência de instrução acontecerá na sala 2. Evite a preclusão.
+Urgente: A audiência de instrução ocorrerá de forma 100% virtual. O sistema já foi atualizado.
+Urgente: A audiência de justificação teve o horário antecipado. Avise o coordenador.
+Urgente: A audiência de oitiva de testemunhas está aguardando o link. Prepare a documentação.
+Urgente: A audiência de tentativa de acordo foi cancelada pelo juízo. Evite a preclusão.
+Urgente: A audiência de tentativa de acordo foi confirmada para amanhã.
+Urgente: A audiência de tentativa de acordo ocorrerá de forma 100% virtual. Não perca o horário estabelecido.
+Urgente: A audiência de tentativa de acordo ocorrerá de forma 100% virtual. Verifique no PJe.
+Urgente: A audiência de tentativa de acordo será presencial no fórum.
+Urgente: A audiência de tentativa de acordo será presencial no fórum. Evite a preclusão.
+Urgente: A audiência trabalhista foi adiada para o próximo mês. A parte contrária já foi intimada.
+Urgente: A audiência trabalhista foi designada para hoje às 14h. Não perca o horário estabelecido.
+Urgente: A audiência trabalhista foi remarcada para sexta-feira. Verifique o link do Teams.
+Urgente: A audiência trabalhista ocorrerá de forma 100% virtual. Não perca o horário estabelecido.
+Urgente: A oitiva do perito acontecerá na sala 2.
+Urgente: A oitiva do perito ocorrerá de forma 100% virtual. Atenção ao calendário interno.
+Urgente: A oitiva do perito teve o horário antecipado. O sistema já foi atualizado.
+Urgente: A reunião pré-audiência foi confirmada para amanhã. Notifique o cliente.
+Urgente: A sessão de julgamento foi remarcada para sexta-feira. O sistema já foi atualizado.
+Urgente: A sessão de mediação está aguardando o link. A parte contrária já foi intimada.
+Urgente: A sessão de mediação está aguardando o link. Aguarde novas orientações.
+Urgente: A sessão de mediação ocorrerá de forma 100% virtual. Notifique o cliente.
+Urgente: A sessão do tribunal do júri foi adiada para o próximo mês. Avise o coordenador.
+Urgente: A sessão do tribunal do júri foi remarcada para sexta-feira. O estagiário já incluiu na agenda.
+Urgente: A sessão virtual do STJ foi adiada para o próximo mês.
+Urgente: A sessão virtual do STJ foi designada para hoje às 14h. Prepare a documentação.
+Urgente: O prazo de 15 dias úteis vence hoje. Verifique no PJe.
+Urgente: O prazo de 15 dias úteis vence nesta sexta-feira. Aguarde novas orientações.
+Urgente: O prazo em dobro para a Fazenda acaba em 3 dias.
+Urgente: O prazo em dobro para a Fazenda expira amanhã às 18h. Notifique o cliente.
+Urgente: O prazo em dobro para a Fazenda vence hoje. Notifique o cliente.
+Urgente: O prazo para alegações finais encerra-se na próxima semana. Evite a preclusão.
+Urgente: O prazo para alegações finais vence hoje. Aguarde novas orientações.
+Urgente: O prazo para apelação vence nesta sexta-feira. Verifique no PJe.
+Urgente: O prazo para contestação está suspenso. Avise o coordenador.
+Urgente: O prazo para contestação foi prorrogado pelo juiz. Evite a preclusão.
+Urgente: O prazo para contestação não comporta mais dilação. Evite a preclusão.
+Urgente: O prazo para contestação vence nesta sexta-feira. Não perca o horário estabelecido.
+Urgente: O prazo para cálculos encerra-se na próxima semana. Verifique no PJe.
+Urgente: O prazo para emenda à inicial não comporta mais dilação. Evite a preclusão.
+Urgente: O prazo para juntada de documentos está suspenso.
+Urgente: O prazo para juntada de documentos não comporta mais dilação. Avise o coordenador.
+Urgente: O prazo para manifestação foi prorrogado por 5 dias. Verifique no PJe.
+Urgente: O prazo para manifestação iniciou hoje. Aguarde novas orientações.
+Urgente: O prazo para manifestação iniciou hoje. O sistema já foi atualizado.
+Urgente: O prazo para recurso inominado termina em 48 horas. Verifique o link do Teams.
+Urgente: O prazo para recurso inominado vence nesta sexta-feira. O sistema já foi atualizado.
+Urgente: O prazo para rol de testemunhas termina amanhã. Verifique no PJe.
+Urgente: O prazo peremptório encerra-se na próxima semana.
+Urgente: O prazo peremptório foi prorrogado por 5 dias. Prepare a documentação.
+Urgente: O prazo prescricional foi devolvido por 10 dias.
+Urgente: O prazo prescricional iniciou hoje. O sistema já foi atualizado.
+Urgente: O prazo prescricional termina amanhã.
+Urgente: O prazo recursal iniciou hoje. Prepare a documentação.

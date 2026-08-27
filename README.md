@@ -27,9 +27,19 @@ tests/
 poetry install
 ```
 
-## 1. Treinar
+## 1. Gerar datasets
 
-Treina Regressão Logística e SVM, avalia os dois na validação e salva o melhor:
+A partir das sentenças, cria um dataset unificado e depois divide esse dataset em três:
+treino, validação e teste (70/15/15)
+
+```bash
+poetry run python -m scripts.generate_dataset
+poetry run python -m scripts.split_dataset
+```
+
+## 2. Treinar
+
+Treina Regressão Logística, SVM e XGBoost. Avalia os três na validação e salva o melhor:
 
 ```bash
 poetry run python -m scripts.train --plot 
@@ -37,7 +47,7 @@ poetry run python -m scripts.train --plot
 
 Isso gera em `models/`: `classifier.joblib`, `label_encoder.joblib`, `metadata.json`.
 
-## 2. Validar / Testar
+## 3. Validar / Testar
 
 ```bash
 poetry run python -m scripts.validator --split val --plot
@@ -46,7 +56,7 @@ poetry run python -m scripts.validator --split test --plot --show
 
 Mostra `classification_report` (precision/recall/f1 por classe) e matriz de confusão.
 
-## 3. Subir a API
+## 4. Subir a API
 
 ```bash
 poetry run uvicorn app.main:app --reload
@@ -63,7 +73,7 @@ curl -X POST http://127.0.0.1:8000/classificar \
   -d '{"sentenca": "Audiência de conciliação marcada para sexta-feira."}'
 ```
 
-## 4. Testes
+## 5. Testes
 
 ```bash
 poetry run pytest

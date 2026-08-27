@@ -998,3 +998,1003 @@ Pagamento pendente: Os honorários contratuais no valor de R$ 2.400,00 foram qui
 Guia de custas iniciais emitida pela controladoria jurídica.
 Confirmação: Os valores bloqueados foram recebidos.
 Confirmação: O bloqueio Sisbajud foi lançado no portal do tribunal.
+A GRU no valor de R$ 11.100,00 foi emitida e anexado aos autos.
+A GRU no valor de R$ 13.300,00 foi efetuada e o recibo foi arquivado.
+A GRU no valor de R$ 4.200,00 foi estornada conforme tabela da OAB.
+A GRU venceu e baixado do sistema.
+A GRU venceu para prestação de contas.
+A RPV foi transferida pela controladoria.
+A RPV no valor de R$ 10.900,00 foi aprovada com sucesso.
+A custa inicial foi quitada aguardando aprovação da diretoria.
+A despesa de cartório foi retida aguardando aprovação da diretoria.
+A fatura mensal foi aprovada.
+A fatura mensal foi recolhida no portal do tribunal.
+A fatura mensal foi retida para prestação de contas.
+A fatura mensal no valor de R$ 2.900,00 foi recolhida para dedução no IR.
+A guia DARE no valor de R$ 2.900,00 foi expedida para dedução no IR.
+A guia de custas foi estornada.
+A guia de custas no valor de R$ 10.900,00 foi recebida e anexado aos autos.
+A guia de custas no valor de R$ 12.800,00 foi recebida pelo setor financeiro.
+A nota fiscal foi transferida.
+A penhora online está pendente para prestação de contas.
+A penhora online foi expedida e enviado ao cliente.
+A penhora online foi gerada.
+A penhora online foi recebida conforme tabela da OAB.
+A penhora online no valor de R$ 9.400,00 foi transferida e notificação enviada.
+A prestação de contas foi recolhida com sucesso.
+A retenção de imposto no valor de R$ 5.800,00 foi expedida na conta do escritório.
+A taxa de desarquivamento foi aprovada.
+A taxa de desarquivamento foi quitada na conta do escritório.
+A taxa de desarquivamento foi retida e baixado do sistema.
+A taxa de desarquivamento no valor de R$ 3.300,00 foi transferida com vencimento para amanhã.
+Alerta financeiro: A GRU foi gerada.
+Alerta financeiro: A GRU no valor de R$ 2.100,00 foi emitida pela controladoria.
+Alerta financeiro: A RPV foi recebida para dedução no IR.
+Alerta financeiro: A RPV no valor de R$ 10.000,00 foi efetuada aguardando compensação.
+Alerta financeiro: A RPV no valor de R$ 10.800,00 está pendente e anexado aos autos.
+Alerta financeiro: A custa inicial está pendente com acréscimo de multa.
+Alerta financeiro: A despesa de cartório foi quitada.
+Alerta financeiro: A despesa de cartório foi transferida.
+Alerta financeiro: A despesa de cartório no valor de R$ 5.400,00 foi paga pelo setor financeiro.
+Alerta financeiro: A fatura mensal foi quitada pelo setor financeiro.
+Alerta financeiro: A fatura mensal foi recebida.
+Alerta financeiro: A fatura mensal foi retida conforme determinação judicial.
+Alerta financeiro: A fatura mensal no valor de R$ 6.300,00 foi estornada pelo setor financeiro.
+Alerta financeiro: A guia DARE foi efetuada.
+Alerta financeiro: A guia de custas está pendente e enviado ao cliente.
+Alerta financeiro: A guia de custas no valor de R$ 7.400,00 foi efetuada conforme determinação judicial.
+Alerta financeiro: A nota fiscal foi paga.
+Alerta financeiro: A nota fiscal foi recebida.
+Alerta financeiro: A nota fiscal no valor de R$ 12.400,00 foi efetuada com acréscimo de multa.
+Alerta financeiro: A penhora online no valor de R$ 14.900,00 foi efetuada com sucesso.
+Alerta financeiro: A prestação de contas foi quitada.
+Alerta financeiro: A retenção de imposto foi gerada conforme determinação judicial.
+Alerta financeiro: A taxa de desarquivamento foi liberada no portal do tribunal.
+Alerta financeiro: A taxa de desarquivamento no valor de R$ 1.400,00 venceu e notificação enviada.
+Alerta financeiro: A taxa de desarquivamento venceu para conferência.
+Alerta financeiro: As custas complementares foram recebidas conforme tabela da OAB.
+Alerta financeiro: As custas complementares no valor de R$ 10.600,00 foram estornadas sem incidência de juros.
+Alerta financeiro: As custas complementares no valor de R$ 11.200,00 foram pagas e o recibo foi arquivado.
+Alerta financeiro: As custas complementares no valor de R$ 4.100,00 foram efetuadas e enviado ao cliente.
+Alerta financeiro: As custas finais foram expedidas para conferência.
+Alerta financeiro: As custas finais foram pagas conforme tabela da OAB.
+Alerta financeiro: As custas finais foram recolhidas aguardando aprovação da diretoria.
+Alerta financeiro: As custas finais venceram aguardando compensação.
+Alerta financeiro: As custas processuais estão pendentes aguardando aprovação da diretoria.
+Alerta financeiro: As custas processuais foram estornadas conforme determinação judicial.
+Alerta financeiro: As custas processuais no valor de R$ 14.900,00 foram transferidas pela controladoria.
+Alerta financeiro: As custas processuais no valor de R$ 9.300,00 foram emitidas pela controladoria.
+Alerta financeiro: As despesas de viagem foram recolhidas.
+Alerta financeiro: As despesas de viagem no valor de R$ 7.900,00 foram efetuadas no portal do tribunal.
+Alerta financeiro: As faturas atrasadas foram aprovadas.
+Alerta financeiro: As faturas atrasadas foram efetuadas.
+Alerta financeiro: As faturas atrasadas foram recebidas e anexado aos autos.
+Alerta financeiro: As faturas atrasadas foram recolhidas no sistema interno.
+Alerta financeiro: As faturas atrasadas no valor de R$ 13.100,00 venceram com vencimento para amanhã.
+Alerta financeiro: As faturas atrasadas no valor de R$ 7.100,00 foram estornadas e o recibo foi arquivado.
+Alerta financeiro: As faturas atrasadas no valor de R$ 700,00 foram recebidas no portal do tribunal.
+Alerta financeiro: As taxas judiciárias foram recolhidas conforme tabela da OAB.
+Alerta financeiro: As taxas judiciárias foram recolhidas no sistema interno.
+Alerta financeiro: As taxas judiciárias no valor de R$ 14.900,00 foram geradas e anexado aos autos.
+Alerta financeiro: As taxas judiciárias no valor de R$ 3.000,00 foram recolhidas e anexado aos autos.
+Alerta financeiro: As taxas judiciárias no valor de R$ 3.200,00 foram transferidas aguardando compensação.
+Alerta financeiro: As taxas judiciárias no valor de R$ 4.100,00 estão pendentes aguardando compensação.
+Alerta financeiro: As taxas judiciárias no valor de R$ 9.500,00 foram quitadas e notificação enviada.
+Alerta financeiro: O DARF no valor de R$ 12.500,00 foi recolhido sem incidência de juros.
+Alerta financeiro: O DARJ no valor de R$ 15.000,00 está pendente pelo setor financeiro.
+Alerta financeiro: O acordo financeiro foi pago e enviado ao cliente.
+Alerta financeiro: O alvará de levantamento foi gerado com sucesso.
+Alerta financeiro: O alvará de levantamento no valor de R$ 1.800,00 foi transferido no sistema interno.
+Alerta financeiro: O alvará de levantamento no valor de R$ 12.400,00 está pendente pela controladoria.
+Alerta financeiro: O alvará de levantamento no valor de R$ 6.000,00 venceu no sistema interno.
+Alerta financeiro: O bloqueio Sisbajud foi expedido.
+Alerta financeiro: O boleto de honorários foi quitado e notificação enviada.
+Alerta financeiro: O comprovante de PIX foi expedido para conferência.
+Alerta financeiro: O depósito judicial foi gerado para dedução no IR.
+Alerta financeiro: O depósito recursal no valor de R$ 4.600,00 foi transferido e baixado do sistema.
+Alerta financeiro: O depósito recursal no valor de R$ 500,00 foi recolhido para conferência.
+Alerta financeiro: O pagamento das custas no valor de R$ 900,00 foi liberado aguardando compensação.
+Alerta financeiro: O pagamento do perito no valor de R$ 8.500,00 está pendente e notificação enviada.
+Alerta financeiro: O precatório foi retido conforme tabela da OAB.
+Alerta financeiro: O reembolso de diligência está pendente.
+Alerta financeiro: O reembolso de diligência foi liberado no sistema interno.
+Alerta financeiro: O reembolso de diligência foi quitado no sistema interno.
+Alerta financeiro: O reembolso de diligência foi retido aguardando aprovação da diretoria.
+Alerta financeiro: O reembolso de diligência foi retido sem incidência de juros.
+Alerta financeiro: O repasse ao cliente foi pago e enviado ao cliente.
+Alerta financeiro: O repasse ao cliente no valor de R$ 10.000,00 foi retido pela controladoria.
+Alerta financeiro: O repasse ao cliente no valor de R$ 11.200,00 foi gerado com vencimento para amanhã.
+Alerta financeiro: O repasse ao cliente no valor de R$ 2.500,00 foi estornado pelo setor financeiro.
+Alerta financeiro: Os cálculos periciais foram aprovados conforme determinação judicial.
+Alerta financeiro: Os cálculos periciais foram gerados no sistema interno.
+Alerta financeiro: Os cálculos periciais foram gerados.
+Alerta financeiro: Os cálculos periciais foram liberados.
+Alerta financeiro: Os cálculos periciais foram pagos com acréscimo de multa.
+Alerta financeiro: Os cálculos periciais foram pagos na conta do escritório.
+Alerta financeiro: Os cálculos periciais no valor de R$ 12.500,00 venceram com acréscimo de multa.
+Alerta financeiro: Os depósitos recursais foram expedidos com vencimento para amanhã.
+Alerta financeiro: Os depósitos recursais foram quitados.
+Alerta financeiro: Os depósitos recursais foram recebidos na conta do escritório.
+Alerta financeiro: Os depósitos recursais no valor de R$ 13.000,00 foram gerados com sucesso.
+Alerta financeiro: Os depósitos recursais no valor de R$ 4.600,00 foram estornados no portal do tribunal.
+Alerta financeiro: Os depósitos recursais no valor de R$ 9.900,00 estão pendentes com vencimento para amanhã.
+Alerta financeiro: Os depósitos recursais venceram no sistema interno.
+Alerta financeiro: Os honorários contratuais estão pendentes e enviado ao cliente.
+Alerta financeiro: Os honorários contratuais foram expedidos pelo setor financeiro.
+Alerta financeiro: Os honorários contratuais no valor de R$ 14.600,00 foram expedidos conforme determinação judicial.
+Alerta financeiro: Os honorários contratuais venceram.
+Alerta financeiro: Os honorários de sucumbência foram efetuados.
+Alerta financeiro: Os honorários de sucumbência foram gerados.
+Alerta financeiro: Os honorários de sucumbência foram liberados e baixado do sistema.
+Alerta financeiro: Os honorários de sucumbência foram recebidos e anexado aos autos.
+Alerta financeiro: Os honorários de sucumbência no valor de R$ 4.900,00 foram gerados conforme tabela da OAB.
+Alerta financeiro: Os juros de mora foram efetuados com acréscimo de multa.
+Alerta financeiro: Os juros de mora foram efetuados.
+Alerta financeiro: Os juros de mora foram liberados com vencimento para amanhã.
+Alerta financeiro: Os juros de mora no valor de R$ 12.000,00 foram recolhidos e anexado aos autos.
+Alerta financeiro: Os juros de mora no valor de R$ 12.300,00 foram quitados no sistema interno.
+Alerta financeiro: Os juros de mora no valor de R$ 14.900,00 foram aprovados para conferência.
+Alerta financeiro: Os juros de mora no valor de R$ 5.600,00 foram gerados pela controladoria.
+Alerta financeiro: Os juros de mora venceram pelo setor financeiro.
+Alerta financeiro: Os valores bloqueados estão pendentes e notificação enviada.
+Alerta financeiro: Os valores bloqueados foram emitidos com vencimento para amanhã.
+Alerta financeiro: Os valores bloqueados foram expedidos conforme tabela da OAB.
+Alerta financeiro: Os valores bloqueados no valor de R$ 13.200,00 venceram pelo setor financeiro.
+Alerta financeiro: Os valores bloqueados no valor de R$ 2.700,00 foram aprovados aguardando compensação.
+As custas complementares no valor de R$ 12.800,00 foram recolhidas e anexado aos autos.
+As custas complementares no valor de R$ 6.600,00 foram transferidas no portal do tribunal.
+As custas finais foram liberadas para conferência.
+As custas finais no valor de R$ 12.600,00 foram transferidas e baixado do sistema.
+As custas processuais foram pagas pelo setor financeiro.
+As custas processuais foram quitadas para conferência.
+As custas processuais foram recolhidas para dedução no IR.
+As custas processuais no valor de R$ 7.800,00 venceram e enviado ao cliente.
+As despesas de viagem foram emitidas e notificação enviada.
+As despesas de viagem no valor de R$ 13.900,00 foram recolhidas no sistema interno.
+As despesas de viagem no valor de R$ 14.600,00 foram pagas sem incidência de juros.
+As despesas de viagem no valor de R$ 3.500,00 foram quitadas e baixado do sistema.
+As faturas atrasadas foram estornadas na conta do escritório.
+As faturas atrasadas no valor de R$ 2.100,00 foram geradas sem incidência de juros.
+As faturas atrasadas no valor de R$ 6.500,00 foram geradas conforme determinação judicial.
+As taxas judiciárias estão pendentes aguardando aprovação da diretoria.
+As taxas judiciárias foram aprovadas para dedução no IR.
+As taxas judiciárias no valor de R$ 12.100,00 foram recebidas para prestação de contas.
+As taxas judiciárias no valor de R$ 13.000,00 foram pagas com acréscimo de multa.
+As taxas judiciárias no valor de R$ 14.600,00 foram transferidas no portal do tribunal.
+As taxas judiciárias no valor de R$ 3.100,00 foram recebidas e enviado ao cliente.
+Aviso: A GRU foi emitida aguardando aprovação da diretoria.
+Aviso: A GRU foi estornada.
+Aviso: A GRU foi gerada para prestação de contas.
+Aviso: A GRU no valor de R$ 14.000,00 foi recolhida e anexado aos autos.
+Aviso: A custa inicial foi recebida sem incidência de juros.
+Aviso: A despesa de cartório no valor de R$ 3.100,00 está pendente aguardando compensação.
+Aviso: A despesa de cartório no valor de R$ 3.700,00 está pendente para conferência.
+Aviso: A despesa de cartório no valor de R$ 500,00 foi quitada aguardando compensação.
+Aviso: A fatura mensal no valor de R$ 2.600,00 foi liberada com sucesso.
+Aviso: A fatura mensal no valor de R$ 6.900,00 foi liberada para dedução no IR.
+Aviso: A guia DARE foi expedida.
+Aviso: A guia DARE no valor de R$ 10.200,00 venceu para prestação de contas.
+Aviso: A guia DARE no valor de R$ 3.300,00 foi efetuada e o recibo foi arquivado.
+Aviso: A guia de custas foi recebida com vencimento para amanhã.
+Aviso: A nota fiscal foi gerada.
+Aviso: A nota fiscal no valor de R$ 10.000,00 foi emitida sem incidência de juros.
+Aviso: A nota fiscal no valor de R$ 13.200,00 foi gerada pela controladoria.
+Aviso: A penhora online está pendente.
+Aviso: A penhora online no valor de R$ 12.400,00 foi paga com acréscimo de multa.
+Aviso: A penhora online no valor de R$ 9.400,00 foi emitida e enviado ao cliente.
+Aviso: A prestação de contas foi retida.
+Aviso: A retenção de imposto foi paga sem incidência de juros.
+Aviso: A taxa de desarquivamento no valor de R$ 11.700,00 foi aprovada e anexado aos autos.
+Aviso: A taxa de desarquivamento no valor de R$ 14.300,00 foi liberada pela controladoria.
+Aviso: As custas complementares foram estornadas.
+Aviso: As custas complementares foram geradas.
+Aviso: As custas complementares foram pagas.
+Aviso: As custas complementares foram recebidas.
+Aviso: As custas finais foram efetuadas.
+Aviso: As custas finais foram estornadas pelo setor financeiro.
+Aviso: As custas finais foram expedidas para dedução no IR.
+Aviso: As custas finais no valor de R$ 10.200,00 foram expedidas sem incidência de juros.
+Aviso: As custas finais venceram na conta do escritório.
+Aviso: As custas finais venceram.
+Aviso: As custas processuais foram emitidas na conta do escritório.
+Aviso: As custas processuais foram liberadas com vencimento para amanhã.
+Aviso: As custas processuais foram recolhidas com vencimento para amanhã.
+Aviso: As custas processuais foram recolhidas.
+Aviso: As custas processuais no valor de R$ 14.600,00 foram efetuadas pelo setor financeiro.
+Aviso: As despesas de viagem foram estornadas e notificação enviada.
+Aviso: As despesas de viagem no valor de R$ 2.200,00 foram transferidas conforme determinação judicial.
+Aviso: As faturas atrasadas estão pendentes conforme tabela da OAB.
+Aviso: As faturas atrasadas no valor de R$ 12.900,00 venceram conforme tabela da OAB.
+Aviso: As faturas atrasadas no valor de R$ 13.300,00 foram pagas conforme determinação judicial.
+Aviso: As faturas atrasadas no valor de R$ 14.700,00 venceram sem incidência de juros.
+Aviso: As taxas judiciárias no valor de R$ 12.000,00 foram expedidas com acréscimo de multa.
+Aviso: As taxas judiciárias no valor de R$ 8.800,00 foram aprovadas conforme tabela da OAB.
+Aviso: O DARF foi aprovado.
+Aviso: O DARF foi expedido sem incidência de juros.
+Aviso: O DARF foi liberado.
+Aviso: O DARF no valor de R$ 1.800,00 foi transferido e notificação enviada.
+Aviso: O DARJ foi liberado.
+Aviso: O DARJ no valor de R$ 6.300,00 foi efetuado sem incidência de juros.
+Aviso: O acordo financeiro está pendente.
+Aviso: O acordo financeiro foi liberado pela controladoria.
+Aviso: O adiantamento de despesas está pendente pelo setor financeiro.
+Aviso: O adiantamento de despesas no valor de R$ 3.500,00 foi aprovado com sucesso.
+Aviso: O alvará de levantamento foi aprovado.
+Aviso: O alvará de levantamento foi emitido.
+Aviso: O alvará de levantamento foi liberado e anexado aos autos.
+Aviso: O alvará de levantamento no valor de R$ 3.900,00 foi recebido na conta do escritório.
+Aviso: O alvará de levantamento no valor de R$ 4.400,00 foi pago pelo setor financeiro.
+Aviso: O alvará de levantamento no valor de R$ 6.000,00 foi recebido e baixado do sistema.
+Aviso: O bloqueio Sisbajud foi emitido no portal do tribunal.
+Aviso: O bloqueio Sisbajud foi recolhido aguardando aprovação da diretoria.
+Aviso: O bloqueio Sisbajud no valor de R$ 13.600,00 foi emitido no portal do tribunal.
+Aviso: O bloqueio Sisbajud no valor de R$ 8.800,00 foi efetuado no portal do tribunal.
+Aviso: O boleto de honorários no valor de R$ 3.800,00 foi expedido e notificação enviada.
+Aviso: O comprovante de PIX foi quitado.
+Aviso: O comprovante de PIX foi recebido aguardando compensação.
+Aviso: O comprovante de PIX no valor de R$ 11.800,00 foi gerado conforme determinação judicial.
+Aviso: O comprovante de PIX no valor de R$ 14.600,00 foi expedido aguardando compensação.
+Aviso: O comprovante de PIX no valor de R$ 7.100,00 foi recebido com sucesso.
+Aviso: O cálculo de liquidação está pendente com vencimento para amanhã.
+Aviso: O cálculo de liquidação foi retido e enviado ao cliente.
+Aviso: O cálculo de liquidação no valor de R$ 11.400,00 foi expedido sem incidência de juros.
+Aviso: O depósito judicial foi efetuado aguardando compensação.
+Aviso: O depósito judicial foi estornado.
+Aviso: O depósito recursal no valor de R$ 5.500,00 venceu para conferência.
+Aviso: O pagamento das custas foi gerado no portal do tribunal.
+Aviso: O pagamento do perito foi aprovado.
+Aviso: O reembolso de diligência no valor de R$ 11.300,00 está pendente pela controladoria.
+Aviso: O repasse ao cliente foi recebido com vencimento para amanhã.
+Aviso: Os cálculos periciais foram liberados pelo setor financeiro.
+Aviso: Os cálculos periciais no valor de R$ 2.000,00 foram emitidos aguardando compensação.
+Aviso: Os depósitos recursais foram expedidos e o recibo foi arquivado.
+Aviso: Os depósitos recursais foram recebidos.
+Aviso: Os honorários contratuais foram aprovados e enviado ao cliente.
+Aviso: Os honorários contratuais foram emitidos.
+Aviso: Os honorários contratuais foram estornados conforme tabela da OAB.
+Aviso: Os honorários contratuais foram recebidos.
+Aviso: Os honorários contratuais no valor de R$ 10.800,00 estão pendentes aguardando aprovação da diretoria.
+Aviso: Os honorários de sucumbência foram efetuados e baixado do sistema.
+Aviso: Os honorários de sucumbência foram efetuados.
+Aviso: Os honorários de sucumbência foram expedidos.
+Aviso: Os honorários de sucumbência no valor de R$ 13.400,00 foram emitidos conforme tabela da OAB.
+Aviso: Os juros de mora foram aprovados e o recibo foi arquivado.
+Aviso: Os juros de mora foram aprovados.
+Aviso: Os juros de mora foram estornados e anexado aos autos.
+Aviso: Os juros de mora foram liberados conforme determinação judicial.
+Aviso: Os juros de mora foram quitados no portal do tribunal.
+Aviso: Os juros de mora no valor de R$ 4.500,00 estão pendentes conforme determinação judicial.
+Aviso: Os valores bloqueados foram pagos pela controladoria.
+Aviso: Os valores bloqueados foram recebidos para prestação de contas.
+Aviso: Os valores bloqueados no valor de R$ 11.200,00 foram expedidos aguardando compensação.
+Aviso: Os valores bloqueados no valor de R$ 4.700,00 foram estornados para dedução no IR.
+Aviso: Os valores bloqueados no valor de R$ 700,00 foram liberados e anexado aos autos.
+Confirmação: A GRU está pendente para prestação de contas.
+Confirmação: A GRU foi aprovada pela controladoria.
+Confirmação: A GRU foi recolhida no portal do tribunal.
+Confirmação: A GRU no valor de R$ 2.000,00 foi transferida para conferência.
+Confirmação: A custa inicial foi liberada conforme determinação judicial.
+Confirmação: A custa inicial no valor de R$ 100,00 foi efetuada e baixado do sistema.
+Confirmação: A despesa de cartório foi expedida conforme tabela da OAB.
+Confirmação: A despesa de cartório no valor de R$ 12.800,00 foi retida aguardando compensação.
+Confirmação: A despesa de cartório no valor de R$ 13.700,00 foi emitida e anexado aos autos.
+Confirmação: A fatura mensal venceu e baixado do sistema.
+Confirmação: A guia DARE no valor de R$ 13.100,00 foi efetuada conforme determinação judicial.
+Confirmação: A guia DARE no valor de R$ 13.700,00 foi quitada e notificação enviada.
+Confirmação: A guia DARE no valor de R$ 14.100,00 foi emitida no sistema interno.
+Confirmação: A guia de custas foi emitida.
+Confirmação: A guia de custas foi transferida conforme tabela da OAB.
+Confirmação: A nota fiscal foi liberada para dedução no IR.
+Confirmação: A nota fiscal foi paga para dedução no IR.
+Confirmação: A nota fiscal no valor de R$ 5.700,00 venceu no portal do tribunal.
+Confirmação: A penhora online foi paga.
+Confirmação: A penhora online foi recebida e anexado aos autos.
+Confirmação: A penhora online no valor de R$ 4.900,00 foi emitida e anexado aos autos.
+Confirmação: A penhora online no valor de R$ 6.800,00 está pendente com sucesso.
+Confirmação: A prestação de contas foi estornada.
+Confirmação: A prestação de contas foi transferida.
+Confirmação: A retenção de imposto no valor de R$ 2.700,00 foi efetuada pela controladoria.
+Confirmação: A taxa de desarquivamento foi estornada.
+Confirmação: A taxa de desarquivamento foi retida.
+Confirmação: A taxa de desarquivamento no valor de R$ 900,00 foi expedida conforme tabela da OAB.
+Confirmação: A taxa de desarquivamento venceu na conta do escritório.
+Confirmação: As custas complementares foram liberadas pela controladoria.
+Confirmação: As custas complementares foram quitadas.
+Confirmação: As custas complementares foram recolhidas pela controladoria.
+Confirmação: As custas complementares no valor de R$ 200,00 foram liberadas e anexado aos autos.
+Confirmação: As custas finais estão pendentes.
+Confirmação: As custas finais foram aprovadas.
+Confirmação: As custas finais foram geradas.
+Confirmação: As custas finais foram recolhidas na conta do escritório.
+Confirmação: As custas finais foram transferidas para prestação de contas.
+Confirmação: As custas processuais foram expedidas com acréscimo de multa.
+Confirmação: As custas processuais no valor de R$ 1.700,00 foram recolhidas e anexado aos autos.
+Confirmação: As custas processuais no valor de R$ 10.300,00 foram geradas conforme tabela da OAB.
+Confirmação: As custas processuais no valor de R$ 10.700,00 foram quitadas no sistema interno.
+Confirmação: As custas processuais no valor de R$ 9.700,00 foram transferidas e baixado do sistema.
+Confirmação: As despesas de viagem foram estornadas para dedução no IR.
+Confirmação: As despesas de viagem foram transferidas para dedução no IR.
+Confirmação: As despesas de viagem no valor de R$ 12.900,00 foram expedidas conforme tabela da OAB.
+Confirmação: As despesas de viagem no valor de R$ 3.200,00 venceram para conferência.
+Confirmação: As despesas de viagem no valor de R$ 5.400,00 foram emitidas pelo setor financeiro.
+Confirmação: As faturas atrasadas foram aprovadas para prestação de contas.
+Confirmação: As faturas atrasadas foram liberadas com sucesso.
+Confirmação: As faturas atrasadas foram quitadas pelo setor financeiro.
+Confirmação: As faturas atrasadas no valor de R$ 5.900,00 venceram pela controladoria.
+Confirmação: As faturas atrasadas no valor de R$ 9.500,00 estão pendentes com acréscimo de multa.
+Confirmação: As taxas judiciárias estão pendentes e enviado ao cliente.
+Confirmação: As taxas judiciárias foram aprovadas aguardando compensação.
+Confirmação: As taxas judiciárias foram aprovadas.
+Confirmação: As taxas judiciárias foram emitidas.
+Confirmação: As taxas judiciárias foram estornadas com acréscimo de multa.
+Confirmação: As taxas judiciárias foram estornadas conforme determinação judicial.
+Confirmação: As taxas judiciárias foram expedidas para prestação de contas.
+Confirmação: As taxas judiciárias no valor de R$ 2.900,00 foram aprovadas com vencimento para amanhã.
+Confirmação: As taxas judiciárias no valor de R$ 2.900,00 foram recebidas com sucesso.
+Confirmação: As taxas judiciárias no valor de R$ 8.600,00 foram estornadas para conferência.
+Confirmação: O DARF foi pago na conta do escritório.
+Confirmação: O DARF venceu.
+Confirmação: O DARJ foi retido com sucesso.
+Confirmação: O DARJ venceu.
+Confirmação: O acordo financeiro está pendente para dedução no IR.
+Confirmação: O acordo financeiro foi aprovado e baixado do sistema.
+Confirmação: O acordo financeiro foi retido.
+Confirmação: O adiantamento de despesas foi liberado.
+Confirmação: O adiantamento de despesas no valor de R$ 2.100,00 foi efetuado e o recibo foi arquivado.
+Confirmação: O adiantamento de despesas no valor de R$ 6.600,00 foi recolhido pelo setor financeiro.
+Confirmação: O adiantamento de despesas no valor de R$ 7.900,00 foi efetuado aguardando aprovação da diretoria.
+Confirmação: O alvará de levantamento no valor de R$ 14.500,00 foi transferido para prestação de contas.
+Confirmação: O alvará de levantamento no valor de R$ 8.500,00 foi recolhido sem incidência de juros.
+Confirmação: O bloqueio Sisbajud foi aprovado conforme tabela da OAB.
+Confirmação: O comprovante de PIX no valor de R$ 9.300,00 foi efetuado conforme tabela da OAB.
+Confirmação: O cálculo de liquidação no valor de R$ 10.100,00 foi expedido pelo setor financeiro.
+Confirmação: O cálculo de liquidação no valor de R$ 14.000,00 foi efetuado pelo setor financeiro.
+Confirmação: O depósito judicial foi aprovado com vencimento para amanhã.
+Confirmação: O pagamento das custas no valor de R$ 8.900,00 foi emitido conforme tabela da OAB.
+Confirmação: O pagamento do perito foi aprovado.
+Confirmação: O pagamento do perito foi retido.
+Confirmação: O pagamento do perito no valor de R$ 11.300,00 está pendente e enviado ao cliente.
+Confirmação: O pagamento do perito no valor de R$ 6.600,00 foi efetuado e o recibo foi arquivado.
+Confirmação: O precatório foi expedido.
+Confirmação: O precatório no valor de R$ 12.500,00 venceu com sucesso.
+Confirmação: O reembolso de diligência foi gerado para prestação de contas.
+Confirmação: O reembolso de diligência no valor de R$ 11.100,00 foi emitido aguardando compensação.
+Confirmação: O reembolso de diligência no valor de R$ 2.600,00 foi liberado conforme determinação judicial.
+Confirmação: O repasse ao cliente no valor de R$ 8.900,00 foi expedido e notificação enviada.
+Confirmação: Os cálculos periciais foram estornados na conta do escritório.
+Confirmação: Os cálculos periciais no valor de R$ 13.400,00 foram emitidos no portal do tribunal.
+Confirmação: Os depósitos recursais estão pendentes conforme tabela da OAB.
+Confirmação: Os depósitos recursais estão pendentes para conferência.
+Confirmação: Os depósitos recursais estão pendentes.
+Confirmação: Os depósitos recursais foram estornados aguardando compensação.
+Confirmação: Os depósitos recursais no valor de R$ 14.700,00 foram estornados e baixado do sistema.
+Confirmação: Os depósitos recursais no valor de R$ 6.100,00 foram estornados no sistema interno.
+Confirmação: Os depósitos recursais no valor de R$ 7.700,00 foram estornados e anexado aos autos.
+Confirmação: Os honorários contratuais foram estornados pela controladoria.
+Confirmação: Os honorários contratuais foram pagos com acréscimo de multa.
+Confirmação: Os honorários contratuais foram transferidos.
+Confirmação: Os honorários contratuais venceram.
+Confirmação: Os honorários de sucumbência estão pendentes.
+Confirmação: Os honorários de sucumbência no valor de R$ 10.900,00 estão pendentes sem incidência de juros.
+Confirmação: Os honorários de sucumbência no valor de R$ 12.700,00 foram pagos com sucesso.
+Confirmação: Os honorários de sucumbência no valor de R$ 13.700,00 venceram e o recibo foi arquivado.
+Confirmação: Os honorários de sucumbência venceram com vencimento para amanhã.
+Confirmação: Os juros de mora foram aprovados aguardando compensação.
+Confirmação: Os juros de mora foram quitados.
+Confirmação: Os juros de mora no valor de R$ 11.000,00 foram recebidos conforme determinação judicial.
+Confirmação: Os juros de mora no valor de R$ 14.900,00 venceram na conta do escritório.
+Confirmação: Os juros de mora no valor de R$ 8.900,00 foram aprovados pelo setor financeiro.
+Confirmação: Os valores bloqueados foram efetuados aguardando aprovação da diretoria.
+Confirmação: Os valores bloqueados no valor de R$ 2.000,00 foram recolhidos e enviado ao cliente.
+Faturamento: A GRU no valor de R$ 7.900,00 foi efetuada para dedução no IR.
+Faturamento: A RPV está pendente no sistema interno.
+Faturamento: A RPV está pendente para prestação de contas.
+Faturamento: A RPV no valor de R$ 5.300,00 venceu com vencimento para amanhã.
+Faturamento: A custa inicial venceu e o recibo foi arquivado.
+Faturamento: A despesa de cartório no valor de R$ 800,00 foi gerada para dedução no IR.
+Faturamento: A fatura mensal no valor de R$ 6.200,00 foi estornada aguardando compensação.
+Faturamento: A guia DARE foi paga no portal do tribunal.
+Faturamento: A guia DARE no valor de R$ 11.000,00 foi quitada aguardando compensação.
+Faturamento: A guia de custas foi estornada pelo setor financeiro.
+Faturamento: A nota fiscal no valor de R$ 11.200,00 foi recolhida para dedução no IR.
+Faturamento: A penhora online foi recebida.
+Faturamento: A penhora online no valor de R$ 1.100,00 foi recolhida sem incidência de juros.
+Faturamento: A penhora online no valor de R$ 1.500,00 está pendente aguardando aprovação da diretoria.
+Faturamento: A penhora online no valor de R$ 14.600,00 foi efetuada conforme determinação judicial.
+Faturamento: A penhora online venceu.
+Faturamento: A prestação de contas foi aprovada conforme determinação judicial.
+Faturamento: A prestação de contas foi efetuada para prestação de contas.
+Faturamento: A prestação de contas no valor de R$ 14.500,00 foi efetuada com vencimento para amanhã.
+Faturamento: A prestação de contas no valor de R$ 2.400,00 foi emitida conforme determinação judicial.
+Faturamento: A prestação de contas no valor de R$ 7.400,00 foi retida com acréscimo de multa.
+Faturamento: A retenção de imposto está pendente.
+Faturamento: A retenção de imposto foi aprovada conforme determinação judicial.
+Faturamento: A taxa de desarquivamento no valor de R$ 10.900,00 foi gerada sem incidência de juros.
+Faturamento: A taxa de desarquivamento no valor de R$ 13.300,00 foi expedida e baixado do sistema.
+Faturamento: As custas complementares estão pendentes.
+Faturamento: As custas complementares foram aprovadas e anexado aos autos.
+Faturamento: As custas complementares foram geradas para prestação de contas.
+Faturamento: As custas complementares foram quitadas pelo setor financeiro.
+Faturamento: As custas complementares no valor de R$ 3.000,00 foram emitidas com acréscimo de multa.
+Faturamento: As custas complementares no valor de R$ 4.300,00 foram expedidas e baixado do sistema.
+Faturamento: As custas complementares no valor de R$ 7.600,00 foram estornadas e anexado aos autos.
+Faturamento: As custas finais estão pendentes no portal do tribunal.
+Faturamento: As custas finais foram liberadas.
+Faturamento: As custas finais foram pagas com vencimento para amanhã.
+Faturamento: As custas finais no valor de R$ 10.100,00 foram geradas conforme tabela da OAB.
+Faturamento: As custas finais no valor de R$ 12.600,00 venceram conforme tabela da OAB.
+Faturamento: As custas processuais estão pendentes com acréscimo de multa.
+Faturamento: As custas processuais estão pendentes.
+Faturamento: As custas processuais foram emitidas conforme tabela da OAB.
+Faturamento: As custas processuais foram expedidas e anexado aos autos.
+Faturamento: As custas processuais foram geradas.
+Faturamento: As custas processuais foram liberadas e notificação enviada.
+Faturamento: As custas processuais no valor de R$ 13.100,00 foram emitidas no portal do tribunal.
+Faturamento: As custas processuais no valor de R$ 15.000,00 estão pendentes para dedução no IR.
+Faturamento: As despesas de viagem foram geradas.
+Faturamento: As despesas de viagem no valor de R$ 9.500,00 foram liberadas no portal do tribunal.
+Faturamento: As faturas atrasadas foram liberadas.
+Faturamento: As faturas atrasadas no valor de R$ 1.700,00 foram recolhidas no portal do tribunal.
+Faturamento: As faturas atrasadas no valor de R$ 11.700,00 foram recolhidas pela controladoria.
+Faturamento: As faturas atrasadas no valor de R$ 11.700,00 foram transferidas sem incidência de juros.
+Faturamento: As faturas atrasadas no valor de R$ 13.100,00 foram recebidas e o recibo foi arquivado.
+Faturamento: As faturas atrasadas no valor de R$ 3.700,00 foram aprovadas sem incidência de juros.
+Faturamento: As taxas judiciárias no valor de R$ 12.700,00 foram pagas sem incidência de juros.
+Faturamento: As taxas judiciárias no valor de R$ 3.800,00 foram pagas pelo setor financeiro.
+Faturamento: As taxas judiciárias no valor de R$ 9.400,00 estão pendentes para conferência.
+Faturamento: As taxas judiciárias venceram e enviado ao cliente.
+Faturamento: O DARF no valor de R$ 12.900,00 foi emitido e o recibo foi arquivado.
+Faturamento: O DARJ no valor de R$ 1.300,00 foi recolhido no sistema interno.
+Faturamento: O adiantamento de despesas foi efetuado e baixado do sistema.
+Faturamento: O adiantamento de despesas foi gerado pela controladoria.
+Faturamento: O adiantamento de despesas no valor de R$ 13.600,00 foi expedido e baixado do sistema.
+Faturamento: O alvará de levantamento foi quitado pela controladoria.
+Faturamento: O alvará de levantamento no valor de R$ 3.500,00 foi aprovado na conta do escritório.
+Faturamento: O bloqueio Sisbajud está pendente.
+Faturamento: O bloqueio Sisbajud foi aprovado na conta do escritório.
+Faturamento: O bloqueio Sisbajud foi quitado.
+Faturamento: O comprovante de PIX foi expedido e o recibo foi arquivado.
+Faturamento: O depósito judicial foi expedido conforme tabela da OAB.
+Faturamento: O depósito recursal foi recolhido.
+Faturamento: O depósito recursal foi transferido pelo setor financeiro.
+Faturamento: O depósito recursal venceu e o recibo foi arquivado.
+Faturamento: O pagamento das custas foi retido para dedução no IR.
+Faturamento: O pagamento do perito foi liberado para conferência.
+Faturamento: O pagamento do perito foi quitado aguardando compensação.
+Faturamento: O pagamento do perito no valor de R$ 12.500,00 foi gerado para prestação de contas.
+Faturamento: O precatório no valor de R$ 6.400,00 foi estornado e baixado do sistema.
+Faturamento: O reembolso de diligência no valor de R$ 14.200,00 foi emitido para prestação de contas.
+Faturamento: O repasse ao cliente foi recebido para dedução no IR.
+Faturamento: O repasse ao cliente no valor de R$ 100,00 foi recolhido com acréscimo de multa.
+Faturamento: Os cálculos periciais foram aprovados.
+Faturamento: Os cálculos periciais foram quitados no sistema interno.
+Faturamento: Os cálculos periciais no valor de R$ 3.500,00 foram recolhidos conforme determinação judicial.
+Faturamento: Os cálculos periciais no valor de R$ 6.800,00 foram liberados aguardando compensação.
+Faturamento: Os cálculos periciais no valor de R$ 8.600,00 foram pagos para prestação de contas.
+Faturamento: Os cálculos periciais no valor de R$ 9.500,00 foram emitidos para dedução no IR.
+Faturamento: Os depósitos recursais foram quitados no portal do tribunal.
+Faturamento: Os depósitos recursais no valor de R$ 6.000,00 foram recolhidos e enviado ao cliente.
+Faturamento: Os depósitos recursais no valor de R$ 7.500,00 foram estornados e enviado ao cliente.
+Faturamento: Os depósitos recursais no valor de R$ 7.900,00 foram liberados para dedução no IR.
+Faturamento: Os depósitos recursais venceram na conta do escritório.
+Faturamento: Os honorários contratuais foram emitidos.
+Faturamento: Os honorários contratuais foram expedidos com acréscimo de multa.
+Faturamento: Os honorários contratuais foram quitados e notificação enviada.
+Faturamento: Os honorários contratuais foram recolhidos com vencimento para amanhã.
+Faturamento: Os honorários contratuais foram recolhidos e o recibo foi arquivado.
+Faturamento: Os honorários contratuais foram recolhidos para prestação de contas.
+Faturamento: Os honorários contratuais no valor de R$ 13.900,00 foram quitados para dedução no IR.
+Faturamento: Os honorários contratuais no valor de R$ 9.100,00 foram aprovados e enviado ao cliente.
+Faturamento: Os honorários contratuais venceram pelo setor financeiro.
+Faturamento: Os honorários de sucumbência foram expedidos no portal do tribunal.
+Faturamento: Os honorários de sucumbência foram gerados na conta do escritório.
+Faturamento: Os honorários de sucumbência no valor de R$ 10.400,00 foram emitidos na conta do escritório.
+Faturamento: Os honorários de sucumbência no valor de R$ 100,00 foram transferidos pela controladoria.
+Faturamento: Os honorários de sucumbência no valor de R$ 7.300,00 foram quitados aguardando aprovação da diretoria.
+Faturamento: Os juros de mora foram expedidos na conta do escritório.
+Faturamento: Os juros de mora foram expedidos para dedução no IR.
+Faturamento: Os juros de mora no valor de R$ 14.600,00 foram recebidos com vencimento para amanhã.
+Faturamento: Os valores bloqueados foram pagos.
+Faturamento: Os valores bloqueados foram quitados aguardando compensação.
+Faturamento: Os valores bloqueados foram recebidos pela controladoria.
+Faturamento: Os valores bloqueados no valor de R$ 6.600,00 foram estornados no portal do tribunal.
+Lembrete de cobrança: A GRU foi recolhida.
+Lembrete de cobrança: A RPV foi emitida na conta do escritório.
+Lembrete de cobrança: A RPV foi emitida no portal do tribunal.
+Lembrete de cobrança: A RPV foi paga.
+Lembrete de cobrança: A custa inicial foi estornada no sistema interno.
+Lembrete de cobrança: A custa inicial no valor de R$ 11.400,00 foi expedida e enviado ao cliente.
+Lembrete de cobrança: A custa inicial no valor de R$ 14.700,00 foi retida para prestação de contas.
+Lembrete de cobrança: A despesa de cartório foi gerada no portal do tribunal.
+Lembrete de cobrança: A despesa de cartório foi transferida.
+Lembrete de cobrança: A despesa de cartório no valor de R$ 10.600,00 foi recolhida aguardando aprovação da diretoria.
+Lembrete de cobrança: A despesa de cartório no valor de R$ 8.900,00 foi liberada e o recibo foi arquivado.
+Lembrete de cobrança: A despesa de cartório no valor de R$ 900,00 foi recebida pela controladoria.
+Lembrete de cobrança: A fatura mensal foi efetuada para prestação de contas.
+Lembrete de cobrança: A guia DARE está pendente e anexado aos autos.
+Lembrete de cobrança: A guia DARE no valor de R$ 15.000,00 foi gerada para prestação de contas.
+Lembrete de cobrança: A guia de custas foi transferida.
+Lembrete de cobrança: A guia de custas no valor de R$ 2.500,00 foi gerada para conferência.
+Lembrete de cobrança: A penhora online está pendente para prestação de contas.
+Lembrete de cobrança: A penhora online no valor de R$ 1.000,00 foi estornada com acréscimo de multa.
+Lembrete de cobrança: A penhora online no valor de R$ 13.700,00 foi liberada com acréscimo de multa.
+Lembrete de cobrança: A penhora online no valor de R$ 400,00 foi gerada no sistema interno.
+Lembrete de cobrança: A prestação de contas foi aprovada.
+Lembrete de cobrança: A prestação de contas foi expedida.
+Lembrete de cobrança: A prestação de contas foi gerada.
+Lembrete de cobrança: A retenção de imposto foi efetuada para prestação de contas.
+Lembrete de cobrança: A retenção de imposto foi emitida.
+Lembrete de cobrança: A retenção de imposto foi paga.
+Lembrete de cobrança: A taxa de desarquivamento foi quitada no sistema interno.
+Lembrete de cobrança: A taxa de desarquivamento no valor de R$ 2.100,00 foi aprovada e o recibo foi arquivado.
+Lembrete de cobrança: As custas complementares foram efetuadas.
+Lembrete de cobrança: As custas complementares foram emitidas.
+Lembrete de cobrança: As custas complementares foram recebidas para conferência.
+Lembrete de cobrança: As custas complementares no valor de R$ 13.600,00 foram recebidas conforme determinação judicial.
+Lembrete de cobrança: As custas complementares no valor de R$ 14.000,00 foram estornadas com sucesso.
+Lembrete de cobrança: As custas complementares no valor de R$ 14.500,00 foram recebidas sem incidência de juros.
+Lembrete de cobrança: As custas complementares no valor de R$ 2.100,00 foram efetuadas com vencimento para amanhã.
+Lembrete de cobrança: As custas complementares no valor de R$ 7.000,00 foram recebidas sem incidência de juros.
+Lembrete de cobrança: As custas finais foram estornadas aguardando aprovação da diretoria.
+Lembrete de cobrança: As custas finais foram expedidas e anexado aos autos.
+Lembrete de cobrança: As custas finais foram recolhidas conforme tabela da OAB.
+Lembrete de cobrança: As custas finais foram transferidas no portal do tribunal.
+Lembrete de cobrança: As custas processuais foram recebidas e o recibo foi arquivado.
+Lembrete de cobrança: As custas processuais no valor de R$ 6.200,00 foram quitadas na conta do escritório.
+Lembrete de cobrança: As custas processuais no valor de R$ 6.200,00 foram recebidas conforme tabela da OAB.
+Lembrete de cobrança: As custas processuais no valor de R$ 9.500,00 foram efetuadas com acréscimo de multa.
+Lembrete de cobrança: As despesas de viagem foram aprovadas com sucesso.
+Lembrete de cobrança: As despesas de viagem foram efetuadas.
+Lembrete de cobrança: As despesas de viagem foram liberadas aguardando compensação.
+Lembrete de cobrança: As despesas de viagem foram liberadas.
+Lembrete de cobrança: As despesas de viagem no valor de R$ 11.400,00 foram expedidas para conferência.
+Lembrete de cobrança: As despesas de viagem no valor de R$ 11.800,00 foram expedidas para prestação de contas.
+Lembrete de cobrança: As despesas de viagem no valor de R$ 11.900,00 foram quitadas com sucesso.
+Lembrete de cobrança: As despesas de viagem no valor de R$ 12.500,00 foram pagas para conferência.
+Lembrete de cobrança: As faturas atrasadas foram recolhidas aguardando aprovação da diretoria.
+Lembrete de cobrança: As faturas atrasadas venceram e enviado ao cliente.
+Lembrete de cobrança: As taxas judiciárias foram pagas na conta do escritório.
+Lembrete de cobrança: As taxas judiciárias foram quitadas aguardando compensação.
+Lembrete de cobrança: As taxas judiciárias foram recebidas para prestação de contas.
+Lembrete de cobrança: As taxas judiciárias no valor de R$ 1.300,00 foram liberadas e o recibo foi arquivado.
+Lembrete de cobrança: As taxas judiciárias no valor de R$ 12.800,00 foram recolhidas conforme tabela da OAB.
+Lembrete de cobrança: As taxas judiciárias no valor de R$ 13.700,00 foram expedidas no sistema interno.
+Lembrete de cobrança: As taxas judiciárias no valor de R$ 2.300,00 foram aprovadas no portal do tribunal.
+Lembrete de cobrança: As taxas judiciárias no valor de R$ 3.000,00 foram efetuadas pelo setor financeiro.
+Lembrete de cobrança: O DARF está pendente no portal do tribunal.
+Lembrete de cobrança: O DARF foi expedido.
+Lembrete de cobrança: O DARF foi quitado na conta do escritório.
+Lembrete de cobrança: O DARF no valor de R$ 14.500,00 foi quitado e notificação enviada.
+Lembrete de cobrança: O DARJ no valor de R$ 10.200,00 foi aprovado sem incidência de juros.
+Lembrete de cobrança: O acordo financeiro foi recebido.
+Lembrete de cobrança: O acordo financeiro no valor de R$ 5.800,00 foi quitado para prestação de contas.
+Lembrete de cobrança: O adiantamento de despesas foi recebido conforme tabela da OAB.
+Lembrete de cobrança: O adiantamento de despesas no valor de R$ 5.200,00 foi aprovado pelo setor financeiro.
+Lembrete de cobrança: O boleto de honorários no valor de R$ 11.800,00 foi gerado com acréscimo de multa.
+Lembrete de cobrança: O boleto de honorários no valor de R$ 7.600,00 foi retido no portal do tribunal.
+Lembrete de cobrança: O boleto de honorários no valor de R$ 9.300,00 foi transferido conforme tabela da OAB.
+Lembrete de cobrança: O comprovante de PIX foi recolhido para conferência.
+Lembrete de cobrança: O comprovante de PIX venceu conforme determinação judicial.
+Lembrete de cobrança: O cálculo de liquidação foi efetuado e baixado do sistema.
+Lembrete de cobrança: O cálculo de liquidação foi quitado com sucesso.
+Lembrete de cobrança: O cálculo de liquidação no valor de R$ 1.200,00 foi expedido aguardando aprovação da diretoria.
+Lembrete de cobrança: O cálculo de liquidação no valor de R$ 9.100,00 foi quitado aguardando compensação.
+Lembrete de cobrança: O depósito judicial no valor de R$ 1.300,00 foi gerado com vencimento para amanhã.
+Lembrete de cobrança: O depósito recursal foi recolhido para dedução no IR.
+Lembrete de cobrança: O depósito recursal no valor de R$ 2.500,00 venceu e anexado aos autos.
+Lembrete de cobrança: O depósito recursal no valor de R$ 3.900,00 foi estornado e o recibo foi arquivado.
+Lembrete de cobrança: O pagamento das custas está pendente.
+Lembrete de cobrança: O pagamento das custas foi recolhido para prestação de contas.
+Lembrete de cobrança: O pagamento do perito foi aprovado aguardando aprovação da diretoria.
+Lembrete de cobrança: O pagamento do perito foi recebido e baixado do sistema.
+Lembrete de cobrança: O pagamento do perito foi recolhido.
+Lembrete de cobrança: O precatório foi quitado para dedução no IR.
+Lembrete de cobrança: O precatório foi quitado pelo setor financeiro.
+Lembrete de cobrança: O precatório no valor de R$ 900,00 venceu com vencimento para amanhã.
+Lembrete de cobrança: O reembolso de diligência foi emitido na conta do escritório.
+Lembrete de cobrança: O reembolso de diligência no valor de R$ 3.900,00 foi pago na conta do escritório.
+Lembrete de cobrança: O repasse ao cliente foi expedido.
+Lembrete de cobrança: O repasse ao cliente foi recolhido na conta do escritório.
+Lembrete de cobrança: Os cálculos periciais foram aprovados com acréscimo de multa.
+Lembrete de cobrança: Os cálculos periciais foram pagos para prestação de contas.
+Lembrete de cobrança: Os cálculos periciais no valor de R$ 13.800,00 foram emitidos no portal do tribunal.
+Lembrete de cobrança: Os cálculos periciais no valor de R$ 2.800,00 foram efetuados para conferência.
+Lembrete de cobrança: Os cálculos periciais no valor de R$ 5.600,00 foram gerados sem incidência de juros.
+Lembrete de cobrança: Os depósitos recursais estão pendentes com acréscimo de multa.
+Lembrete de cobrança: Os depósitos recursais foram gerados para prestação de contas.
+Lembrete de cobrança: Os depósitos recursais foram quitados e notificação enviada.
+Lembrete de cobrança: Os depósitos recursais no valor de R$ 6.400,00 foram liberados no portal do tribunal.
+Lembrete de cobrança: Os honorários contratuais foram aprovados e anexado aos autos.
+Lembrete de cobrança: Os honorários contratuais foram recolhidos conforme determinação judicial.
+Lembrete de cobrança: Os honorários contratuais no valor de R$ 1.600,00 foram aprovados conforme determinação judicial.
+Lembrete de cobrança: Os honorários contratuais no valor de R$ 13.400,00 estão pendentes e anexado aos autos.
+Lembrete de cobrança: Os honorários de sucumbência foram aprovados para conferência.
+Lembrete de cobrança: Os honorários de sucumbência foram efetuados sem incidência de juros.
+Lembrete de cobrança: Os honorários de sucumbência foram emitidos.
+Lembrete de cobrança: Os honorários de sucumbência foram liberados.
+Lembrete de cobrança: Os honorários de sucumbência foram pagos.
+Lembrete de cobrança: Os honorários de sucumbência no valor de R$ 3.800,00 foram expedidos e anexado aos autos.
+Lembrete de cobrança: Os honorários de sucumbência no valor de R$ 4.800,00 foram pagos no sistema interno.
+Lembrete de cobrança: Os honorários de sucumbência no valor de R$ 9.700,00 foram quitados para dedução no IR.
+Lembrete de cobrança: Os juros de mora foram liberados.
+Lembrete de cobrança: Os juros de mora foram recebidos com acréscimo de multa.
+Lembrete de cobrança: Os juros de mora foram transferidos pela controladoria.
+Lembrete de cobrança: Os juros de mora no valor de R$ 14.200,00 estão pendentes aguardando compensação.
+Lembrete de cobrança: Os juros de mora venceram com sucesso.
+Lembrete de cobrança: Os valores bloqueados foram efetuados.
+Lembrete de cobrança: Os valores bloqueados foram expedidos e anexado aos autos.
+Lembrete de cobrança: Os valores bloqueados foram recebidos para conferência.
+O acordo financeiro foi aprovado no portal do tribunal.
+O acordo financeiro foi recolhido sem incidência de juros.
+O adiantamento de despesas no valor de R$ 3.500,00 foi pago pela controladoria.
+O bloqueio Sisbajud no valor de R$ 8.300,00 foi transferido sem incidência de juros.
+O boleto de honorários foi gerado com acréscimo de multa.
+O comprovante de PIX está pendente aguardando aprovação da diretoria.
+O comprovante de PIX foi estornado para conferência.
+O comprovante de PIX foi liberado com vencimento para amanhã.
+O comprovante de PIX no valor de R$ 13.700,00 foi liberado para prestação de contas.
+O cálculo de liquidação foi aprovado.
+O pagamento das custas no valor de R$ 8.000,00 foi emitido e baixado do sistema.
+O pagamento do perito no valor de R$ 2.600,00 foi transferido conforme determinação judicial.
+O reembolso de diligência foi emitido aguardando aprovação da diretoria.
+O repasse ao cliente no valor de R$ 4.300,00 foi pago para dedução no IR.
+O repasse ao cliente venceu conforme determinação judicial.
+Os cálculos periciais foram emitidos pelo setor financeiro.
+Os cálculos periciais foram gerados.
+Os cálculos periciais no valor de R$ 12.700,00 foram recolhidos para dedução no IR.
+Os cálculos periciais no valor de R$ 13.400,00 foram estornados aguardando compensação.
+Os cálculos periciais no valor de R$ 8.200,00 foram expedidos no sistema interno.
+Os depósitos recursais estão pendentes e notificação enviada.
+Os depósitos recursais foram emitidos.
+Os depósitos recursais no valor de R$ 4.500,00 foram estornados para dedução no IR.
+Os honorários contratuais foram recebidos.
+Os honorários contratuais foram recolhidos.
+Os honorários contratuais no valor de R$ 5.400,00 foram pagos com acréscimo de multa.
+Os honorários de sucumbência foram quitados no portal do tribunal.
+Os juros de mora foram aprovados aguardando aprovação da diretoria.
+Os juros de mora foram aprovados na conta do escritório.
+Os juros de mora foram gerados pela controladoria.
+Os juros de mora foram pagos com vencimento para amanhã.
+Os juros de mora no valor de R$ 10.500,00 foram aprovados e baixado do sistema.
+Os juros de mora no valor de R$ 14.200,00 venceram e enviado ao cliente.
+Os juros de mora no valor de R$ 3.300,00 foram pagos com acréscimo de multa.
+Os juros de mora no valor de R$ 9.500,00 foram efetuados e anexado aos autos.
+Os valores bloqueados foram aprovados.
+Os valores bloqueados foram estornados e notificação enviada.
+Os valores bloqueados foram quitados.
+Os valores bloqueados no valor de R$ 600,00 estão pendentes para prestação de contas.
+Os valores bloqueados no valor de R$ 9.400,00 foram recebidos e anexado aos autos.
+Pagamento pendente: A GRU foi aprovada e baixado do sistema.
+Pagamento pendente: A GRU foi estornada para dedução no IR.
+Pagamento pendente: A GRU foi recebida com acréscimo de multa.
+Pagamento pendente: A GRU no valor de R$ 8.400,00 foi recebida e o recibo foi arquivado.
+Pagamento pendente: A custa inicial foi aprovada.
+Pagamento pendente: A custa inicial foi gerada e anexado aos autos.
+Pagamento pendente: A despesa de cartório foi recolhida.
+Pagamento pendente: A despesa de cartório no valor de R$ 9.100,00 está pendente e o recibo foi arquivado.
+Pagamento pendente: A despesa de cartório venceu e notificação enviada.
+Pagamento pendente: A fatura mensal foi aprovada e enviado ao cliente.
+Pagamento pendente: A fatura mensal foi estornada.
+Pagamento pendente: A fatura mensal no valor de R$ 600,00 foi aprovada para prestação de contas.
+Pagamento pendente: A fatura mensal venceu pelo setor financeiro.
+Pagamento pendente: A guia DARE foi efetuada.
+Pagamento pendente: A guia DARE foi expedida para prestação de contas.
+Pagamento pendente: A guia DARE foi liberada.
+Pagamento pendente: A guia DARE foi transferida.
+Pagamento pendente: A guia de custas foi aprovada e o recibo foi arquivado.
+Pagamento pendente: A guia de custas foi efetuada.
+Pagamento pendente: A nota fiscal foi paga pelo setor financeiro.
+Pagamento pendente: A nota fiscal foi quitada e anexado aos autos.
+Pagamento pendente: A nota fiscal no valor de R$ 6.900,00 foi recolhida no portal do tribunal.
+Pagamento pendente: A penhora online foi gerada no sistema interno.
+Pagamento pendente: A penhora online no valor de R$ 14.900,00 foi aprovada e enviado ao cliente.
+Pagamento pendente: A penhora online no valor de R$ 2.800,00 foi liberada aguardando compensação.
+Pagamento pendente: A prestação de contas foi efetuada conforme tabela da OAB.
+Pagamento pendente: A prestação de contas foi retida no sistema interno.
+Pagamento pendente: A prestação de contas no valor de R$ 1.100,00 foi gerada e baixado do sistema.
+Pagamento pendente: A prestação de contas no valor de R$ 8.900,00 foi quitada com acréscimo de multa.
+Pagamento pendente: A prestação de contas venceu no sistema interno.
+Pagamento pendente: A retenção de imposto foi efetuada.
+Pagamento pendente: A taxa de desarquivamento foi recolhida aguardando aprovação da diretoria.
+Pagamento pendente: A taxa de desarquivamento no valor de R$ 8.900,00 foi emitida na conta do escritório.
+Pagamento pendente: As custas complementares no valor de R$ 10.800,00 foram expedidas na conta do escritório.
+Pagamento pendente: As custas finais foram aprovadas.
+Pagamento pendente: As custas finais foram pagas pela controladoria.
+Pagamento pendente: As custas finais no valor de R$ 9.700,00 foram estornadas sem incidência de juros.
+Pagamento pendente: As custas processuais estão pendentes e o recibo foi arquivado.
+Pagamento pendente: As custas processuais foram aprovadas na conta do escritório.
+Pagamento pendente: As custas processuais foram quitadas.
+Pagamento pendente: As custas processuais no valor de R$ 4.000,00 foram expedidas e o recibo foi arquivado.
+Pagamento pendente: As custas processuais no valor de R$ 5.300,00 foram recolhidas e enviado ao cliente.
+Pagamento pendente: As despesas de viagem estão pendentes pelo setor financeiro.
+Pagamento pendente: As despesas de viagem foram liberadas.
+Pagamento pendente: As despesas de viagem no valor de R$ 8.100,00 foram aprovadas e o recibo foi arquivado.
+Pagamento pendente: As despesas de viagem no valor de R$ 9.100,00 foram estornadas no sistema interno.
+Pagamento pendente: As faturas atrasadas no valor de R$ 1.200,00 foram quitadas para dedução no IR.
+Pagamento pendente: As faturas atrasadas no valor de R$ 10.200,00 foram recebidas com vencimento para amanhã.
+Pagamento pendente: As faturas atrasadas no valor de R$ 14.000,00 foram expedidas para conferência.
+Pagamento pendente: As faturas atrasadas no valor de R$ 200,00 foram geradas aguardando compensação.
+Pagamento pendente: As taxas judiciárias estão pendentes e notificação enviada.
+Pagamento pendente: As taxas judiciárias foram efetuadas.
+Pagamento pendente: As taxas judiciárias foram expedidas.
+Pagamento pendente: As taxas judiciárias foram quitadas.
+Pagamento pendente: As taxas judiciárias foram recolhidas com acréscimo de multa.
+Pagamento pendente: As taxas judiciárias foram transferidas.
+Pagamento pendente: As taxas judiciárias no valor de R$ 11.200,00 foram recolhidas e enviado ao cliente.
+Pagamento pendente: As taxas judiciárias no valor de R$ 5.200,00 foram estornadas pela controladoria.
+Pagamento pendente: As taxas judiciárias no valor de R$ 7.900,00 foram efetuadas e anexado aos autos.
+Pagamento pendente: As taxas judiciárias no valor de R$ 9.400,00 venceram no sistema interno.
+Pagamento pendente: O DARF foi quitado.
+Pagamento pendente: O DARF foi transferido pelo setor financeiro.
+Pagamento pendente: O DARF no valor de R$ 5.400,00 foi expedido com sucesso.
+Pagamento pendente: O DARJ no valor de R$ 1.600,00 foi recolhido e enviado ao cliente.
+Pagamento pendente: O DARJ no valor de R$ 4.100,00 venceu sem incidência de juros.
+Pagamento pendente: O acordo financeiro foi expedido.
+Pagamento pendente: O acordo financeiro no valor de R$ 5.200,00 foi liberado aguardando aprovação da diretoria.
+Pagamento pendente: O alvará de levantamento foi estornado.
+Pagamento pendente: O alvará de levantamento no valor de R$ 7.800,00 foi aprovado e notificação enviada.
+Pagamento pendente: O bloqueio Sisbajud foi estornado.
+Pagamento pendente: O bloqueio Sisbajud foi pago.
+Pagamento pendente: O comprovante de PIX foi expedido.
+Pagamento pendente: O comprovante de PIX foi quitado no portal do tribunal.
+Pagamento pendente: O comprovante de PIX foi retido.
+Pagamento pendente: O comprovante de PIX no valor de R$ 12.400,00 foi aprovado pelo setor financeiro.
+Pagamento pendente: O comprovante de PIX no valor de R$ 6.000,00 foi aprovado pelo setor financeiro.
+Pagamento pendente: O depósito judicial foi retido aguardando compensação.
+Pagamento pendente: O depósito recursal foi recebido pelo setor financeiro.
+Pagamento pendente: O pagamento das custas foi efetuado.
+Pagamento pendente: O pagamento das custas foi estornado com sucesso.
+Pagamento pendente: O pagamento do perito foi aprovado com sucesso.
+Pagamento pendente: O pagamento do perito no valor de R$ 2.300,00 venceu e baixado do sistema.
+Pagamento pendente: O pagamento do perito no valor de R$ 5.000,00 foi pago aguardando aprovação da diretoria.
+Pagamento pendente: O pagamento do perito no valor de R$ 6.700,00 foi recebido com sucesso.
+Pagamento pendente: O reembolso de diligência foi liberado.
+Pagamento pendente: O reembolso de diligência no valor de R$ 11.100,00 foi liberado com vencimento para amanhã.
+Pagamento pendente: O repasse ao cliente foi recebido para dedução no IR.
+Pagamento pendente: O repasse ao cliente no valor de R$ 12.300,00 foi recebido pelo setor financeiro.
+Pagamento pendente: O repasse ao cliente no valor de R$ 13.800,00 foi gerado aguardando compensação.
+Pagamento pendente: Os depósitos recursais foram estornados.
+Pagamento pendente: Os depósitos recursais foram quitados aguardando aprovação da diretoria.
+Pagamento pendente: Os depósitos recursais foram recebidos com sucesso.
+Pagamento pendente: Os depósitos recursais foram recolhidos no sistema interno.
+Pagamento pendente: Os depósitos recursais no valor de R$ 10.700,00 foram expedidos com vencimento para amanhã.
+Pagamento pendente: Os depósitos recursais no valor de R$ 2.300,00 foram expedidos e o recibo foi arquivado.
+Pagamento pendente: Os depósitos recursais no valor de R$ 5.400,00 foram pagos sem incidência de juros.
+Pagamento pendente: Os honorários contratuais foram efetuados na conta do escritório.
+Pagamento pendente: Os honorários contratuais foram gerados e enviado ao cliente.
+Pagamento pendente: Os honorários contratuais foram transferidos aguardando compensação.
+Pagamento pendente: Os honorários contratuais no valor de R$ 3.700,00 foram expedidos com vencimento para amanhã.
+Pagamento pendente: Os honorários contratuais venceram e baixado do sistema.
+Pagamento pendente: Os honorários de sucumbência no valor de R$ 3.900,00 foram efetuados na conta do escritório.
+Pagamento pendente: Os juros de mora foram aprovados com acréscimo de multa.
+Pagamento pendente: Os juros de mora foram emitidos conforme tabela da OAB.
+Pagamento pendente: Os juros de mora foram recebidos.
+Pagamento pendente: Os juros de mora no valor de R$ 10.700,00 foram emitidos pela controladoria.
+Pagamento pendente: Os valores bloqueados foram efetuados com acréscimo de multa.
+Pagamento pendente: Os valores bloqueados foram emitidos para prestação de contas.
+Pagamento pendente: Os valores bloqueados no valor de R$ 11.400,00 venceram e o recibo foi arquivado.
+Status financeiro: A GRU foi emitida.
+Status financeiro: A GRU foi estornada na conta do escritório.
+Status financeiro: A GRU foi estornada.
+Status financeiro: A custa inicial foi retida na conta do escritório.
+Status financeiro: A custa inicial no valor de R$ 13.100,00 foi paga pelo setor financeiro.
+Status financeiro: A custa inicial no valor de R$ 9.300,00 foi emitida e notificação enviada.
+Status financeiro: A fatura mensal foi estornada.
+Status financeiro: A fatura mensal foi gerada conforme tabela da OAB.
+Status financeiro: A fatura mensal no valor de R$ 5.600,00 foi emitida no portal do tribunal.
+Status financeiro: A nota fiscal foi estornada.
+Status financeiro: A nota fiscal foi retida pelo setor financeiro.
+Status financeiro: A penhora online no valor de R$ 10.700,00 foi paga na conta do escritório.
+Status financeiro: A prestação de contas foi retida e enviado ao cliente.
+Status financeiro: A retenção de imposto foi expedida.
+Status financeiro: A retenção de imposto foi gerada e enviado ao cliente.
+Status financeiro: A retenção de imposto foi recebida.
+Status financeiro: A retenção de imposto venceu.
+Status financeiro: A taxa de desarquivamento no valor de R$ 1.100,00 venceu para dedução no IR.
+Status financeiro: A taxa de desarquivamento no valor de R$ 10.500,00 foi efetuada e anexado aos autos.
+Status financeiro: A taxa de desarquivamento no valor de R$ 5.600,00 foi transferida para prestação de contas.
+Status financeiro: As custas complementares foram aprovadas para conferência.
+Status financeiro: As custas complementares foram recebidas com vencimento para amanhã.
+Status financeiro: As custas complementares foram recolhidas sem incidência de juros.
+Status financeiro: As custas complementares no valor de R$ 12.500,00 foram recolhidas aguardando compensação.
+Status financeiro: As custas complementares no valor de R$ 3.000,00 foram transferidas no sistema interno.
+Status financeiro: As custas finais foram estornadas e notificação enviada.
+Status financeiro: As custas finais foram transferidas pela controladoria.
+Status financeiro: As custas finais no valor de R$ 12.300,00 foram efetuadas pela controladoria.
+Status financeiro: As custas finais no valor de R$ 13.400,00 foram recolhidas e notificação enviada.
+Status financeiro: As custas finais no valor de R$ 8.500,00 foram efetuadas pela controladoria.
+Status financeiro: As custas processuais foram emitidas conforme tabela da OAB.
+Status financeiro: As custas processuais no valor de R$ 14.800,00 foram expedidas na conta do escritório.
+Status financeiro: As despesas de viagem foram aprovadas com sucesso.
+Status financeiro: As despesas de viagem foram transferidas aguardando compensação.
+Status financeiro: As faturas atrasadas foram expedidas aguardando aprovação da diretoria.
+Status financeiro: As faturas atrasadas foram recebidas.
+Status financeiro: As faturas atrasadas no valor de R$ 14.700,00 foram geradas sem incidência de juros.
+Status financeiro: As faturas atrasadas no valor de R$ 14.700,00 foram quitadas para prestação de contas.
+Status financeiro: As faturas atrasadas venceram no sistema interno.
+Status financeiro: As taxas judiciárias foram pagas.
+Status financeiro: As taxas judiciárias no valor de R$ 13.000,00 foram liberadas e anexado aos autos.
+Status financeiro: As taxas judiciárias venceram na conta do escritório.
+Status financeiro: O DARF foi quitado.
+Status financeiro: O DARF foi retido e o recibo foi arquivado.
+Status financeiro: O DARF no valor de R$ 13.100,00 foi emitido conforme determinação judicial.
+Status financeiro: O DARJ foi gerado com vencimento para amanhã.
+Status financeiro: O DARJ foi recolhido no sistema interno.
+Status financeiro: O DARJ no valor de R$ 9.500,00 foi liberado e baixado do sistema.
+Status financeiro: O acordo financeiro foi aprovado e notificação enviada.
+Status financeiro: O acordo financeiro foi gerado e anexado aos autos.
+Status financeiro: O acordo financeiro foi liberado.
+Status financeiro: O acordo financeiro no valor de R$ 11.700,00 está pendente para conferência.
+Status financeiro: O acordo financeiro no valor de R$ 300,00 está pendente e notificação enviada.
+Status financeiro: O adiantamento de despesas foi estornado aguardando compensação.
+Status financeiro: O adiantamento de despesas foi transferido com sucesso.
+Status financeiro: O adiantamento de despesas no valor de R$ 5.200,00 foi estornado conforme tabela da OAB.
+Status financeiro: O adiantamento de despesas no valor de R$ 6.900,00 foi quitado e enviado ao cliente.
+Status financeiro: O alvará de levantamento foi aprovado para conferência.
+Status financeiro: O bloqueio Sisbajud foi emitido pela controladoria.
+Status financeiro: O bloqueio Sisbajud no valor de R$ 8.300,00 foi emitido pela controladoria.
+Status financeiro: O boleto de honorários foi liberado e enviado ao cliente.
+Status financeiro: O comprovante de PIX foi aprovado para prestação de contas.
+Status financeiro: O cálculo de liquidação no valor de R$ 7.600,00 foi quitado com acréscimo de multa.
+Status financeiro: O depósito judicial foi liberado e o recibo foi arquivado.
+Status financeiro: O depósito judicial foi transferido pela controladoria.
+Status financeiro: O depósito judicial no valor de R$ 13.100,00 foi estornado na conta do escritório.
+Status financeiro: O depósito recursal foi emitido.
+Status financeiro: O depósito recursal foi estornado.
+Status financeiro: O pagamento das custas foi emitido para prestação de contas.
+Status financeiro: O pagamento das custas no valor de R$ 12.100,00 foi recolhido no portal do tribunal.
+Status financeiro: O pagamento do perito no valor de R$ 11.300,00 foi pago com vencimento para amanhã.
+Status financeiro: O pagamento do perito no valor de R$ 11.800,00 foi retido conforme tabela da OAB.
+Status financeiro: O precatório foi pago para conferência.
+Status financeiro: O precatório no valor de R$ 1.500,00 foi retido sem incidência de juros.
+Status financeiro: O repasse ao cliente no valor de R$ 14.900,00 venceu sem incidência de juros.
+Status financeiro: O repasse ao cliente no valor de R$ 6.200,00 foi pago para prestação de contas.
+Status financeiro: Os cálculos periciais foram estornados e o recibo foi arquivado.
+Status financeiro: Os cálculos periciais no valor de R$ 7.700,00 estão pendentes e o recibo foi arquivado.
+Status financeiro: Os cálculos periciais no valor de R$ 9.500,00 estão pendentes e notificação enviada.
+Status financeiro: Os cálculos periciais no valor de R$ 9.800,00 foram efetuados e baixado do sistema.
+Status financeiro: Os depósitos recursais estão pendentes no sistema interno.
+Status financeiro: Os depósitos recursais estão pendentes para conferência.
+Status financeiro: Os depósitos recursais foram quitados aguardando compensação.
+Status financeiro: Os depósitos recursais foram recolhidos.
+Status financeiro: Os depósitos recursais no valor de R$ 11.700,00 foram expedidos conforme tabela da OAB.
+Status financeiro: Os depósitos recursais no valor de R$ 13.900,00 foram estornados aguardando aprovação da diretoria.
+Status financeiro: Os depósitos recursais no valor de R$ 14.200,00 estão pendentes e anexado aos autos.
+Status financeiro: Os depósitos recursais no valor de R$ 3.100,00 foram emitidos e anexado aos autos.
+Status financeiro: Os honorários contratuais foram estornados com acréscimo de multa.
+Status financeiro: Os honorários contratuais foram gerados.
+Status financeiro: Os honorários contratuais foram liberados aguardando aprovação da diretoria.
+Status financeiro: Os honorários contratuais foram pagos sem incidência de juros.
+Status financeiro: Os honorários contratuais no valor de R$ 13.100,00 foram recolhidos e o recibo foi arquivado.
+Status financeiro: Os honorários contratuais no valor de R$ 3.200,00 foram liberados conforme tabela da OAB.
+Status financeiro: Os honorários de sucumbência foram aprovados e o recibo foi arquivado.
+Status financeiro: Os honorários de sucumbência foram recebidos e anexado aos autos.
+Status financeiro: Os honorários de sucumbência foram recolhidos na conta do escritório.
+Status financeiro: Os honorários de sucumbência foram recolhidos pela controladoria.
+Status financeiro: Os honorários de sucumbência foram recolhidos.
+Status financeiro: Os honorários de sucumbência no valor de R$ 1.500,00 foram gerados e baixado do sistema.
+Status financeiro: Os honorários de sucumbência venceram.
+Status financeiro: Os juros de mora foram emitidos aguardando compensação.
+Status financeiro: Os juros de mora foram gerados conforme tabela da OAB.
+Status financeiro: Os juros de mora foram liberados.
+Status financeiro: Os juros de mora no valor de R$ 14.500,00 foram transferidos e o recibo foi arquivado.
+Status financeiro: Os juros de mora no valor de R$ 4.800,00 foram emitidos no portal do tribunal.
+Status financeiro: Os valores bloqueados foram emitidos e enviado ao cliente.
+Status financeiro: Os valores bloqueados foram liberados e o recibo foi arquivado.
+Status financeiro: Os valores bloqueados no valor de R$ 14.800,00 foram emitidos pelo setor financeiro.
+Status financeiro: Os valores bloqueados no valor de R$ 6.900,00 estão pendentes para prestação de contas.
+Status financeiro: Os valores bloqueados no valor de R$ 7.300,00 foram gerados e o recibo foi arquivado.
+Urgente: A GRU foi quitada na conta do escritório.
+Urgente: A GRU foi quitada.
+Urgente: A GRU foi recolhida pelo setor financeiro.
+Urgente: A RPV está pendente e o recibo foi arquivado.
+Urgente: A RPV foi recolhida pela controladoria.
+Urgente: A RPV foi recolhida pelo setor financeiro.
+Urgente: A RPV no valor de R$ 4.300,00 foi emitida para conferência.
+Urgente: A RPV no valor de R$ 7.700,00 foi recolhida com vencimento para amanhã.
+Urgente: A RPV no valor de R$ 8.100,00 foi efetuada para dedução no IR.
+Urgente: A custa inicial foi recolhida na conta do escritório.
+Urgente: A custa inicial foi transferida pelo setor financeiro.
+Urgente: A fatura mensal foi estornada para conferência.
+Urgente: A fatura mensal no valor de R$ 1.200,00 foi transferida para dedução no IR.
+Urgente: A fatura mensal no valor de R$ 3.000,00 está pendente na conta do escritório.
+Urgente: A guia DARE foi aprovada aguardando compensação.
+Urgente: A guia DARE no valor de R$ 11.500,00 foi retida no sistema interno.
+Urgente: A guia DARE no valor de R$ 12.600,00 foi efetuada e enviado ao cliente.
+Urgente: A guia de custas no valor de R$ 7.300,00 foi recolhida com sucesso.
+Urgente: A nota fiscal foi gerada pela controladoria.
+Urgente: A nota fiscal no valor de R$ 10.300,00 foi transferida e anexado aos autos.
+Urgente: A prestação de contas foi efetuada pelo setor financeiro.
+Urgente: A prestação de contas foi gerada e anexado aos autos.
+Urgente: A prestação de contas foi liberada.
+Urgente: A prestação de contas foi paga para conferência.
+Urgente: A prestação de contas no valor de R$ 3.100,00 foi retida no sistema interno.
+Urgente: A retenção de imposto foi gerada aguardando aprovação da diretoria.
+Urgente: A retenção de imposto foi paga e anexado aos autos.
+Urgente: A taxa de desarquivamento foi recebida.
+Urgente: A taxa de desarquivamento no valor de R$ 10.600,00 foi emitida com sucesso.
+Urgente: A taxa de desarquivamento no valor de R$ 3.800,00 foi recolhida sem incidência de juros.
+Urgente: A taxa de desarquivamento no valor de R$ 8.900,00 foi aprovada no sistema interno.
+Urgente: As custas complementares no valor de R$ 4.700,00 foram recebidas e anexado aos autos.
+Urgente: As custas complementares venceram.
+Urgente: As custas finais estão pendentes para prestação de contas.
+Urgente: As custas finais foram recolhidas para prestação de contas.
+Urgente: As custas processuais foram aprovadas.
+Urgente: As custas processuais foram geradas com vencimento para amanhã.
+Urgente: As custas processuais foram transferidas.
+Urgente: As custas processuais no valor de R$ 12.300,00 foram geradas com sucesso.
+Urgente: As custas processuais no valor de R$ 14.900,00 venceram com vencimento para amanhã.
+Urgente: As custas processuais no valor de R$ 3.800,00 foram quitadas para conferência.
+Urgente: As custas processuais no valor de R$ 7.000,00 foram geradas aguardando aprovação da diretoria.
+Urgente: As custas processuais venceram.
+Urgente: As despesas de viagem estão pendentes conforme determinação judicial.
+Urgente: As despesas de viagem foram emitidas pelo setor financeiro.
+Urgente: As despesas de viagem foram estornadas.
+Urgente: As despesas de viagem foram geradas.
+Urgente: As despesas de viagem no valor de R$ 1.600,00 foram recolhidas no sistema interno.
+Urgente: As despesas de viagem no valor de R$ 11.100,00 foram estornadas sem incidência de juros.
+Urgente: As despesas de viagem no valor de R$ 4.100,00 foram recolhidas pela controladoria.
+Urgente: As despesas de viagem no valor de R$ 6.300,00 foram transferidas com vencimento para amanhã.
+Urgente: As despesas de viagem no valor de R$ 7.900,00 foram transferidas conforme determinação judicial.
+Urgente: As despesas de viagem no valor de R$ 8.400,00 foram estornadas e notificação enviada.
+Urgente: As faturas atrasadas foram emitidas com acréscimo de multa.
+Urgente: As faturas atrasadas foram recebidas para conferência.
+Urgente: As faturas atrasadas no valor de R$ 11.300,00 estão pendentes na conta do escritório.
+Urgente: As faturas atrasadas no valor de R$ 14.400,00 foram emitidas e o recibo foi arquivado.
+Urgente: As faturas atrasadas no valor de R$ 3.900,00 foram aprovadas no portal do tribunal.
+Urgente: As taxas judiciárias estão pendentes e o recibo foi arquivado.
+Urgente: As taxas judiciárias estão pendentes.
+Urgente: As taxas judiciárias foram estornadas.
+Urgente: As taxas judiciárias foram quitadas e o recibo foi arquivado.
+Urgente: As taxas judiciárias no valor de R$ 4.000,00 foram geradas conforme determinação judicial.
+Urgente: As taxas judiciárias no valor de R$ 6.500,00 foram geradas pela controladoria.
+Urgente: As taxas judiciárias no valor de R$ 8.600,00 estão pendentes no sistema interno.
+Urgente: O DARF no valor de R$ 1.000,00 foi estornado com sucesso.
+Urgente: O DARF no valor de R$ 10.700,00 foi gerado pela controladoria.
+Urgente: O DARJ foi recolhido e anexado aos autos.
+Urgente: O DARJ foi recolhido.
+Urgente: O DARJ no valor de R$ 5.700,00 foi liberado e anexado aos autos.
+Urgente: O DARJ no valor de R$ 6.300,00 foi emitido pelo setor financeiro.
+Urgente: O DARJ no valor de R$ 7.400,00 foi retido conforme tabela da OAB.
+Urgente: O DARJ venceu.
+Urgente: O adiantamento de despesas está pendente para prestação de contas.
+Urgente: O alvará de levantamento foi gerado com sucesso.
+Urgente: O bloqueio Sisbajud no valor de R$ 15.000,00 foi efetuado para prestação de contas.
+Urgente: O bloqueio Sisbajud no valor de R$ 900,00 foi expedido no sistema interno.
+Urgente: O boleto de honorários foi quitado e o recibo foi arquivado.
+Urgente: O boleto de honorários no valor de R$ 8.900,00 foi retido e notificação enviada.
+Urgente: O comprovante de PIX foi retido aguardando compensação.
+Urgente: O comprovante de PIX foi retido no sistema interno.
+Urgente: O comprovante de PIX no valor de R$ 5.400,00 foi liberado sem incidência de juros.
+Urgente: O cálculo de liquidação foi quitado.
+Urgente: O cálculo de liquidação no valor de R$ 11.600,00 foi estornado no portal do tribunal.
+Urgente: O depósito judicial está pendente sem incidência de juros.
+Urgente: O depósito judicial foi expedido com acréscimo de multa.
+Urgente: O depósito recursal foi quitado.
+Urgente: O depósito recursal venceu.
+Urgente: O pagamento das custas no valor de R$ 10.400,00 foi estornado sem incidência de juros.
+Urgente: O pagamento do perito foi aprovado para conferência.
+Urgente: O pagamento do perito foi recebido pela controladoria.
+Urgente: O precatório foi transferido para conferência.
+Urgente: O reembolso de diligência foi liberado.
+Urgente: O reembolso de diligência no valor de R$ 5.500,00 foi expedido e enviado ao cliente.
+Urgente: Os cálculos periciais foram efetuados sem incidência de juros.
+Urgente: Os cálculos periciais foram liberados aguardando aprovação da diretoria.
+Urgente: Os cálculos periciais foram pagos pela controladoria.
+Urgente: Os cálculos periciais foram quitados para conferência.
+Urgente: Os cálculos periciais no valor de R$ 11.500,00 foram pagos conforme tabela da OAB.
+Urgente: Os cálculos periciais no valor de R$ 12.000,00 foram efetuados com acréscimo de multa.
+Urgente: Os depósitos recursais no valor de R$ 11.900,00 foram gerados aguardando compensação.
+Urgente: Os depósitos recursais no valor de R$ 12.600,00 foram pagos aguardando aprovação da diretoria.
+Urgente: Os depósitos recursais no valor de R$ 300,00 foram estornados pela controladoria.
+Urgente: Os honorários contratuais foram expedidos.
+Urgente: Os honorários contratuais no valor de R$ 2.000,00 foram recolhidos e enviado ao cliente.
+Urgente: Os honorários contratuais no valor de R$ 6.900,00 venceram pelo setor financeiro.
+Urgente: Os honorários de sucumbência foram liberados na conta do escritório.
+Urgente: Os honorários de sucumbência no valor de R$ 6.700,00 foram recolhidos na conta do escritório.
+Urgente: Os honorários de sucumbência no valor de R$ 8.400,00 foram expedidos no portal do tribunal.
+Urgente: Os juros de mora estão pendentes.
+Urgente: Os juros de mora foram aprovados no sistema interno.
+Urgente: Os juros de mora foram aprovados pelo setor financeiro.
+Urgente: Os valores bloqueados foram pagos para prestação de contas.
+Urgente: Os valores bloqueados no valor de R$ 6.900,00 foram recebidos pelo setor financeiro.
