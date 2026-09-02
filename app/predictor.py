@@ -3,6 +3,7 @@ from __future__ import annotations
 import joblib
 
 from scripts.embedder import CLASSIFIER_PATH, LABEL_ENCODER_PATH, embed
+from scripts.priority import calculate_priority_score, get_priority_label
 
 
 class Predictor:
@@ -42,8 +43,16 @@ class Predictor:
         class_indices = probabilities.argsort()[::-1]
         best_idx = class_indices[0]
 
+        classe = self._label_encoder.inverse_transform([best_idx])[0]
+        
+        # Calcular Score de Prioridade
+        priority_score = calculate_priority_score(sentenca)
+        prioridade = get_priority_label(priority_score)
+
         return {
-            "classe": self._label_encoder.inverse_transform([best_idx])[0],
+            "classe": classe,
+            "prioridade": prioridade,
+            "priority_score": round(priority_score, 2),
             "confianca": float(probabilities[best_idx]),
             "probabilidades": {
                 self._label_encoder.inverse_transform([i])[0]: float(probabilities[i])

@@ -26,6 +26,7 @@ from scripts.plots import (
     plot_yb_classification_report,
     plot_yb_confusion_matrix,
 )
+from scripts.priority import URGENT_KEYWORDS
 
 CANDIDATES = {
     "logreg": lambda: LogisticRegression(max_iter=1000, C=1.0, class_weight="balanced"),
@@ -114,6 +115,10 @@ def train_and_select(model_choice: str | None = None, plot: bool = False) -> Non
         "sentence_transformer": MODEL_NAME,
         "classifier": best_name,
         "classes": label_encoder.classes_.tolist(),
+        "priority_params": {
+            "keywords": URGENT_KEYWORDS,
+            "max_score": 1.0
+        },
         "val_results": results,
         "trained_at": datetime.now(timezone.utc).isoformat(),
     }

@@ -12,6 +12,8 @@ class NotificationRequest(BaseModel):
 
 class NotificationPrediction(BaseModel):
     classe: str
+    prioridade: str
+    priority_score: float
     confianca: float
     probabilidades: dict[str, float]
 

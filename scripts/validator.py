@@ -12,7 +12,9 @@ from scripts.plots import (
     plot_confusion_matrix,
     plot_yb_classification_report,
     plot_yb_confusion_matrix,
+    plot_priority_distribution,
 )
+from scripts.priority import calculate_priority_score
 
 SPLIT_LOADERS = {
     "val": load_val,
@@ -67,8 +69,13 @@ def evaluate(split: str = "test", plot: bool = False, show: bool = False) -> Non
             classifier, X, y_true, class_names, split=split, show=show
         )
         
+        # Gráfico de Distribuição de Prioridade
+        df["priority_score"] = df["sentenca"].apply(calculate_priority_score)
+        priority_dist_path = plot_priority_distribution(df, split=split, show=show)
+        
         print(f"\nGráficos originais salvos em:\n  {cm_path}\n  {report_path}")
         print(f"Gráficos Yellowbrick salvos em:\n  {yb_cm_path}\n  {yb_report_path}")
+        print(f"Gráfico de Prioridade salvo em:\n  {priority_dist_path}")
 
 
 def parse_args() -> argparse.Namespace:
