@@ -21,6 +21,7 @@ from scripts.embedder import (
     embed,
 )
 from scripts.loader import load_train, load_val
+from scripts.neural_network import NeuralNetworkClassifier
 from scripts.plots import (
     plot_model_comparison,
     plot_yb_classification_report,
@@ -35,7 +36,8 @@ CANDIDATES = {
         eval_metric="mlogloss",
         early_stopping_rounds=10,
         random_state=42
-    )
+    ),
+    "neural_network": lambda: NeuralNetworkClassifier(random_state=42),
 }
 
 
@@ -97,7 +99,10 @@ def train_and_select(model_choice: str | None = None, plot: bool = False) -> Non
             yb_report_path = plot_yb_classification_report(
                 model, X_val, y_val, class_names, split="val", model_name=name
             )
-            print(f"    -> Gráficos {name} salvos em:\n      {yb_cm_path}\n      {yb_report_path}")
+            print(
+                f"    -> Gráficos {name} salvos em:\n"
+                f"      {yb_cm_path}\n      {yb_report_path}"
+            )
 
         if f1 > best_f1:
             best_name, best_model, best_f1 = name, model, f1
@@ -135,8 +140,8 @@ def parse_args() -> argparse.Namespace:
         "--model",
         choices=list(CANDIDATES.keys()),
         default=None,
-        help="Força o uso de um modelo específico (logreg ou svm). "
-        "Se omitido, treina os dois e escolhe o melhor via validação.",
+        help="Força o uso de um modelo específico. "
+        "Se omitido, treina todos e escolhe o melhor via validação.",
     )
     parser.add_argument(
         "--plot",

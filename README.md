@@ -1,7 +1,7 @@
 # notification_classifier
 
 Classificador de notificações jurídicas: **Sentence Transformer** (embeddings) +
-**Regressão Logística / SVM** (classificação), servido via **FastAPI**. Sem banco de
+**Regressão Logística / SVM / XGBoost / Rede Neural Tensorflow** (classificação), servido via **FastAPI**. Sem banco de
 dados — fluxo direto: request → embedding → classificador → response.
 
 ## Estrutura
@@ -39,13 +39,16 @@ poetry run python -m scripts.split_dataset
 
 ## 2. Treinar
 
-Treina Regressão Logística, SVM e XGBoost. Avalia os três na validação e salva o melhor:
+Treina Regressão Logística, SVM, XGBoost e uma rede neural PyTorch. Avalia os quatro
+na validação e salva apenas o melhor:
 
 ```bash
 poetry run python -m scripts.train --plot 
 ```
 
 Isso gera em `models/`: `classifier.joblib`, `label_encoder.joblib`, `metadata.json`.
+Com `--plot`, os relatórios e matrizes de validação de cada modelo são salvos em
+`reports/`, junto com o gráfico de comparação.
 
 ## 3. Validar / Testar
 
@@ -87,9 +90,9 @@ automaticamente se `scripts/train.py` ainda não tiver sido executado)
 - **Modelo de embeddings**: `paraphrase-multilingual-MiniLM-L12-v2` — multilíngue,
   leve e roda bem em CPU; boa cobertura para português. Trocar é uma linha só
   (`MODEL_NAME` em `scripts/embedder.py`).
-- **Escolha do classificador**: `train.py` treina Regressão Logística e SVM linear
-  e escolhe automaticamente o de maior F1-macro na validação (dataset é pequeno e
-  balanceado, então os dois são baratos de treinar).
+- **Escolha do classificador**: `train.py` treina os quatro candidatos e escolhe
+  automaticamente o de maior F1-macro na validação. A rede neural é um MLP pequeno
+  em TensorFlow, adequado aos embeddings já normalizados e ao tamanho do dataset.
 - **Sem banco de dados**: os embeddings são gerados on-the-fly a cada request; o
   único estado persistido em disco são os artefatos do classificador (`models/`),
   carregados uma única vez na subida da API.
