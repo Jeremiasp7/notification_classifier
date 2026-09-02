@@ -21,7 +21,11 @@ from scripts.embedder import (
     embed,
 )
 from scripts.loader import load_train, load_val
-from scripts.plots import plot_model_comparison
+from scripts.plots import (
+    plot_model_comparison,
+    plot_yb_classification_report,
+    plot_yb_confusion_matrix,
+)
 
 CANDIDATES = {
     "logreg": lambda: LogisticRegression(max_iter=1000, C=1.0, class_weight="balanced"),
@@ -83,6 +87,16 @@ def train_and_select(model_choice: str | None = None, plot: bool = False) -> Non
         }
 
         print(f" [{name}] accuracy={acc:.4f} f1_macro={f1:.4f} (Treino: {train_time:.2f}s)")
+
+        if plot:
+            class_names = list(label_encoder.classes_)
+            yb_cm_path = plot_yb_confusion_matrix(
+                model, X_val, y_val, class_names, split="val", model_name=name
+            )
+            yb_report_path = plot_yb_classification_report(
+                model, X_val, y_val, class_names, split="val", model_name=name
+            )
+            print(f"    -> Gráficos {name} salvos em:\n      {yb_cm_path}\n      {yb_report_path}")
 
         if f1 > best_f1:
             best_name, best_model, best_f1 = name, model, f1

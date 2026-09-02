@@ -7,7 +7,12 @@ from sklearn.metrics import classification_report, confusion_matrix
 
 from scripts.embedder import CLASSIFIER_PATH, LABEL_ENCODER_PATH, embed
 from scripts.loader import load_test, load_val
-from scripts.plots import plot_classification_report, plot_confusion_matrix
+from scripts.plots import (
+    plot_classification_report,
+    plot_confusion_matrix,
+    plot_yb_classification_report,
+    plot_yb_confusion_matrix,
+)
 
 SPLIT_LOADERS = {
     "val": load_val,
@@ -48,11 +53,22 @@ def evaluate(split: str = "test", plot: bool = False, show: bool = False) -> Non
     print(confusion_matrix(y_true, y_pred))
 
     if plot:
+        # Gráficos originais com Seaborn
         cm_path = plot_confusion_matrix(y_true, y_pred, class_names, split=split, show=show)
         report_path = plot_classification_report(
             y_true, y_pred, class_names, split=split, show=show
         )
-        print(f"\nGráficos salvos em:\n  {cm_path}\n  {report_path}")
+        
+        # Gráficos novos com Yellowbrick
+        yb_cm_path = plot_yb_confusion_matrix(
+            classifier, X, y_true, class_names, split=split, show=show
+        )
+        yb_report_path = plot_yb_classification_report(
+            classifier, X, y_true, class_names, split=split, show=show
+        )
+        
+        print(f"\nGráficos originais salvos em:\n  {cm_path}\n  {report_path}")
+        print(f"Gráficos Yellowbrick salvos em:\n  {yb_cm_path}\n  {yb_report_path}")
 
 
 def parse_args() -> argparse.Namespace:
