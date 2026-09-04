@@ -1,0 +1,17 @@
+pandas>=3.0.5,<4.0.0
+scikit-learn>=1.9.0,<2.0.0
+transformers>=5.15.1,<6.0.0
+tensorflow>=2.20.0,<3.0.0
+torch>=2.13.0,<3.0.0
+fastapi>=0.141.1,<0.142.0
+uvicorn[standard]>=0.52.4,<0.53.0
+sentence-transformers>=6.0.0,<7.0.0
+wiz>=0.7,<0.8
+seaborn>=0.13.2,<0.14.0
+yellowbrick>=1.5,<2.0
+xgboost<3.4.1
+
+# Dependências de Desenvolvimento
+# flake8>=7.3.0,<8.0.0
+# isort>=8.0.1,<9.0.0
+# pytest>=9.1.1,<10.0.0
