@@ -1,0 +1,568 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Classificador de Notificações Jurídicas</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link
+  href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap"
+  rel="stylesheet"
+/>
+<style>
+  :root {
+    --paper: #edefee;
+    --panel: #fbfbfa;
+    --line: #d4d0c4;
+    --ink: #1e2430;
+    --ink-soft: #565c68;
+    --muted: #8c8676;
+    --accent: #1f5d4c;
+    --accent-soft: #e4ede9;
+    --alert: #a13d2b;
+    --alert-soft: #f3e5e0;
+    --amber: #8a6a1f;
+    --amber-soft: #f1ead9;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: "IBM Plex Sans", sans-serif;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .wrap {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 56px 24px 96px;
+  }
+
+  header.masthead {
+    margin-bottom: 40px;
+  }
+
+  .kicker {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 12px;
+    color: var(--muted);
+    letter-spacing: 0.02em;
+    margin: 0 0 10px;
+  }
+
+  h1 {
+    font-family: "Source Serif 4", serif;
+    font-weight: 600;
+    font-size: 34px;
+    line-height: 1.15;
+    margin: 0 0 10px;
+    letter-spacing: -0.01em;
+  }
+
+  .lede {
+    color: var(--ink-soft);
+    font-size: 15px;
+    max-width: 52ch;
+    margin: 0;
+  }
+
+  section.card {
+    background: var(--panel);
+    border: 1px solid var(--line);
+    border-radius: 3px;
+    padding: 28px 28px 30px;
+    margin-bottom: 22px;
+  }
+
+  section.card + section.card { margin-top: 22px; }
+
+  .section-head {
+    display: flex;
+    align-items: baseline;
+    gap: 12px;
+    margin-bottom: 6px;
+  }
+
+  .numeral {
+    font-family: "Source Serif 4", serif;
+    font-size: 15px;
+    color: var(--accent);
+    font-variant-numeric: normal;
+  }
+
+  h2 {
+    font-family: "Source Serif 4", serif;
+    font-weight: 600;
+    font-size: 19px;
+    margin: 0;
+  }
+
+  .section-desc {
+    color: var(--ink-soft);
+    font-size: 13.5px;
+    margin: 0 0 20px;
+  }
+
+  button {
+    font-family: "IBM Plex Sans", sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    border: 1px solid var(--accent);
+    background: var(--accent);
+    color: #fff;
+    padding: 10px 18px;
+    border-radius: 2px;
+    cursor: pointer;
+    transition: background 0.15s ease, opacity 0.15s ease;
+  }
+
+  button:hover:not(:disabled) { background: #17493c; }
+
+  button:disabled {
+    cursor: not-allowed;
+    opacity: 0.55;
+  }
+
+  button.secondary {
+    background: transparent;
+    color: var(--accent);
+  }
+  button.secondary:hover:not(:disabled) { background: var(--accent-soft); }
+
+  textarea {
+    width: 100%;
+    min-height: 92px;
+    resize: vertical;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 14.5px;
+    color: var(--ink);
+    border: 1px solid var(--line);
+    border-radius: 2px;
+    padding: 12px 14px;
+    background: #fff;
+    margin-bottom: 14px;
+  }
+  textarea:focus, button:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 1px;
+  }
+
+  .row { display: flex; align-items: center; gap: 14px; flex-wrap: wrap; }
+
+  .status-line {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 12.5px;
+    color: var(--ink-soft);
+  }
+
+  .dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--muted);
+    flex: none;
+  }
+  .dot.ocioso { background: var(--muted); }
+  .dot.em_andamento { background: var(--amber); animation: pulse 1.1s infinite ease-in-out; }
+  .dot.concluido { background: var(--accent); }
+  .dot.erro { background: var(--alert); }
+  .dot.ok { background: var(--accent); }
+  .dot.modelo_nao_carregado { background: var(--alert); }
+
+  @keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.35; }
+  }
+
+  .message-box {
+    margin-top: 16px;
+    padding: 12px 14px;
+    border: 1px solid var(--line);
+    border-left: 3px solid var(--muted);
+    border-radius: 2px;
+    font-size: 13.5px;
+    color: var(--ink-soft);
+    background: #fff;
+  }
+  .message-box.concluido { border-left-color: var(--accent); color: var(--ink); }
+  .message-box.erro { border-left-color: var(--alert); color: var(--ink); }
+
+  .result {
+    margin-top: 18px;
+    padding-top: 18px;
+    border-top: 1px dashed var(--line);
+  }
+
+  .result-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 16px;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  .classe {
+    font-family: "Source Serif 4", serif;
+    font-size: 20px;
+    font-weight: 600;
+  }
+
+  .badge {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 11.5px;
+    letter-spacing: 0.03em;
+    padding: 4px 10px;
+    border-radius: 999px;
+    border: 1px solid transparent;
+  }
+  .badge.alta { background: var(--alert-soft); color: var(--alert); border-color: var(--alert); }
+  .badge.media { background: var(--amber-soft); color: var(--amber); border-color: var(--amber); }
+  .badge.baixa { background: var(--accent-soft); color: var(--accent); border-color: var(--accent); }
+
+  .meta-line {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 12px;
+    color: var(--muted);
+    margin-bottom: 16px;
+  }
+
+  .prob {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 40px;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 8px;
+    font-size: 13px;
+  }
+  .prob-label {
+    display: flex;
+    justify-content: space-between;
+    color: var(--ink-soft);
+    margin-bottom: 3px;
+  }
+  .prob-track {
+    grid-column: 1 / span 2;
+    height: 6px;
+    background: var(--line);
+    border-radius: 3px;
+    overflow: hidden;
+    margin-bottom: 8px;
+  }
+  .prob-fill {
+    height: 100%;
+    background: var(--accent);
+  }
+  .prob-item { margin-bottom: 4px; }
+  .prob-pct { text-align: right; font-family: "IBM Plex Mono", monospace; color: var(--ink-soft); font-size: 12px; }
+
+  .health-grid {
+    margin-top: 16px;
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 14px;
+  }
+  .health-item {
+    border: 1px solid var(--line);
+    border-radius: 2px;
+    padding: 12px 14px;
+    background: #fff;
+  }
+  .health-item .k {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 11px;
+    color: var(--muted);
+    margin-bottom: 4px;
+  }
+  .health-item .v { font-size: 14px; }
+  .classes-list {
+    margin-top: 14px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  .classes-list span {
+    font-family: "IBM Plex Mono", monospace;
+    font-size: 11.5px;
+    border: 1px solid var(--line);
+    background: #fff;
+    padding: 4px 9px;
+    border-radius: 2px;
+    color: var(--ink-soft);
+  }
+
+  footer {
+    margin-top: 32px;
+    font-size: 12px;
+    color: var(--muted);
+    text-align: center;
+  }
+
+  @media (max-width: 480px) {
+    .wrap { padding: 40px 16px 64px; }
+    h1 { font-size: 27px; }
+    section.card { padding: 22px 18px; }
+    .health-grid { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <header class="masthead">
+      <p class="kicker">Inside 2.0 / LabIA</p>
+      <h1>Classificador de Notificações Jurídicas</h1>
+      <p class="lede">
+        Painel para treinar o modelo, classificar novas notificações e
+        acompanhar o status do sistema.
+      </p>
+    </header>
+
+    <section class="card">
+      <div class="section-head">
+        <span class="numeral">I.</span>
+        <h2>Treinamento do modelo</h2>
+      </div>
+      <p class="section-desc">
+        Roda o pipeline completo: gera os embeddings, treina os modelos
+        candidatos (Regressão Logística, SVM, XGBoost, Rede Neural) e salva
+        o de melhor desempenho.
+      </p>
+      <div class="row">
+        <button id="btn-treinar">Rodar treinamento</button>
+        <div class="status-line">
+          <span class="dot ocioso" id="treino-dot"></span>
+          <span id="treino-status-label">ocioso</span>
+        </div>
+      </div>
+      <div class="message-box" id="treino-mensagem">
+        Nenhum treinamento foi executado ainda.
+      </div>
+    </section>
+
+    <section class="card">
+      <div class="section-head">
+        <span class="numeral">II.</span>
+        <h2>Classificar notificação</h2>
+      </div>
+      <p class="section-desc">
+        Cole o texto de uma notificação para ver a categoria prevista e a
+        prioridade calculada.
+      </p>
+      <textarea
+        id="sentenca-input"
+        placeholder="Ex.: Prazo para contestação encerra amanhã às 18h."
+      ></textarea>
+      <div class="row">
+        <button id="btn-classificar">Classificar</button>
+      </div>
+      <div id="classificar-erro" class="message-box erro" style="display:none;"></div>
+      <div class="result" id="resultado" style="display:none;"></div>
+    </section>
+
+    <section class="card">
+      <div class="section-head">
+        <span class="numeral">III.</span>
+        <h2>Status do sistema</h2>
+      </div>
+      <p class="section-desc">
+        Verifica se o modelo está carregado e pronto para classificar.
+      </p>
+      <div class="row">
+        <button class="secondary" id="btn-status">Verificar status</button>
+      </div>
+      <div class="health-grid" id="health-grid" style="display:none;"></div>
+    </section>
+
+    <footer>Classificador de Notificações · API FastAPI</footer>
+  </div>
+
+<script>
+  const API = "";
+
+  // ---------- Utilidades ----------
+  function fmtPct(v) {
+    return (v * 100).toFixed(1) + "%";
+  }
+
+  function prioridadeClasse(prioridade) {
+    const p = (prioridade || "").toLowerCase();
+    if (p.startsWith("alta")) return "alta";
+    if (p.startsWith("m")) return "media";
+    return "baixa";
+  }
+
+  // ---------- I. Treinamento ----------
+  const btnTreinar = document.getElementById("btn-treinar");
+  const treinoDot = document.getElementById("treino-dot");
+  const treinoLabel = document.getElementById("treino-status-label");
+  const treinoMensagem = document.getElementById("treino-mensagem");
+
+  let pollTimer = null;
+
+  function renderTreinoStatus(data) {
+    treinoDot.className = "dot " + data.status;
+    treinoLabel.textContent = data.status.replace("_", " ");
+    treinoMensagem.textContent = data.mensagem;
+    treinoMensagem.className = "message-box " + data.status;
+    btnTreinar.disabled = data.status === "em_andamento";
+  }
+
+  async function consultarStatusTreino() {
+    try {
+      const res = await fetch(`${API}/treinar/status`);
+      const data = await res.json();
+      renderTreinoStatus(data);
+      if (data.status === "em_andamento") {
+        pollTimer = setTimeout(consultarStatusTreino, 3000);
+      } else {
+        clearTimeout(pollTimer);
+      }
+    } catch (e) {
+      treinoMensagem.textContent = "Não foi possível consultar o status do treinamento.";
+      treinoMensagem.className = "message-box erro";
+    }
+  }
+
+  btnTreinar.addEventListener("click", async () => {
+    btnTreinar.disabled = true;
+    try {
+      const res = await fetch(`${API}/treinar`, { method: "POST" });
+      if (res.status === 409) {
+        const data = await res.json();
+        treinoMensagem.textContent = data.detail;
+      }
+    } catch (e) {
+      treinoMensagem.textContent = "Não foi possível iniciar o treinamento.";
+      treinoMensagem.className = "message-box erro";
+      btnTreinar.disabled = false;
+      return;
+    }
+    consultarStatusTreino();
+  });
+
+  // Consulta o status assim que a página carrega, para refletir um
+  // treinamento que já esteja em andamento (ex.: após dar F5).
+  consultarStatusTreino();
+
+  // ---------- II. Classificar ----------
+  const btnClassificar = document.getElementById("btn-classificar");
+  const sentencaInput = document.getElementById("sentenca-input");
+  const resultadoEl = document.getElementById("resultado");
+  const classificarErro = document.getElementById("classificar-erro");
+
+  btnClassificar.addEventListener("click", async () => {
+    const sentenca = sentencaInput.value.trim();
+    classificarErro.style.display = "none";
+    if (!sentenca) {
+      classificarErro.textContent = "Digite o texto de uma notificação antes de classificar.";
+      classificarErro.style.display = "block";
+      return;
+    }
+
+    btnClassificar.disabled = true;
+    btnClassificar.textContent = "Classificando…";
+    try {
+      const res = await fetch(`${API}/classificar`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ sentenca }),
+      });
+      const data = await res.json();
+
+      if (!res.ok) {
+        classificarErro.textContent = data.detail || "Erro ao classificar a notificação.";
+        classificarErro.style.display = "block";
+        resultadoEl.style.display = "none";
+        return;
+      }
+
+      const probsOrdenadas = Object.entries(data.probabilidades).sort(
+        (a, b) => b[1] - a[1]
+      );
+
+      const barrasHtml = probsOrdenadas
+        .map(([classe, prob]) => {
+          const pct = (prob * 100).toFixed(1);
+          return `
+            <div class="prob-item">
+              <div class="prob-label"><span>${classe}</span></div>
+              <div class="prob-track">
+                <div class="prob-fill" style="width:${pct}%"></div>
+              </div>
+            </div>
+          `;
+        })
+        .join("");
+
+      const prClasse = prioridadeClasse(data.prioridade);
+
+      resultadoEl.innerHTML = `
+        <div class="result-head">
+          <span class="classe">${data.classe}</span>
+          <span class="badge ${prClasse}">${data.prioridade}</span>
+        </div>
+        <div class="meta-line">
+          confiança ${fmtPct(data.confianca)} · score de prioridade ${data.priority_score}
+        </div>
+        ${barrasHtml}
+      `;
+      resultadoEl.style.display = "block";
+    } catch (e) {
+      classificarErro.textContent = "Não foi possível conectar à API.";
+      classificarErro.style.display = "block";
+    } finally {
+      btnClassificar.disabled = false;
+      btnClassificar.textContent = "Classificar";
+    }
+  });
+
+  // ---------- III. Status ----------
+  const btnStatus = document.getElementById("btn-status");
+  const healthGrid = document.getElementById("health-grid");
+
+  btnStatus.addEventListener("click", async () => {
+    btnStatus.disabled = true;
+    btnStatus.textContent = "Verificando…";
+    try {
+      const res = await fetch(`${API}/health`);
+      const data = await res.json();
+
+      const classesHtml = data.classes.length
+        ? `<div class="classes-list">${data.classes
+            .map((c) => `<span>${c}</span>`)
+            .join("")}</div>`
+        : `<div class="classes-list"><span>nenhuma classe carregada</span></div>`;
+
+      healthGrid.innerHTML = `
+        <div class="health-item">
+          <div class="k">status</div>
+          <div class="v">
+            <span class="dot ${data.status}" style="display:inline-block; margin-right:6px;"></span>
+            ${data.status}
+          </div>
+        </div>
+        <div class="health-item">
+          <div class="k">modelo carregado</div>
+          <div class="v">${data.modelo_carregado ? "sim" : "não"}</div>
+        </div>
+      ` + classesHtml;
+      healthGrid.style.display = "grid";
+    } catch (e) {
+      healthGrid.innerHTML = `<div class="health-item"><div class="k">erro</div><div class="v">não foi possível conectar à API</div></div>`;
+      healthGrid.style.display = "grid";
+    } finally {
+      btnStatus.disabled = false;
+      btnStatus.textContent = "Verificar status";
+    }
+  });
+</script>
+</body>
+</html>

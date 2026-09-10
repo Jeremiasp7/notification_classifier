@@ -21,6 +21,16 @@ scripts/
 tests/
 ```
 
+## FrontEnd
+
+A aplicação possui um template para treino do modelo, classificação de sentenças e verificação do estado do modelo.
+Caso a opção seja por utilizar o FrontEnd, basta executar, primeiro, as etapas de Instalação e Gerar datasets. Depois,
+executar o comando abaixo:
+
+```bash
+poetry run uvicorn app.main:app --reload
+```
+
 ## Instalação
 
 ```bash

@@ -1,7 +1,18 @@
-from fastapi import FastAPI, HTTPException
+from pathlib import Path
 
+from fastapi import FastAPI, HTTPException, status
+from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
+
+from app import training_state
 from app.predictor import predictor
-from app.schemas import HealthResponse, NotificationPrediction, NotificationRequest
+from app.schemas import (
+    HealthResponse,
+    NotificationPrediction,
+    NotificationRequest,
+    TrainingStartResponse,
+    TrainingStatusResponse,
+)
 
 app = FastAPI(
     title="Classificador de Notificações",
@@ -12,6 +23,14 @@ app = FastAPI(
 )
 
 
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+
 @app.get("/health", response_model=HealthResponse)
 def health() -> HealthResponse:
     return HealthResponse(
@@ -19,6 +38,34 @@ def health() -> HealthResponse:
         modelo_carregado=predictor.is_ready,
         classes=predictor.classes,
     )
+
+
+@app.post(
+    "/treinar",
+    response_model=TrainingStartResponse,
+    status_code=status.HTTP_202_ACCEPTED,
+)
+def treinar() -> TrainingStartResponse:
+    """
+    Dispara o pipeline de treinamento (embeddings + treino dos modelos
+    candidatos + seleção e persistência do melhor) em background.
+    Use GET /treinar/status para acompanhar o progresso.
+    """
+    iniciado = training_state.start_training()
+    if not iniciado:
+        raise HTTPException(
+            status_code=status.HTTP_409_CONFLICT,
+            detail="Já existe um treinamento em andamento.",
+        )
+    return TrainingStartResponse(
+        status="em_andamento",
+        mensagem="Treinamento iniciado. Acompanhe em GET /treinar/status.",
+    )
+
+
+@app.get("/treinar/status", response_model=TrainingStatusResponse)
+def treinar_status() -> TrainingStatusResponse:
+    return TrainingStatusResponse(**training_state.get_status())
 
 
 @app.post("/classificar", response_model=NotificationPrediction)
@@ -36,3 +83,8 @@ def classificar(payload: NotificationRequest) -> NotificationPrediction:
         raise HTTPException(status_code=503, detail=str(exc)) from exc
 
     return NotificationPrediction(**result)
+
+
+STATIC_DIR = Path(__file__).resolve().parent / "static"
+if STATIC_DIR.exists():
+    app.mount("/", StaticFiles(directory=STATIC_DIR, html=True), name="static")
