@@ -14,8 +14,8 @@ class NeuralNetworkClassifier(BaseEstimator, ClassifierMixin):
 
     def __init__(
         self,
-        hidden_size: int = 128,
-        epochs: int = 150,
+        hidden_size: int = 52,
+        epochs: int = 10,
         learning_rate: float = 1e-3,
         weight_decay: float = 1e-4,
         random_state: int = 42,
@@ -40,7 +40,7 @@ class NeuralNetworkClassifier(BaseEstimator, ClassifierMixin):
             [
                 tf.keras.layers.Input(shape=(features.shape[1],)),
                 tf.keras.layers.Dense(self.hidden_size, activation="relu"),
-                tf.keras.layers.Dropout(0.2),
+                tf.keras.layers.Dropout(0.45),
                 tf.keras.layers.Dense(len(self.classes_), activation="softmax"),
             ]
         )
@@ -57,7 +57,7 @@ class NeuralNetworkClassifier(BaseEstimator, ClassifierMixin):
             features,
             labels,
             epochs=self.epochs,
-            batch_size=min(32, len(features)),
+            batch_size=min(16, len(features)),
             class_weight=dict(enumerate(class_weights.tolist())),
             verbose=0,
         )

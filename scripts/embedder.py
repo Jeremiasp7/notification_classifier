@@ -14,6 +14,14 @@ LABEL_ENCODER_PATH = MODELS_DIR / "label_encoder.joblib"
 METADATA_PATH = MODELS_DIR / "metadata.json"
 
 
+def classifier_path(model_name: str) -> Path:
+    return MODELS_DIR / f"classifier_{model_name}.joblib"
+
+
+def label_encoder_path(model_name: str) -> Path:
+    return MODELS_DIR / f"label_encoder_{model_name}.joblib"
+
+
 @lru_cache(maxsize=1)
 def get_encoder() -> SentenceTransformer:
     """

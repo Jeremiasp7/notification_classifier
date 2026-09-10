@@ -152,6 +152,18 @@
     outline-offset: 1px;
   }
 
+  select {
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 14px;
+    color: var(--ink);
+    border: 1px solid var(--line);
+    border-radius: 2px;
+    padding: 10px 34px 10px 12px;
+    background: #fff;
+    min-width: 190px;
+  }
+  select:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+
   .row { display: flex; align-items: center; gap: 14px; flex-wrap: wrap; }
 
   .status-line {
@@ -333,7 +345,7 @@
       <p class="section-desc">
         Roda o pipeline completo: gera os embeddings, treina os modelos
         candidatos (Regressão Logística, SVM, XGBoost, Rede Neural) e salva
-        o de melhor desempenho.
+        todos os modelos para que você possa compará-los na classificação.
       </p>
       <div class="row">
         <button id="btn-treinar">Rodar treinamento</button>
@@ -361,6 +373,10 @@
         placeholder="Ex.: Prazo para contestação encerra amanhã às 18h."
       ></textarea>
       <div class="row">
+        <label for="modelo-select">Modelo</label>
+        <select id="modelo-select" disabled>
+          <option>Carregando modelos...</option>
+        </select>
         <button id="btn-classificar">Classificar</button>
       </div>
       <div id="classificar-erro" class="message-box erro" style="display:none;"></div>
@@ -455,8 +471,26 @@
   // ---------- II. Classificar ----------
   const btnClassificar = document.getElementById("btn-classificar");
   const sentencaInput = document.getElementById("sentenca-input");
+  const modeloSelect = document.getElementById("modelo-select");
   const resultadoEl = document.getElementById("resultado");
   const classificarErro = document.getElementById("classificar-erro");
+
+  async function carregarModelos() {
+    try {
+      const res = await fetch(`${API}/modelos`);
+      const data = await res.json();
+      modeloSelect.innerHTML = data.modelos.length
+        ? data.modelos.map((modelo) =>
+            `<option value="${modelo}" ${modelo === data.modelo_padrao ? "selected" : ""}>${modelo}</option>`
+          ).join("")
+        : "<option>Nenhum modelo disponível</option>";
+      modeloSelect.disabled = !data.modelos.length;
+    } catch (e) {
+      modeloSelect.innerHTML = "<option>Não foi possível carregar os modelos</option>";
+    }
+  }
+
+  carregarModelos();
 
   btnClassificar.addEventListener("click", async () => {
     const sentenca = sentencaInput.value.trim();
@@ -473,7 +507,7 @@
       const res = await fetch(`${API}/classificar`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ sentenca }),
+        body: JSON.stringify({ sentenca, modelo: modeloSelect.value }),
       });
       const data = await res.json();
 
@@ -510,7 +544,7 @@
           <span class="badge ${prClasse}">${data.prioridade}</span>
         </div>
         <div class="meta-line">
-          confiança ${fmtPct(data.confianca)} · score de prioridade ${data.priority_score}
+          modelo ${data.modelo} · confiança ${fmtPct(data.confianca)} · score de prioridade ${data.priority_score}
         </div>
         ${barrasHtml}
       `;
@@ -552,6 +586,10 @@
         <div class="health-item">
           <div class="k">modelo carregado</div>
           <div class="v">${data.modelo_carregado ? "sim" : "não"}</div>
+        </div>
+        <div class="health-item">
+          <div class="k">modelos disponíveis</div>
+          <div class="v">${data.modelos.length ? data.modelos.join(", ") : "nenhum"}</div>
         </div>
       ` + classesHtml;
       healthGrid.style.display = "grid";
