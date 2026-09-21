@@ -8,6 +8,7 @@ from app import training_state
 from app.predictor import predictor
 from app.schemas import (
     HealthResponse,
+    ModelsResponse,
     NotificationPrediction,
     NotificationRequest,
     TrainingStartResponse,
@@ -37,6 +38,15 @@ def health() -> HealthResponse:
         status="ok" if predictor.is_ready else "modelo_nao_carregado",
         modelo_carregado=predictor.is_ready,
         classes=predictor.classes,
+        modelos=predictor.model_names,
+    )
+
+
+@app.get("/modelos", response_model=ModelsResponse)
+def modelos() -> ModelsResponse:
+    return ModelsResponse(
+        modelos=predictor.model_names,
+        modelo_padrao=predictor.default_model,
     )
 
 
@@ -78,7 +88,9 @@ def classificar(payload: NotificationRequest) -> NotificationPrediction:
         )
 
     try:
-        result = predictor.predict(payload.sentenca)
+        result = predictor.predict(payload.sentenca, payload.modelo)
+    except ValueError as exc:
+        raise HTTPException(status_code=400, detail=str(exc)) from exc
     except RuntimeError as exc:
         raise HTTPException(status_code=503, detail=str(exc)) from exc
 

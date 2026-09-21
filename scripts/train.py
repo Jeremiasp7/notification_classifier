@@ -19,6 +19,8 @@ from scripts.embedder import (
     MODEL_NAME,
     MODELS_DIR,
     embed,
+    classifier_path,
+    label_encoder_path,
 )
 from scripts.loader import load_train, load_val
 from scripts.neural_network import NeuralNetworkClassifier
@@ -107,6 +109,9 @@ def train_and_select(model_choice: str | None = None, plot: bool = False) -> Non
         if f1 > best_f1:
             best_name, best_model, best_f1 = name, model, f1
 
+        joblib.dump(model, classifier_path(name))
+        joblib.dump(label_encoder, label_encoder_path(name))
+
     print(f"\nMelhor modelo: {best_name} (f1_macro={best_f1:.4f})")
 
     if plot and len(results) > 1:
@@ -125,6 +130,13 @@ def train_and_select(model_choice: str | None = None, plot: bool = False) -> Non
             "max_score": 1.0
         },
         "val_results": results,
+        "models": {
+            name: {
+                "classifier": classifier_path(name).name,
+                "label_encoder": label_encoder_path(name).name,
+            }
+            for name in results
+        },
         "trained_at": datetime.now(timezone.utc).isoformat(),
     }
     METADATA_PATH.write_text(
