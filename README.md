@@ -2,7 +2,11 @@
 
 Classificador de notificações jurídicas: **Sentence Transformer** (embeddings) +
 **Regressão Logística / SVM / XGBoost / Rede Neural Tensorflow** (classificação), servido via **FastAPI**. Sem banco de
-dados — fluxo direto: request → embedding → classificador → response.
+dados — fluxo direto: Request → Embedding → Classificador → Response.
+A aplicação conta com um FrontEnd para visualização das funcionalidades disponíveis. É possível treinar os classificadores,
+verificar a disponibilidade deles e verificar novas sentenças. A aplicação conta com um sistema de retreinamento, em que
+o usuário pode confirmar se a sentença foi classificada corretamente. Caso incorreta, os modelos são retreinados utilizando
+a nova sentença anotada com a classe correta.
 
 ## Estrutura
 
@@ -76,7 +80,10 @@ poetry run uvicorn app.main:app --reload
 ```
 
 - `GET  /health` — status do modelo e classes disponíveis
+- `GET  /classes` — lista as classes canônicas disponíveis para correção humana
 - `POST /classificar` — `{"sentenca": "..."}` → `{"classe", "confianca", "probabilidades"}`
+- `POST /feedback` — registra uma correção humana em `data/train.csv` e `data/feedback.csv`,
+  iniciando o retreinamento em background
 
 Exemplo:
 

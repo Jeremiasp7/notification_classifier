@@ -5,8 +5,11 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 
 from app import training_state
+from app.feedback import known_classes, register_correction
 from app.predictor import predictor
 from app.schemas import (
+    FeedbackRequest,
+    FeedbackResponse,
     HealthResponse,
     ModelsResponse,
     NotificationPrediction,
@@ -48,6 +51,11 @@ def modelos() -> ModelsResponse:
         modelos=predictor.model_names,
         modelo_padrao=predictor.default_model,
     )
+
+
+@app.get("/classes", response_model=list[str])
+def classes() -> list[str]:
+    return known_classes()
 
 
 @app.post(
@@ -95,6 +103,32 @@ def classificar(payload: NotificationRequest) -> NotificationPrediction:
         raise HTTPException(status_code=503, detail=str(exc)) from exc
 
     return NotificationPrediction(**result)
+
+
+@app.post(
+    "/feedback",
+    response_model=FeedbackResponse,
+    status_code=status.HTTP_202_ACCEPTED,
+)
+def feedback(payload: FeedbackRequest) -> FeedbackResponse:
+    try:
+        register_correction(
+            payload.sentenca,
+            payload.classe_predita,
+            payload.classe_correta,
+        )
+    except ValueError as exc:
+        raise HTTPException(status_code=400, detail=str(exc)) from exc
+
+    iniciado = training_state.start_training()
+    if iniciado:
+        mensagem = "Correção salva. Retreinamento iniciado."
+    else:
+        mensagem = (
+            "Correção salva. Um treinamento já está em andamento e "
+            "a correção entrará no próximo treino."
+        )
+    return FeedbackResponse(status="salvo", mensagem=mensagem)
 
 
 STATIC_DIR = Path(__file__).resolve().parent / "static"

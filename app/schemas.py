@@ -23,6 +23,17 @@ class NotificationPrediction(BaseModel):
     probabilidades: dict[str, float]
 
 
+class FeedbackRequest(BaseModel):
+    sentenca: str = Field(..., min_length=1)
+    classe_predita: str = Field(..., min_length=1)
+    classe_correta: str = Field(..., min_length=1)
+
+
+class FeedbackResponse(BaseModel):
+    status: str
+    mensagem: str
+
+
 class HealthResponse(BaseModel):
     status: str
     modelo_carregado: bool

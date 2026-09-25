@@ -276,6 +276,15 @@
   .prob-item { margin-bottom: 4px; }
   .prob-pct { text-align: right; font-family: "IBM Plex Mono", monospace; color: var(--ink-soft); font-size: 12px; }
 
+  .feedback {
+    margin-top: 22px;
+    padding-top: 18px;
+    border-top: 1px solid var(--line);
+  }
+  .feedback-question { margin: 0 0 10px; font-size: 13.5px; color: var(--ink-soft); }
+  .feedback-actions { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+  .feedback-message { margin-top: 12px; }
+
   .health-grid {
     margin-top: 16px;
     display: grid;
@@ -492,6 +501,18 @@
 
   carregarModelos();
 
+  let classesConhecidas = [];
+  async function carregarClasses() {
+    try {
+      const res = await fetch(`${API}/classes`);
+      if (res.ok) classesConhecidas = await res.json();
+    } catch (e) {
+      classesConhecidas = [];
+    }
+  }
+
+  carregarClasses();
+
   btnClassificar.addEventListener("click", async () => {
     const sentenca = sentencaInput.value.trim();
     classificarErro.style.display = "none";
@@ -547,8 +568,75 @@
           modelo ${data.modelo} · confiança ${fmtPct(data.confianca)} · score de prioridade ${data.priority_score}
         </div>
         ${barrasHtml}
+        <div class="feedback">
+          <p class="feedback-question">A classificação está correta?</p>
+          <div class="feedback-actions">
+            <button type="button" class="secondary" id="btn-correta">Correta</button>
+            <button type="button" class="secondary" id="btn-incorreta">Incorreta</button>
+          </div>
+          <div id="feedback-form" style="display:none; margin-top:12px;">
+            <div class="row">
+              <label for="classe-correta-select">Classe correta</label>
+              <select id="classe-correta-select"></select>
+              <button type="button" id="btn-enviar-feedback">Enviar correção</button>
+            </div>
+          </div>
+          <div id="feedback-mensagem" class="message-box feedback-message" style="display:none;"></div>
+        </div>
       `;
       resultadoEl.style.display = "block";
+
+      const btnCorreta = document.getElementById("btn-correta");
+      const btnIncorreta = document.getElementById("btn-incorreta");
+      const feedbackForm = document.getElementById("feedback-form");
+      const classeCorretaSelect = document.getElementById("classe-correta-select");
+      const btnEnviarFeedback = document.getElementById("btn-enviar-feedback");
+      const feedbackMensagem = document.getElementById("feedback-mensagem");
+
+      btnCorreta.addEventListener("click", () => {
+        btnCorreta.disabled = true;
+        btnIncorreta.disabled = true;
+        feedbackMensagem.textContent = "Classificação confirmada.";
+        feedbackMensagem.className = "message-box concluido feedback-message";
+        feedbackMensagem.style.display = "block";
+      });
+      btnIncorreta.addEventListener("click", () => {
+        feedbackForm.style.display = "block";
+        btnIncorreta.disabled = true;
+      });
+      classeCorretaSelect.innerHTML = classesConhecidas
+        .filter((classe) => classe !== data.classe)
+        .map((classe) => `<option value="${classe}">${classe}</option>`)
+        .join("");
+      btnEnviarFeedback.addEventListener("click", async () => {
+        btnEnviarFeedback.disabled = true;
+        try {
+          const res = await fetch(`${API}/feedback`, {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({
+              sentenca,
+              classe_predita: data.classe,
+              classe_correta: classeCorretaSelect.value,
+            }),
+          });
+          const resposta = await res.json();
+          feedbackMensagem.textContent = resposta.mensagem || resposta.detail;
+          feedbackMensagem.className = "message-box " + (res.ok ? "concluido" : "erro") + " feedback-message";
+          feedbackMensagem.style.display = "block";
+          if (res.ok) {
+            consultarStatusTreino();
+            btnEnviarFeedback.textContent = "Correção enviada";
+          } else {
+            btnEnviarFeedback.disabled = false;
+          }
+        } catch (e) {
+          feedbackMensagem.textContent = "Não foi possível enviar a correção.";
+          feedbackMensagem.className = "message-box erro feedback-message";
+          feedbackMensagem.style.display = "block";
+          btnEnviarFeedback.disabled = false;
+        }
+      });
     } catch (e) {
       classificarErro.textContent = "Não foi possível conectar à API.";
       classificarErro.style.display = "block";
